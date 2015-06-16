@@ -122,9 +122,7 @@
           <div class="specialtycontent">
 
             <!-- Add Events Here -->
-            <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-            <p><a href="/events/index.php#051415">New Moodle Course</a><br />05/14/2015</p>
-
+            <p><a href="/events/index.php">No Upcoming Events</a><br /></p>
             <p class="more"><a href="/events/index.php">View more...</a></p>
 
           </div> <!-- specialtycontent -->
