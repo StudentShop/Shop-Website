@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background: white;
+    font-size: 16pt;
+    font-family:"Times New Roman", Times, serif;
+}
+
+#wrapper, #container, #MainContent  {
+
+    width: auto;
+    margin: 0 5%;
+    padding: 0;
+    border: 0;
+    float: none !important;
+    color: black;
+    background: transparent none;
+}
+
+.BannerBackground {
+    display: none;
+}
+
+#NavAlign {
+    display: none;
+    margin-top: -16px;
+}
+
+div#container {
+    margin-left: 10%;
+    padding-top: 1em;
+    border-top: 1px solid #930;
+}
+
+div#MainContent {
+    background: white;
+    font-size: 16pt;
+    font-family:"Times New Roman", Times, serif;
+}
+
+div#leftNav {
+    display: none;
+    float: none;
+}
+div#rightNav {
+    display: none;
+    float: none;
+}

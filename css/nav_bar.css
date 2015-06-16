@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+html { min-height: 100%; margin-bottom: 1px; }
+#nav {          /* set general values for the nav */
+    position: relative;
+    top: 0px;
+    height: 25px;
+}
+
+
+#nav li ul {            /* set general values for UL elements on the list    */
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav a {
+    text-decoration: none;
+}
+
+#nav li { /*float each list item to the left on the same line with proper padding in both the NAV and SUBNAV items */
+    margin: 0px;
+    float:left;
+    display: block;
+    padding-right: 50px;
+    padding-left: 0px;
+    text-align:center;
+}
+
+#nav li.home {
+    margin: 0px 0px 0px 7px;
+}
+
+
+#nav li ul { /*hide the SUBNAV items  */
+    display: none;
+}
+
+
+#nav li a { /* properties for the links in the NAV and SUBNAV */
+    display:block;
+    position:relative;
+    color:#900000;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1em;
+    display: block;
+    padding: 0px;
+    height: 26px;
+}
+
+
+
+#nav li ul, #nav li.on ul  { /*put the subnav below for all SUBNAV items either on or off*/
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background-color:#ede2d1;       /* necessary to cover/hide the active (ON) SUBNAV items when other NAV items are moused over */
+    background-image:url(../images/diagonal-line-SubNav.gif);
+    padding: 4px 4px 0px 4px;
+    width: 950px;
+    margin-left: -5px;
+}
+
+
+#nav li.on ul {                 /* sets the SUBNAV background color for the ON item and leaves it there         */
+    background: transparent;
+}
+
+
+
+#nav li.on a {          /*sets the properties for the ON item and leaves it*/
+    color: #900000;
+    background-color:#ede2d1;
+    background-image:url(../images/diagonal-line-SubNav.gif);
+    background-repeat:repeat;
+    padding: 0px 8px 4px 8px;
+}
+
+
+#nav li {
+    padding-top: 4px;
+}
+
+#nav li ul a {          /* sets the properties of the SUBNAV items for both the ON and OFF subnav items         */
+    border: 0;
+    float: left; /*ie doesn't inherit the float*/
+    width: auto;
+    margin-right: 5px;
+}
+
+#nav li.on ul {
+    display: block;                 /*sets the block view for the li in the SUBNAV          */
+    padding: 4px 0px 4px 0px;
+}
+
+
+#nav li.on ul li.on a {                 /* sets  the color for the ON item in the SUBNAV        */
+    color:#AA6600;
+    background-color:#f7efe7;
+    border-bottom: 2px solid #f7efe7;
+    padding-bottom: 0px;
+    padding-top: 4px;
+    margin-left:5px;
+}
+
+#nav li:hover ul, #nav li.over ul {
+    display: block;                 /*sets the block view for hover and over in OFF items on the LI in the SUBNAV           */
+    z-index: 6000;
+    background-color:#ede2d1;
+    background-image:url(../images/diagonal-line-SubNav.gif);
+    background-repeat:repeat;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0px;
+    max-height: 26px;
+}
+
+#nav li a:hover, #nav li.on a:hover {
+    color: #cc9933;                 /*sets the link color for hover in the NAV and SUBNAV           */
+}
+
+#nav li ul a, #nav li.on ul li a {
+    display: block;
+    background: transparent;                /*needed so that the the bottom won't overlap the SUBNAV bottom border for all items    */
+    font-weight: bold;
+    color: #000000;
+    font-size: small;
+    padding: 0px 7px 0px 7px;
+    vertical-align:middle;
+}
+#nav li.on ul li.on a {
+    margin-top: -8px;
+    padding-top: 8px;
+}

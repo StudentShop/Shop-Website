@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+.galleria_container {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.jcarousel-skin-gallery .jcarousel-container {
+    margin: 0 auto;
+}
+
+.jcarousel-skin-gallery .jcarousel-container-horizontal {
+    width: 525px;
+    padding: 0 40px 20px;
+}
+
+.jcarousel-skin-gallery .jcarousel-clip-horizontal {
+    width:  525px;
+    height: 75px;
+}
+
+.jcarousel-skin-gallery .jcarousel-item {
+    width: 75px;
+    height: 75px;
+
+}
+
+.jcarousel-skin-gallery .jcarousel-item-placeholder {
+    background: #fff;
+    color: #000;
+}
+
+/* Horizontal Buttons */
+
+.jcarousel-skin-gallery .jcarousel-next-horizontal, .jcarousel-next-horizontal a#next_btn {
+    position: absolute;
+    top: 25px;
+    right: 5px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(carousel-buttons.gif) no-repeat 5px -43px;
+}
+.jcarousel-next-horizontal a#next_btn {
+    top: 0;
+    left: 0;
+    width: 16px;
+    background-position: 5px -43px;
+}
+
+.jcarousel-skin-gallery .jcarousel-next-horizontal:hover, .jcarousel-next-horizontal a#next_btn:hover {
+    background-position: 5px 10px;
+}
+
+.jcarousel-skin-gallery .jcarousel-next-horizontal:active, .jcarousel-next-horizontal a#next_btn:active {
+    background-position: 5px 10px;
+}
+
+.jcarousel-skin-gallery .jcarousel-next-disabled-horizontal,
+.jcarousel-skin-gallery .jcarousel-next-disabled-horizontal:hover,
+.jcarousel-skin-gallery .jcarousel-next-disabled-horizontal:active {
+    cursor: default;
+    background-position: 5px -95px;
+}
+
+.jcarousel-skin-gallery .jcarousel-prev-horizontal, .jcarousel-prev-horizontal a#prev_btn {
+    position: absolute;
+    top: 25px;
+    left: 5px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url(carousel-buttons.gif) no-repeat 4px -68px;
+}
+.jcarousel-prev-horizontal a#prev_btn {
+    top: 0;
+    left: 16px;
+    width: 16px;
+    background-position: -12px -68px;
+}
+
+.jcarousel-skin-gallery .jcarousel-prev-horizontal:hover {
+    background-position: 4px -15px;
+}
+.jcarousel-prev-horizontal a#prev_btn:hover {
+    background-position: -12px -15px;
+}
+
+.jcarousel-skin-gallery .jcarousel-prev-horizontal:active {
+    background-position: 4px -15px;
+}
+.jcarousel-prev-horizontal a#prev_btn:active {
+    background-position: -12px -15px;
+}
+
+.jcarousel-skin-gallery .jcarousel-prev-disabled-horizontal,
+.jcarousel-skin-gallery .jcarousel-prev-disabled-horizontal:hover,
+.jcarousel-skin-gallery .jcarousel-prev-disabled-horizontal:active {
+    cursor: default;
+    background-position: 4px -120px;
+}

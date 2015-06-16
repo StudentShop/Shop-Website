@@ -1,0 +1,203 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Forces slider to hide slides that aren't supposed to be showing */
+.mscarousel {overflow:hidden}
+.mscarousel .child{position:relative;}
+
+
+/*Used by page to make the different slides horizontally laid out instead of vertical, this allows the slide*/
+.mscarousel .child .set, .mscarousel .set{float:left; position:relative;}
+
+
+
+/*Affects gallery styles, not including the thumbnails portion*/
+.mainGallery {
+    color:#fff;
+    font:Arial, Helvetica, sans-serif;
+    width:709px;
+    margin:0 auto;
+    margin: 0px 0px 20px -15px;
+    border: 1px solid #d1bd98;
+    padding-bottom: 20px;
+}
+
+
+/*Affects "h2" tag in gallery*/
+.mainGallery h2 {
+    font-size:20px;
+    color:#7f0000;
+    margin:0;
+    padding:3px 0;
+    display: inline;
+}
+
+
+/*Affects "h5" tag in gallery*/
+.mainGallery h5 {
+    font-size:16px;
+    color:#7f0000;
+    margin:0;
+    padding:3px 0 0;
+    font-weight:normal;
+    font-weight: bold;
+    display: inline;
+}
+
+
+/*Affects alignment of large image*/
+.mainGallery .left, .mainGallery .right {
+    padding: 10px 13px 10px 10px;
+}
+
+
+/*Affects the text in the gallery below the specifications or h5*/
+.mainGallery .imgCaption {
+    font-size:16px;
+    width:340px;
+    color: black;
+    position:relative;
+    padding-top:400px;
+    padding-left: 17px;
+    font-weight: bold;
+}
+
+
+/*Width is of actual slide.  Think of the list of images as one large image, this is the width for one particular section*/
+.mainGallery .imgImage {
+
+}
+
+
+/*Affects borders surrounding the large image*/
+.mainGallery .borderLR {
+    border-left:1px solid #F7EFE7;
+    border-right:1px solid #F7EFE7;
+}
+
+
+
+/* sets the width for the message <p class="message"> under the picture.*/
+.mainGallery .message {
+    display:block;
+    max-width:530px;
+}
+
+
+/*Affects the "Next" and "Previous" buttons on the left and right of the large image*/
+.mainGallery .nextPreviousBig {
+    position:relative;
+    height:41px;
+    width:33px;
+    background-image:url(../capabilities/images/arrows_black.gif);
+    background-repeat: no-repeat;
+    text-indent:-999999px;
+}
+
+
+/*Affects the "Next" button on the right of the large image*/
+.mainGallery .nextBig {
+    background-position:-33px 0;
+    float: right;
+    top: 150px;
+}
+/*Affects the "Previous" button on the left of the large image*/
+.mainGallery .previousBig {
+    background-position:0 0;
+    float:left;
+    margin-top: 150px;
+}
+
+
+/*Affects the "Next" and "Previous" buttons on the left and right of the thumbnails*/
+.mainGallery .nextPrevious {
+    position:relative;
+    height:41px;
+    width:33px;
+    background:url(../capabilities/images/arrows.gif) no-repeat;
+    text-indent:-999999px;
+    margin-top: 20px;
+}
+
+
+/*Affects the "Next" button on the right of the thumbnails*/
+.mainGallery .next {
+    background-position:-33px 0;
+    float:right;
+}
+
+
+/*Affects the "Previous" button on the left of the thumbnails*/
+.mainGallery .previous {
+    background-position:0 0;
+    float:left;
+    left:10px;
+    top: -11px;
+}
+
+
+/*Changes Background color of top thumbnails, .footer is misleading but disregard that*/
+.mainGallery .footer {
+    background-color: #eadaca;
+
+}
+
+
+/*Flats thumbnails to the left*/
+.mainGallery .gallerythumb {
+    float:left;
+    margin: 0px 0px 30px 0px;
+}
+
+
+/*Affect both lists in the message area and bullets on the thumbnails list*/
+.mainGallery li {
+    display:inline;
+    margin-left: 3px;
+    text-align:center;
+    float:left;
+    position:relative
+}
+
+
+/*Allows li to display normally without conflicting with .mainGallery li*/
+.mainGallery .imgCaption li {
+    clear:both
+}
+
+
+/*Border for Thumbnail Images while NOT selected*/
+.mainGallery li img {
+    border:1px solid #d1bd98;
+}
+
+
+/*Border for Thumbnail Images while selected*/
+.mainGallery li.active img {
+    margin-bottom:-3px;
+    border:2px solid #7f0000;
+}
+
+
+.right {
+    vertical-align: top;
+    top: 9px;
+}
+
+#MainContent #mainGallery img {
+    float: none;
+}
+
+#MainContent .message {
+    padding-left: 0px;
+}
+
+#MainContent .mainGallery ul {
+    padding-left: 8px;
+}
+
+#MainContent .imgImage img {
+    padding: 0px;
+    margin: 16px 16px 16px -2px;
+    border: 18px solid #2b1a00;
+}

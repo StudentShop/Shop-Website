@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" >
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" /> 
+
+<!-- ****************************************************************************
+**********															*************
+**********		INSERT PAGE TITLE BELOW within quotations!!!! 		*************
+**********		Title should be the same as the <h1> tag below 		*************
+**********															*************
+*********************************************************************************	-->
+				<?php $subtitle = "Welding 2 Seminar";?>
+
+            
+	<?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
+
+<!-- ************************* 				End of Navigation Items 			****************************  -->
+
+<div id="wrapper">		<!-- wrapper sets the content area including the left nav, middle (main content), and right nav  -->
+			
+	<div id="leftNav">
+
+		<?php include ("../../permit_left_nav.php") ?> <!-- Left Navigation in the include file -->
+
+		<h2 class="subnav2"><span>Related Links</span></h2>
+			<ul>
+				<li><a href="/permit/info/upgrades/welding_2.php">Welding 2 Upgrade</a></li>
+            		</ul>
+      </div> <!-- END OF LEFT NAV DIV -->
+
+	<div id="MainContent"> <!-- sets the main content (middle column area) -->
+
+	  <h1>Welding 2 Seminar</h1>
+      
+      	<h2>Overview</h2>
+        	<p><strong>Lab 1:</strong></p>
+                <p>Students will be taught the basics of TIG welding steel. This will include training in machine set-up, use of filler rod, and fusion welding beads, butt joints, lap joints, and T-welds.</p>
+            <p><strong>Lab 2:</strong></p>
+            	<p>Students will be taught the basics of TIG welding aluminum. This will include training on machine set-up, use of filler rod and welding beads, butt joints, lap joints, and T-welds.<p>
+         
+         <h2>Duration</h2>
+         	<p><strong>Lab 1:</strong> ~3.5 hours</p>
+            <p><strong>Lab 2:</strong> ~3.5 hours</p>
+            
+        <h2>Prerequisites</h2>
+        	<p>(must be completed in order)</p>
+        	<ul>            	
+            	<li>Green shop permit</li>
+                <li>Welding 1 upgrade</li>
+                <li>Apply for the <a href="/permit/info/upgrades/welding_2.php">welding 2 upgrade</a>&#42;</li>
+                <li><a href="https://special.moodle.wisc.edu/prod/course/view.php?id=67" rel="external">Complete the welding 2 quiz</a></li>
+            </ul>
+            
+         <h2>Requirements</h2>
+            <ul>
+                <li><a href="https://emu.engr.wisc.edu/emu" rel="external">Enroll in the welding 2 seminar</a>&#42;</li></li>
+                <li>Students must come wearing shop appropriate clothing as defined by the <a href="/about/safetyanduse.php#appClothing">shop safety policy</a></li>
+		<li>Arrive on time. Individuals who show up more than five minutes late will be marked as absent.</li>
+            </ul>
+            <p>&#42;Individuals will only be able to sign up for seminars &amp; upgrades for which they have completed the prerequisites.</p>
+            
+         <h2>How to Enroll</h2>
+        	<p>Seminar dates, times, and locations are posted in EMU under the <a href="https://emu.engr.wisc.edu/emu" rel="external">"My Status"</a> page. If no seminars are currently available you may add yourself to the waiting list. When a seminar becomes available you will recieve an email notifying you that you can now enroll (the wait list does not automatically enroll you). You will only be able to see seminars for which you have completed the prerequisites.</p>
+            <br />
+            
+	</div> <!-- END OF MAINCONTENT -->	
+
+</div> <!-- END OF WRAPPER -->
+
+<?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
+
+</body>
+</html>

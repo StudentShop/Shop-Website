@@ -1,0 +1,9 @@
+#Robots.txt on the test server shouldn't be the same as on the live server
+/robots.txt
+
+#vim creates .swp temp files, these don't need to be commited
+*.swp
+
+#letting the world see the .htaccess file is a security risk
+.htaccess
+
