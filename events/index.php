@@ -38,11 +38,11 @@
 
             <div id="events">
 
-            <!--<h2>No upcoming events.<h2>-->
+            <h2>No upcoming events.<h2>
            
-            <h2><a name="051415"></a>New Moodle Course</h2>
+               <!--<h2><a name="051415"></a>Title</h2>
                 <h3>05/14/15</h3>
-                    <p>The Student Shop has switched to an updated Moodle course. The old course (https://courses.moodle.wisc.edu/prod/course/view.php?id=624) is deprecated but will be available for the next 45 days. Quizzes should now be completed in the new course (<a href="https://special.moodle.wisc.edu/prod/course/view.php?id=67">https://special.moodle.wisc.edu/prod/course/view.php?id=67</a>. Any individuals with questions or concerns regarding the change should <a href="/about/contact.php">contact the shop</a>.</p> 
+                    <p></p>--> 
 
             </div> <!-- END OF EVENTS -->
 
