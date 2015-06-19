@@ -37,7 +37,8 @@
 		<h1>Wood Working Training</h1>
         	
             <h2>Overview</h2>
-            	<p>Although most of the work done in the Student Shop involves metalworking, basic woodworking is also done. To this end the Student Shop has a wood shop. You will find almost everything common to a wood shop. The exceptions being a planer, jointer, and wood lathe. To see what equipment is in the wood shop check out the <a href="/capabilities/index.php">capabilites page</a>.</p>
+            	<p>Although most of the work done in the Student Shop involves metalworking, basic woodworking is also possible. To this end the Student Shop has a wood working area. You will find almost everything common to a wood shop, the exception being the lack of a wood lathe. To see what equipment is in the wood shop check out the <a href="/capabilities/machines/wood/index.php">capabilites page</a>.</p>
+                <p>In addition to the learning material on this website, the shop also offers in-person training in the use of basic wood working equipment. You can <a href="/permit/info/upgrades/index.php">see available shop training here</a>.</p>
             
 	</div> <!-- END OF MAINCONTENT -->
 	
