@@ -12,9 +12,9 @@
 				<?php $subtitle = "CNC Mill 3 Upgrade";?>
 
             
-		<?php include ("../../../functions.php") ?>
- 		<?php include("../../../header.php"); ?>
-		<?php include("../../../main_nav.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
 
 <!-- ************************* 				End of Navigation Items 			****************************  -->
 
@@ -63,9 +63,9 @@
         <p>(to be completed in order)</p>
         <ul>
           <li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the CNC Mill 3 upgrade</a>&#42;</li>
-	  <li>Watch the <a href="http://www.youtube.com/playlist?list=PLR0Xdgs8lIrRARTeHkNm_LfUPkbM3ZA6p" rel="external">CNC Mill 3 screencast</a> (<a href="/permit/docs/RedPart.zip">Parasolid example</a>)</li>
-	  <li>Draw, program, and machine <a href="/permit/docs/cnc3test1.PDF">test piece 1</a></li>
-	  <li>Draw, program, and machine <a href="/permit/docs/cnc3test2.PDF">test piece 2</a></li>
+	  <li>Watch the <a href="https://www.youtube.com/playlist?list=PLR0Xdgs8lIrTKZJFsokOoGvDgxp6kfegT" rel="external">CNC Mill 3 screencast</a></li>
+	  <li>Program, and machine test piece 1: <a href="/permit/docs/cnc3test1.SLDPRT">Solidworks model</a>, <a href="/permit/docs/cnc3test1.PDF">Print</a></li>
+	  <li>Program, and machine test piece 2: <a href="/permit/docs/cnc3test2.SLDPRT">Solidworks model</a>, <a href="/permit/docs/cnc3test2.PDF">Print</a></li>
         </ul>
         <p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
             
@@ -79,9 +79,7 @@
 
 </div> <!-- END OF WRAPPER -->
 
-<?php include("../../../footer.php"); ?>
-
-
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 
 </body>
 </html>
