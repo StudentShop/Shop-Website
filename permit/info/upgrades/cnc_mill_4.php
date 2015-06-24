@@ -11,10 +11,9 @@
 *********************************************************************************	-->
 				<?php $subtitle = "CNC Mill 4 Upgrade";?>
 
-            
-		<?php include ("../../../functions.php") ?>
- 		<?php include("../../../header.php"); ?>
-		<?php include("../../../main_nav.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
 
 <!-- ************************* 				End of Navigation Items 			****************************  -->
 
@@ -63,9 +62,7 @@
         <p>(to be completed in order)</p>
         <ul>
           <li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the CNC Mill 4 upgrade</a>&#42;</li>
-	  <li><strong>Coming soon! </strong>Follow the <a href="" rel="external">CNC Mill 4 screencast</a></li>
-	  <li><strong>Coming soon! </strong>Draw, program, and machine <a href="">test piece 1</a></li>
-	  <li><strong>Coming soon! </strong>Draw, program, and machine <a href="">test piece 2</a></li>
+	  <li><a href="/about/contact.php">Contact the Student Shop</a> to arrange training</li>
         </ul>
         <p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
             
@@ -79,7 +76,7 @@
 
 </div> <!-- END OF WRAPPER -->
 
-<?php include("../../../footer.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 
 </body>
 </html>
