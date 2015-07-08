@@ -4,16 +4,16 @@
     <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 
     <!-- ****************************************************************************
-         **********                                                     *************
-         **********    INSERT PAGE TITLE BELOW within quotations!!!!    *************
-         **********   Title should be the same as the <h1> tag below    *************
-         **********                                                     *************
+         **********                                                                                               *************
+         **********    INSERT PAGE TITLE BELOW within quotations!!!!               *************
+         **********   Title should be the same as the <h1> tag below                         *************
+         **********                                                                                               *************
          **************************************************************************** -->
     <?php $subtitle = "Shop Information";?>
 
-    <?php include ("../functions.php") ?>
-    <?php include("../header.php"); ?>
-    <?php include("../main_nav.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
 
     <!-- ************************* End of Navigation Items ****************************  -->
 
@@ -39,20 +39,57 @@
         <h1>Shop Information</h1>
 
         <h2>Overview</h2>
-        <p>The College of Engineering Student Machine Shop is located in the Engineering Centers Building on the beautiful University of Wisconsin campus. The Student Shop provides Unveristy of Wisconsin engineering students with the majority of the tools and equipment found in a modern machine shop. The shop is equipped with both manual and CNC mills and lathes, drill presses, grinders, belt sanders, band saws, and additional equipment used in various educational training/manufacturing operations. The shop also houses a full wood shop, welding lab and sheet metal lab. A staff comprised of both professional instrument makers and trained students are available to assist and educate engineering students engaged in work in the shop. These resources are used to support the instructional and research goals of the University of Wisconsin's College of Engineering.</p>
-        <p>Note to educators: Because the Student Shop's target audience is engineering students, the training material on this site may differ slightly from what a machinist in industry might recommend or be familiar with. Our training focuses on creating one-off prototype parts and safety. If reusing information on this site for training elsewhere bear in mind it may not be the best method of instruction for non-engineering students.</p>
+          <p>The College of Engineering Student Machine Shop is
+        located in the Engineering Centers Building on the beautiful University
+        of Wisconsin campus. The Student Shop provides Unveristy of Wisconsin
+        engineering students with the majority of the tools and equipment found
+        in a modern machine shop. The shop is equipped with both manual and CNC
+        mills and lathes, drill presses, grinders, belt sanders, band saws, and
+        additional equipment used in various educational training/manufacturing
+        operations. The shop also houses a full wood shop, welding lab and sheet
+        metal lab. A staff comprised of both professional instrument makers and
+        trained students are available to assist and educate engineering
+        students engaged in work in the shop. These resources are used to
+        support the instructional and research goals of the University of
+        Wisconsin's College of Engineering.</p>
 
         <h2>Mission Statement</h2>
-        <p>To support the educational and research programs of the College of Engineering by providing students with the opportunity for a safe, hands-on fabrication experience in a modern machine shop.</p>
+          <p>To support the educational and research
+        programs of the College of Engineering by providing students with the
+        opportunity for a safe, hands-on fabrication experience in a modern
+        machine shop.</p>
+
+        <h2>Note to Educators</h2>
+          <p>Because the Student Shop's target
+        audience is engineering students, the training material on this site may
+        differ slightly from what a machinist in industry might recommend or be
+        familiar with. Our training focuses on creating one-off prototype parts
+        and safety. If reusing information on this site for training elsewhere
+        bear in mind it may not be the best method of instruction for
+        non-engineering students.</p>
+
+          <p>In keeping with the <a href="http://wisconsinidea.wisc.edu/"
+          rel="external">Wisconsin Idea</a>, we try to make as much of our
+          training publicly available as possible. In additon to the content on
+          this website, we also have additional content on <a
+          href="https://github.com/StudentShop">Github</a>.</p>
 
         <h2>Disclaimer of Liability</h2>
-        <p>The University of Wisconsin-Madison, in accordance with the <a href="http://wisconsinidea.wisc.edu/" rel="external">Wisconsin Idea</a>, presents the information on this web site as a service to the university community and other internet users. While information on this site is about proper machine shop practices, it is not a substitute for formal training. Moreover, we make no warranty or guarantee concerning the accuracy or reliability of the content at this site or at other sites to which we link.</p>
+          <p>The University of
+        Wisconsin-Madison, in accordance with the <a
+        href="http://wisconsinidea.wisc.edu/" rel="external">Wisconsin Idea</a>,
+        presents the information on this web site as a service to the university
+        community and other internet users. While information on this site is
+        about proper machine shop practices, it is not a substitute for formal
+        training. Moreover, we make no warranty or guarantee concerning the
+        accuracy or reliability of the content at this site or at other sites to
+        which we link.</p>
 
       </div> <!-- END OF MAINCONTENT -->
 
     </div> <!-- END OF WRAPPER -->
 
-    <?php include("../footer.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 
   </body>
 </html>
