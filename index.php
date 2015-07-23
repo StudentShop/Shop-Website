@@ -121,7 +121,8 @@
           <div class="specialtycontent">
 
             <!-- Add Events Here -->
-            <p><a href="/events/index.php">No Upcoming Events</a><br /></p>
+            <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
+            <p><a href="/events/index.php#081715">Shop Closed</a><br />08/17/15 - 08/21/15</p>
             <p class="more"><a href="/events/index.php">View more...</a></p>
 
           </div> <!-- specialtycontent -->

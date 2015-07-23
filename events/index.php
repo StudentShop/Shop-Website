@@ -38,11 +38,15 @@
 
             <div id="events">
 
-            <h2>No upcoming events.<h2>
-           
+            <!--<h2>No upcoming events.<h2>-->
+
                <!--<h2><a name="051415"></a>Title</h2>
                 <h3>05/14/15</h3>
-                    <p></p>--> 
+                    <p></p>-->
+
+                    <h2><a name="081715"></a>Shop Closed</h2>
+                     <h3>08/17/15 - 08/21/15</h3>
+                         <p>The shop will be closed the week of August 17th to perform yearly maintenance.</p>
 
             </div> <!-- END OF EVENTS -->
 

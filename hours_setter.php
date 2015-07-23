@@ -5,7 +5,7 @@
 ################################################################################
 
 //Set date ranges for alternative hours here
-//Full timestamp necessary YYYY-MM-DD HH:MM:SS 
+//Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
     ["2015-06-29 00:00", "2015-07-03 23:59:59"],
 ];
@@ -16,7 +16,7 @@ $alternative_hours_1 = '<p>Mon-Thurs: 8am to 4pm<br />
    Weekend: Closed</p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
-//Full timestamp necessary YYYY-MM-DD HH:MM:SS 
+//Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
     ["2015-05-23 00:00", "2015-05-29 23:59:59"],
 ];
@@ -27,10 +27,10 @@ $alternative_hours_2 = '<p>Monday: Closed<br />
    Weekend: Closed</p>';
 
 //Set date ranges for the shop being closed all week below
-//NOT FOR INDIVIDUAL DAYS!, use alt_hours_1 & alt_hours_2 for that 
+//NOT FOR INDIVIDUAL DAYS!, use alt_hours_1 & alt_hours_2 for that
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $shop_closed = [
-    ["2014-05-18 00:00", "2014-05-18 23:59:59"],
+    ["2015-08-15 00:00", "2015-08-21 23:59:59"],
 ];
 
 //Shop closed all week
@@ -77,7 +77,7 @@ $break_hours = '<p>Mon-Fri: 8am to 4pm<br />
 
 //Returns TRUE if today falls between the first timestamp and the second timestamp as defined by $timestamp_range
 function today_in_range($timestamp_range) {
-    
+
     $length = count($timestamp_range);
     reset($timestamp_range);
     for ($i = 0; $i < $length; $i++) {
@@ -85,9 +85,9 @@ function today_in_range($timestamp_range) {
             return TRUE;
         }
     }
-}    
+}
 
-/* 
+/*
 Sadly this slightly nicer version only works in PHP 5.5, which we don't have yet. :(
 
 //Returns true if today falls between start timestamp and end timestamp as defined by $timestamp_range
@@ -102,7 +102,7 @@ function today_in_range($timestamp_range) {
 
 //Find out what the shop hours should be set to today and then display them.
 //Note: this should be obvious, but these statements must be in this order
-if (today_in_range($shop_closed)) { 
+if (today_in_range($shop_closed)) {
     echo $closed;
 } elseif (today_in_range($alt_hours_1)) {
     echo $alternative_hours_1;
@@ -110,7 +110,7 @@ if (today_in_range($shop_closed)) {
     echo $alternative_hours_2;
 } elseif (today_in_range($sem_hours)) {
     echo $semester_hours;
-} else {   
+} else {
     echo $break_hours;
 }
 
