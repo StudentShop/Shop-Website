@@ -48,7 +48,7 @@
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="joelb"></a>Joel Ballweg</p>
-              <p>Instrument Maker – Specialist<br />
+              <p>Instrument Maker - Specialist<br />
                 <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
                 Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#50;&#54;&#50;&#45;&#50;&#54;&#49;&#53;">(&#54;&#48;&#56;) &#50;&#54;&#50;&#45;&#50;&#54;&#49;&#53;</a><br />
                 Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#106;&#111;&#101;&#108;&#46;&#98;&#97;&#108;&#108;&#119;&#101;&#103;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#106;&#111;&#101;&#108;&#46;&#98;&#97;&#108;&#108;&#119;&#101;&#103;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
@@ -59,7 +59,7 @@
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="tomw"></a>Tom Wirth</p>
-              <p>Instrument Maker – Specialist<br />
+              <p>Instrument Maker - Specialist<br />
                 <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
                 Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;">(&#54;&#48;&#56;) &#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;</a><br />
                 Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#104;&#111;&#109;&#97;&#115;&#46;&#119;&#105;&#114;&#116;&#104;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#116;&#104;&#111;&#109;&#97;&#115;&#46;&#119;&#105;&#114;&#116;&#104;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
@@ -70,7 +70,7 @@
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="markr"></a>Mark Richardson</p>
-              <p>Instrument Maker – Specialist<br />
+              <p>Instrument Maker - Specialist<br />
                 <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
                 Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;">(&#54;&#48;&#56;) &#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;</a><br />
                 Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#114;&#107;&#46;&#114;&#105;&#99;&#104;&#97;&#114;&#100;&#115;&#111;&#110;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#109;&#97;&#114;&#107;&#46;&#114;&#105;&#99;&#104;&#97;&#114;&#100;&#115;&#111;&#110;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
@@ -81,7 +81,7 @@
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="&#99;&#104;&#97;&#114;&#108;&#101;&#115;&#97;"></a>C&#104;&#97;&#114;&#108;&#101;&#115; A&#108;&#108;&#104;&#97;&#110;&#100;&#115;</p>
-              <p>Instrument Maker – Entry<br />
+              <p>Instrument Maker - Journey<br />
                 <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
                 Phone: <a href="&#116;&#101;&#108;&#58;&#54;&#48;&#56;&#45;&#50;&#54;&#49;&#45;&#49;&#49;&#56;&#50;">(&#54;&#48;&#56;) &#50;&#54;&#49;&#45;&#49;&#49;&#56;&#50;</a><br />
                 Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#104;&#97;&#114;&#108;&#101;&#115;&#46;&#97;&#108;&#108;&#104;&#97;&#110;&#100;&#115;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#99;&#104;&#97;&#114;&#108;&#101;&#115;&#46;&#97;&#108;&#108;&#104;&#97;&#110;&#100;&#115;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
@@ -92,7 +92,7 @@
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="mikeh"></a>Mike Hughes</p>
-              <p>Instrument Maker – Specialist<br />
+              <p>Instrument Maker - Specialist<br />
                 <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
                 Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#50;&#54;&#50;&#45;&#50;&#54;&#49;&#53;">(&#54;&#48;&#56;) &#50;&#54;&#50;&#45;&#50;&#54;&#49;&#53;</a><br />
                 Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#105;&#107;&#101;&#46;&#104;&#117;&#103;&#104;&#101;&#115;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#109;&#105;&#107;&#101;&#46;&#104;&#117;&#103;&#104;&#101;&#115;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
@@ -103,7 +103,7 @@
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="erice"></a>Eric Ellefsen</p>
-              <p>Instrument Maker – Journey<br />
+              <p>Instrument Maker - Journey<br />
                 <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
                 Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;">(&#54;&#48;&#56;) &#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;</a><br />
                 Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#114;&#105;&#99;&#46;&#101;&#108;&#108;&#101;&#102;&#115;&#101;&#110;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#101;&#114;&#105;&#99;&#46;&#101;&#108;&#108;&#101;&#102;&#115;&#101;&#110;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
@@ -137,7 +137,7 @@
             </li>
             <img src="images/daina.jpg" alt="image of Dain Anderson"/>
             <div style="clear:both;"></div>
-            
+
             <li><p class="name"><a name="davidh"></a>David Hennes</p>
               <p>Student Shop Technician</br >
 	            Instructor</p>
@@ -196,7 +196,7 @@
             </li>
             <img src="images/liamw.jpg" alt="image of a Liam West"/>
             <div style="clear:both;"></div>
-	    
+
 	        <li><p class="name"><a name="lucasb"></a>Lucas Benish</p>
                 <p>Student Shop Technician</p>
             </li>
@@ -214,13 +214,13 @@
             </li>
             <img src="images/cullenb.jpg" alt="image of Cullen Billhartz"/>
             <div style="clear:both;"></div>-->
-            
+
 	        <!--<li><p class="name"><a name="tedv"></a>Ted Vaala</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/tedv.jpg" alt="image of Ted Vaala"/>
             <div style="clear:both;"></div>-->
-            
+
 	        <li><p class="name"><a name="kevinr"></a>Kevin Rogers</p>
                 <p>Student Shop Technician</p>
             </li>
@@ -249,7 +249,7 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/davidn.jpg" alt="image of David Neuser"/>
-            <div style="clear:both;"></div>--> 
+            <div style="clear:both;"></div>-->
 
            <li><p class="name"><a name="connorh"></a>Connor Hartigan</p>
                 <p>Student Shop Technician</p>
@@ -261,44 +261,44 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/elizabethk.jpg" alt="image of Elizabeth Kotoski"/>
-            <div style="clear:both;"></div>            
-            
+            <div style="clear:both;"></div>
+
             <li><p class="name"><a name="shannono"></a>Shannon Olson</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/shannono.jpg" alt="image of Shannon Olson"/>
-            <div style="clear:both;"></div> 
+            <div style="clear:both;"></div>
 
             <li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/margareth.jpg" alt="image of Margaret Heinemann"/>
-            <div style="clear:both;"></div> 
+            <div style="clear:both;"></div>
 
             <li><p class="name"><a name="owenz"></a>Owen Zwiefelhofer</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/owenz.jpg" alt="image of Owen Zwiefelhofer"/>
-            <div style="clear:both;"></div> 
-            
+            <div style="clear:both;"></div>
+
             <li><p class="name"><a name="vincents"></a>Vincent Schad</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/vincents.jpg" alt="image of Vincent Schad"/>
-            <div style="clear:both;"></div> 
-            
+            <div style="clear:both;"></div>
+
             <li><p class="name"><a name="taylorb"></a>Taylor Bauch</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/taylorb.jpg" alt="image of Taylor Bauch"/>
             <div style="clear:both;"></div>
-                                             
+
             <li><p class="name"><a name="johnr"></a>John Ryan</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/johnr.jpg" alt="image of John Ryan"</>
             <div style="clear:both;"></div>
-                                           
+
             <!--<li><p class="name"><a name=""></a></p>
                 <p>Student Shop Technician</p>
             </li>
