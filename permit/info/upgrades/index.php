@@ -13,9 +13,9 @@
 	<?php $subtitle = "Permit Upgrades";?>
 
 
-		<?php include ("../../../functions.php") ?>
-			<?php include("../../../header.php"); ?>
-				<?php include("../../../main_nav.php"); ?>
+		<?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
+			<?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+				<?php require ($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
 
 					<!-- ************************* 				End of Navigation Items 			****************************  -->
 
@@ -24,7 +24,7 @@
 
 						<div id="leftNav">
 
-							<?php include ("../../permit_left_nav.php") ?>
+							<?php require ($_SERVER['DOCUMENT_ROOT']."/permit/permit_left_nav.php") ?>
 								<!-- Left Navigation in the include file -->
 
 								<h2 class="subnav2">
@@ -54,7 +54,7 @@
 
 								<li><a href="/permit/info/upgrades/welding_3.php">Welding 3 Upgrades</a> (MIG Aluminum)</li>
 								<br />
-								<li><a href="/permit/info/upgrades/scotchman_1.php">Scotchman 1 Upgrade</a> (Ironworker)</li>
+								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 							</ul>
 
 							<h2>Green Permit Upgrades Available&#42;</h2>
@@ -65,7 +65,7 @@
 								<li><a href="/permit/info/upgrades/welding_1.php">Welding 1 Upgrade</a> (MIG)</li>
 								<li><a href="/permit/info/upgrades/welding_2.php">Welding 2 Upgrade</a> (TIG)</li>
 								<li><a href="/permit/info/upgrades/welding_3.php">Welding 3 Upgrades</a> (MIG Aluminum)</li>
-								<li><a href="/permit/info/upgrades/scotchman_1.php">Scotchman 1 Upgrade</a> (Ironworker)</li>
+								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/cnc_mill_1.php">CNC Mill 1 Upgrade</a> (Eisen: Conversational)</li>
 								<li><a href="/permit/info/upgrades/cnc_mill_2.php">CNC Mill 2 Upgrade</a> (Eisen, Trak DPM, Tormach: 2-Axis)</li>
@@ -87,7 +87,7 @@
 					</div>
 					<!-- END OF WRAPPER -->
 
-					<?php include("../../../footer.php"); ?>
+					<?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 
 						</body>
 
