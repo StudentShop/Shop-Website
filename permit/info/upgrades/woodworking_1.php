@@ -65,7 +65,7 @@
 							<p>(must be completed in order)</p>
 							<ul>
 								<li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the Woodworking 1 upgrade</a>&#42;</li>
-								<li>Enroll in and attend the <a href="/permit/info/seminars/woodworking_1.php">wood shop seminar</a></li>
+								<li>Enroll in and attend the <a href="/permit/info/seminars/woodworking_1.php">woodworking 1 seminar</a></li>
 							</ul>
 							<p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
 
