@@ -1,60 +1,77 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" >
-    <head>
-        <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 
-    <!-- ****************************************************************************
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+
+  <!-- ****************************************************************************
          **********    INSERT PAGE TITLE BELOW within quotations!!!!    *************
          **********   Title should be the same as the <h1> tag below    *************
          **********       This will be shown in the browser tab         *************
          **************************************************************************** -->
-        <?php $subtitle = "News &amp; Events";?>
+  <?php $subtitle = "News &amp; Events";?>
 
-        <?php require($_SERVER['DOCUMENT_ROOT']."/functions.php") ?>
-        <?php require($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+    <?php require($_SERVER['DOCUMENT_ROOT']."/functions.php") ?>
+      <?php require($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
         <?php require($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
-    <!-- ************************* End of Navigation Items ****************************  -->
+          <!-- ************************* End of Navigation Items ****************************  -->
 
-        <div id="wrapper" class="clear"> <!-- wrapper sets the content area including the left nav, middle (main content), and right nav -->
-      <!-- container sets where contents begin including the left nav, middle (main content), and right nav -->
+          <div id="wrapper" class="clear">
+            <!-- wrapper sets the content area including the left nav, middle (main content), and right nav -->
+            <!-- container sets where contents begin including the left nav, middle (main content), and right nav -->
             <div id="leftNav">
 
-            <?php /* include ("events_left_nav.php") */?> <!-- Left Navigation in the include file -->
-        <!-- begin right navigation items   <h2> tag is needed for formatting and accessibility purposes -->
-            <h2 class="subnav2"><span>Related Links</span></h2>
+              <?php /* include ("events_left_nav.php") */?>
+                <!-- Left Navigation in the include file -->
+                <!-- begin right navigation items   <h2> tag is needed for formatting and accessibility purposes -->
+                <h2 class="subnav2">
+                  <span>Related Links</span>
+                </h2>
                 <ul>
-                    <li><a href="http://www.map.wisc.edu/">Campus Map</a></li>
-                    <li><a href="https://rooms.engr.wisc.edu/?building=ECB">Engineering Centers Building</a></li>
-                    <li><a href="http://www.engr.wisc.edu/">College of Engineering</a></li>
+                  <li><a href="http://www.map.wisc.edu/">Campus Map</a></li>
+                  <li><a href="https://rooms.engr.wisc.edu/?building=ECB">Engineering Centers Building</a></li>
+                  <li><a href="http://www.engr.wisc.edu/">College of Engineering</a></li>
                 </ul>
-            </div> <!-- leftNav -->
+            </div>
+            <!-- leftNav -->
 
-        <div id="MainContent"> <!-- sets the main content (middle column area) -->
+            <div id="MainContent">
+              <!-- sets the main content (middle column area) -->
 
-            <h1>News &amp; Events</h1>
+              <h1>News &amp; Events</h1>
 
-            <h2>Overview</h2>
-                <p>The following is a list of news and upcoming events for the Student Shop. Upcoming seminars are not posted here. You can <a href="https://emu.engr.wisc.edu/emu_public/upcoming_seminars.php">view upcoming seminars</a> on EMU.</p>
+              <h2>Overview</h2>
+              <p>The following is a list of news and upcoming events for the Student Shop. Upcoming seminars are not posted here. You can <a href="https://emu.engr.wisc.edu/emu_public/upcoming_seminars.php">view upcoming seminars</a> on EMU.</p>
 
-            <div id="events">
+              <div id="events">
 
-            <!--<h2>No upcoming events.<h2>-->
+                <!--<h2>No upcoming events.<h2>-->
 
-               <!--<h2><a name="051415"></a>Title</h2>
+                <!--<h2><a name="051415"></a>Title</h2>
                 <h3>05/14/15</h3>
                     <p></p>-->
 
-                    <h2><a name="081715"></a>Shop Closed</h2>
-                     <h3>08/17/15 - 08/21/15</h3>
-                         <p>The shop will be closed the week of August 17th to perform yearly maintenance.</p>
+                <h2>
+                  <a name="081715"></a>Shop Closed</h2>
+                <h3>08/17/15 - 08/21/15</h3>
+                <p>The shop will be closed the week of August 17<sup>th</sup> to perform yearly maintenance.</p>
 
-            </div> <!-- END OF EVENTS -->
+                <h2>
+                  <a name="083115"></a>Shop Closed</h2>
+                <h3>08/31/15 - 09/01/15</h3>
+              <p>The shop will be closed August 31<sup>st</sup> and September 1<sup>st</sup> in order to move in new equipment.</p>
 
-        </div> <!-- END OF MAINCONTENT -->
+              </div>
+              <!-- END OF EVENTS -->
 
-    </div> <!-- END OF WRAPPER -->
+            </div>
+            <!-- END OF MAINCONTENT -->
 
-    <?php require($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
+          </div>
+          <!-- END OF WRAPPER -->
 
-    </body>
+          <?php require($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
+
+            </body>
+
 </html>

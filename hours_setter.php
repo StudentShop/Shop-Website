@@ -18,12 +18,13 @@ $alternative_hours_1 = '<p>Mon-Thurs: 8am to 4pm<br />
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
-    ["2015-05-23 00:00", "2015-05-29 23:59:59"],
+    ["2015-08-29 00:00", "2015-09-04 23:59:59"],
 ];
 
 //Set how to display alt_hours_2 here
 $alternative_hours_2 = '<p>Monday: Closed<br />
-   Tues-Fri: 8am to 4pm<br />
+   Tuesday: Closed<br />
+   Wed-Fri: 8am to 9pm<br />
    Weekend: Closed</p>';
 
 //Set date ranges for the shop being closed all week below
