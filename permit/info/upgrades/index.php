@@ -55,6 +55,7 @@
 								<li><a href="/permit/info/upgrades/welding_3.php">Welding 3 Upgrades</a> (MIG Aluminum)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
+								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
 								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
 							</ul>
 
@@ -69,6 +70,7 @@
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
+								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/cnc_mill_1.php">CNC Mill 1 Upgrade</a> (Eisen: Conversational)</li>
 								<li><a href="/permit/info/upgrades/cnc_mill_2.php">CNC Mill 2 Upgrade</a> (Eisen, Trak DPM, Tormach: 2-Axis)</li>
