@@ -56,7 +56,9 @@
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
+								<br />
 								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
+								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser cutter)</li>
 							</ul>
 
 							<h2>Green Permit Upgrades Available&#42;</h2>
@@ -70,6 +72,7 @@
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
+								<br />
 								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
 								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser cutter)</li>
 								<br />

@@ -83,6 +83,7 @@
 							<h2>Upgrades Available&#42;</h2>
 							<ul>
 								<li><a href="/permit/info/upgrades/woodworking_1.php">Woodworking 1 Upgrade</a> (Wood Saws)</li>
+								<li><a href="/permit/info/upgrades/woodworking_2.php">Woodworking 2 Upgrade</a> (Misc. equipment)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/welding_1.php">Welding 1 Upgrade</a> (MIG)</li>
 								<li><a href="/permit/info/upgrades/welding_2.php">Welding 2 Upgrade</a> (TIG)</li>
@@ -90,6 +91,8 @@
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php" <a>Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
+								<br />
+								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
 								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser cutter)</li>
 							</ul>
 							<p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
