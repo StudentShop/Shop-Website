@@ -59,6 +59,7 @@
 								<br />
 								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
 								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser cutter)</li>
+								<li><a href="/permit/info/upgrades/waterjet_1.php">Waterjet 1 Upgrade</a> (Waterjet)</li>
 							</ul>
 
 							<h2>Green Permit Upgrades Available&#42;</h2>
@@ -75,6 +76,7 @@
 								<br />
 								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
 								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser cutter)</li>
+								<li><a href="/permit/info/upgrades/waterjet_1.php">Waterjet 1 Upgrade</a> (Waterjet)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/cnc_mill_1.php">CNC Mill 1 Upgrade</a> (Eisen: Conversational)</li>
 								<li><a href="/permit/info/upgrades/cnc_mill_2.php">CNC Mill 2 Upgrade</a> (Eisen, Trak DPM, Tormach: 2-Axis)</li>

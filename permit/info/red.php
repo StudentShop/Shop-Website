@@ -94,6 +94,7 @@
 								<br />
 								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
 								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser cutter)</li>
+								<li><a href="/permit/info/upgrades/waterjet_1.php">Waterjet 1 Upgrade</a> (Waterjet)</li>
 							</ul>
 							<p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
 							<br />
