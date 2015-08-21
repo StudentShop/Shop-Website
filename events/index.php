@@ -52,14 +52,14 @@
                     <p></p>-->
 
                 <h2>
-                  <a name="081715"></a>Shop Closed</h2>
-                <h3>08/17/15 - 08/21/15</h3>
-                <p>The shop will be closed the week of August 17<sup>th</sup> to perform yearly maintenance.</p>
-
-                <h2>
                   <a name="083115"></a>Shop Closed</h2>
                 <h3>08/31/15 - 09/01/15</h3>
               <p>The shop will be closed August 31<sup>st</sup> and September 1<sup>st</sup> in order to move in new equipment.</p>
+
+              <h2>
+                <a name="090415"></a>Shop Closed</h2>
+              <h3>09/04/15</h3>
+            <p>The shop will be closed September 4<sup>th</sup> for the holiday weekend.</p>
 
               </div>
               <!-- END OF EVENTS -->
