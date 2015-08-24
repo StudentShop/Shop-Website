@@ -52,9 +52,9 @@
                     <p></p>-->
 
                 <h2>
-                  <a name="081715"></a>Shop Closed</h2>
-                <h3>08/17/15 - 08/21/15</h3>
-                <p>The shop will be closed the week of August 17<sup>th</sup> to perform yearly maintenance.</p>
+                  <a name="082415"></a>Shop Fees/Charges Policy</h2>
+                <h3>08/24/15</h3>
+                <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. Some shop users will also be charged an hourly machine reservation fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page.</p>
 
                 <h2>
                   <a name="083115"></a>Shop Closed</h2>
