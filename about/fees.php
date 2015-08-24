@@ -40,7 +40,7 @@
 
               <h1>Charges &amp; Fees</h1>
 
-              <h2>Shop Access Fee</h2>
+              <h2>Shop Materials Fee</h2>
 
               <p>Starting fall semester 2015, the College is implementing a Shop material fee of $50 (per user, per semester) to cover the costs of consumable supplies used by students when accessing the Shop for projects.</p>
 
