@@ -10,7 +10,7 @@
          **********   Title should be the same as the <h1> tag below    *************
          **********                                                     *************
          **************************************************************************** -->
-  <?php $subtitle = "Warning Policy";?>
+  <?php $subtitle = "Charges/Fees";?>
 
     <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
       <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
@@ -25,7 +25,7 @@
               <?php include ("about_policies_left_nav.php") ?>
                 <!-- Left Navigation in the include file -->
 
-                <!-- begin right navigation items   <h2> tag is needed for formatting and accessibility purposes -->
+                <!--<h2> tag is needed for formatting and accessibility purposes -->
                 <!--<h2 class="subnav2"><span>Related Links</span></h2>
             <ul>
               <li><a href="#">----</a></li>
@@ -38,27 +38,18 @@
             <div id="MainContent">
               <!-- sets the main content (middle column area) -->
 
-              <h1>Warning Policies</h1>
+              <h1>Charges &amp; Fees</h1>
 
-              <h2>Standard Rule Violations</h2>
-              <p>When a violation is committed an email warning notice will be sent out addressing the violation issue. The number of violations incurred within the
-                <em>same year</em> will be dealt with according as follows:</p>
-              <ul>
-                <li>Second violation- 30 day suspension of shop privileges</li>
-                <li>Third violation- Permanent suspension of shop privileges</li>
-              </ul>
+              <h2>Shop Access Fee</h2>
 
-              <h2>Special Rule Violations</h2>
-              <p>The following violations will result in immediate and permanent suspension of shop privileges:</p>
-              <ul>
-                <li>Using a permit under false pretenses (e.g. using a forged permit or representing someone else's permit as your own)</li>
-                <li>Aiding or abetting someone using a permit under false pretenses</li>
-              </ul>
-              <br />
-              <p>The following violations will result in a suspension of shop privileges of not less than one full semester.</p>
-              <ul>
-                <li>Deliberately misrepresenting the purpose or duration of a machine reservation so as to avoid or reduce the hourly reservation charge.</li>
-              </ul>
+              <p>Starting fall semester 2015, the College is implementing a Shop material fee of $50 (per user, per semester) to cover the costs of consumable supplies used by students when accessing the Shop for projects.</p>
+
+              <p>The College of Engineering Student Shop utilizes the engineering undergraduate differential tuition to help pay for new equipment as well as equipment maintenance and repair. Differential tuition has made it possible to increase the number of equipment pieces in the shop, keep equipment current and allow for increased access to Shop equipment for students.</p>
+
+              <p>This fee covers the cost of standard CoE Student Shop stocked consumables such as nuts, bolts, basic hardware, etc. Stockroom materials other than consumables such as copper, stainless steel, sheet metal, etc. will be charged a separate fee on a per use basis.</p>
+
+              <h2>Machine Reservation Charge</h2>
+              <p>This section will be updated once an official policy statement has been created.</p>
 
             </div>
             <!-- END OF MAINCONTENT -->

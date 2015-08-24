@@ -59,7 +59,7 @@
           <li <?php navclass('capabilities/machines/') || navclass('capabilities/index.php'); ?>><a href="/capabilities/index.php"><span>Machines</span></a></li>
           <li <?php navclass('capabilities/labs/'); ?>><a href="/capabilities/labs/index.php">Labs</a></li>
           <li <?php navclass('capabilities/purchases/'); ?>><a href="/capabilities/purchases/index.php">Purchases/Rentals</a></li>
-    	  <li <?php navclass('capabilities/3dprint/'); ?>><a href="/capabilities/3dprint/index.php">3D Printing</a></li>     
+    	  <li <?php navclass('capabilities/3dprint/'); ?>><a href="/capabilities/3dprint/index.php">3D Printing</a></li>
           <li <?php navclass('capabilities/consult/'); ?>><a href="/capabilities/consult/index.php">Design Consultation</a></li>
           <li <?php navclass('capabilities/instrshop/'); ?>><a href="/capabilities/instrshop/index.php">Instrument Shop</a></li>
         </ul>
@@ -68,7 +68,7 @@
       <li <?php navclass('/about/'); ?>><a href="/about/index.php" >About Us</a>
         <ul>
           <li <?php navclass('about/index.php') || navclass('about/hours.php') || navclass('about/contact.php') || navclass('about/location.php') ; ?>><a href="/about/index.php"><span>Shop Info</span></a></li>
-          <li <?php navclass('about/policies.php')|| navclass('about/safetyanduse.php')|| navclass('about/machinereservation.php')|| navclass('about/toolcheckinout.php')|| navclass('about/warning.php')|| navclass('about/bannedmaterials.php'); ?>><a href="/about/policies.php">Policies</a></li>
+          <li <?php navclass('about/policies.php')|| navclass('about/safetyanduse.php')|| navclass('about/machinereservation.php')|| navclass('about/toolcheckinout.php')|| navclass('about/fees.php')|| navclass('about/warning.php')|| navclass('about/bannedmaterials.php'); ?>><a href="/about/policies.php">Policies</a></li>
           <li <?php navclass('about/staff.php'); ?>><a href="/about/staff.php">Staff</a></li>
           <li <?php navclass('about/jobs.php'); ?>><a href="/about/jobs.php">Jobs</a></li>
         </ul>
