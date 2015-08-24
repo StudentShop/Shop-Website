@@ -49,7 +49,7 @@
               <p>This fee covers the cost of standard CoE Student Shop stocked consumables such as nuts, bolts, basic hardware, etc. Stockroom materials other than consumables such as copper, stainless steel, sheet metal, etc. will be charged a separate fee on a per use basis.</p>
 
               <h2>Machine Reservation Charge</h2>
-              <p>Your text here.</p>
+              <p>This section will be updated once an official policy statement has been created.</p>
 
             </div>
             <!-- END OF MAINCONTENT -->
