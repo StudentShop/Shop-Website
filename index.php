@@ -132,23 +132,14 @@
                 <div class="headerRightCol2"><a href="events/index.php">News &amp; Events</a></div>
 
                 <div class="specialtycontent">
-
-                  <!-- Add Events Here -->
-                  <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#083115">Shop Closed</a>
-                    <br />08/31/15 - 09/01/15</p>
-                  <p><a href="/events/index.php#090415">Shop Closed</a>
-                    <br />09/04/15</p>
-                  <p class="more"><a href="/events/index.php">View more...</a></p>
-
-                </div>
-                <!-- specialtycontent -->
                 <!-- Add Events Here -->
                 <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
                 <p><a href="/events/index.php#082415">Shop Fees/Charges Begin</a>
                   <br />08/24/15</p>
                 <p><a href="/events/index.php#083115">Shop Closed</a>
                   <br />08/31/15 - 09/01/15</p>
+                  <p><a href="/events/index.php#090415">Shop Closed</a>
+                    <br />09/04/15</p>
                 <p class="more"><a href="/events/index.php">View more...</a></p>
 
                 <!-- Bottom Right Featured Training Area -->
