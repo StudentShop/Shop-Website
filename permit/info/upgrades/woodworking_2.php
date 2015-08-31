@@ -10,7 +10,7 @@
 **********		Title should be the same as the <h1> tag below 		*************
 **********															*************
 *********************************************************************************	-->
-	<?php $subtitle = "Woodworking 1 Upgrade";?>
+	<?php $subtitle = "Woodworking 2 Upgrade";?>
 
 
 		<?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
@@ -31,8 +31,8 @@
 									<span>Related Links</span>
 								</h2>
 								<ul>
-									<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a></li>
-									<li><a href="/permit/info/upgrades/woodworking_2.php">Woodworking 2 Upgrade</a></li>
+									<li><a href="/permit/info/upgrades/Woodworking_1.php">Woodworking 1 Upgrade</a></li>
+									<li><a href="/permit/info/upgrades/welding_1.php">Welding 1 Upgrade</a></li>
 								</ul>
 						</div>
 						<!-- END OF LEFT NAV DIV -->
@@ -40,32 +40,33 @@
 						<div id="MainContent">
 							<!-- sets the main content (middle column area) -->
 
-							<h1>Woodworking 1 Upgrade</h1>
+							<h1>Woodworking 2 Upgrade</h1>
 
 							<h2>Overview</h2>
-							<p>The woodworking 1 upgrade is an additional amount of training individuals can take to learn the proper use of a variety of woodworking saws (<a href="https://en.wikipedia.org/wiki/Table_saw"
-								rel="external">table saw</a>, <a href="https://en.wikipedia.org/wiki/Panel_saw" rel="external">panel saw</a>, <a href="https://en.wikipedia.org/wiki/Circular_saw" rel="external">circular saw</a>, track saw, and <a href="https://en.wikipedia.org/wiki/Miter_saw"
-								rel="external">miter saw</a>) in the Student Shop. Individuals will not be allowed to use these saws until they have obtained the woodworking 1 upgrade.</p>
+							<p>The woodworking 2 upgrade is an additional amount of training individuals can take to learn how to safely use a variety of woodworking equipment (<a href="https://en.wikipedia.org/wiki/Jointer"
+								rel="external">Jointer</a>, <a href="https://en.wikipedia.org/wiki/Thickness_planer" rel="external">Thickness planer</a>, <a href="https://en.wikipedia.org/wiki/Biscuit_joiner" rel="external">biscuit joiner</a>, and <a href="https://en.wikipedia.org/wiki/Router_%28woodworking%29"
+								rel="external">router</a>) in the Student Shop. Individuals will not be allowed to use this woodworking equipment until they have obtained the woodworking 2 upgrade.</p>
 
 							<h2>Privileges</h2>
 							<ul>
-								<li>Use Shop table saws (both traditional and <a href="https://en.wikipedia.org/wiki/SawStop" rel="external">SawStop</a>)</li>
-								<li>Use the Shop panel saw</li>
-								<li>Use Shop circular saws</li>
-								<li>Use the Shop track saw</li>
-								<li>Use Shop miter saws</li>
+								<li>Use the Shop jointer</li>
+								<li>Use the Shop thickness planer</li>
+								<li>Use the Shop biscuit joiner</li>
+								<li>Use Shop wood routers</li>
 							</ul>
 
 							<h2>Prerequisites</h2>
 							<ul>
 								<li>Red or green shop permit</li>
+								<li>
+									<a href="/permit/info/upgrades/woodworking_1.php">Woodworking 1 Upgrade</a></li>
 							</ul>
 
 							<h2>Requirements</h2>
 							<p>(must be completed in order)</p>
 							<ul>
-								<li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the Woodworking 1 upgrade</a>&#42;</li>
-								<li>Enroll in and attend the <a href="/permit/info/seminars/woodworking_1.php">woodworking 1 seminar</a></li>
+								<li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the Woodworking 2 Upgrade</a>&#42;</li>
+								<li>Enroll in and attend the <a href="/permit/info/seminars/woodworking_2.php">woodworking 2 seminar</a></li>
 							</ul>
 							<p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
 
