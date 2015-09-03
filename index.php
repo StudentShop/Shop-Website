@@ -32,10 +32,10 @@
               dimensions: [420, 267],
               imagearray: [
                 //array is of the form ["image url", "url to go to  when image is clicked", "target attribute", "text displayed over image", "alt attribute" ]
-                // ["/images/pictures_homepage/welcomeBack.jpg", "/about/policies.php", "", "Welcome back!"],
-                ["/images/pictures_homepage/tormach.jpg", "http://coestudentshop.engr.wisc.edu/permit/info/upgrades/cnc_mill_2.php", "", "4-axis, small part machining now available.", "Tormach PCNC1100"],
+                ["/images/pictures_homepage/welcomeBack.jpg", "/about/policies.php", "", "Welcome back!"],
                 //["/images/pictures_homepage/pre_diff_tuition.jpg", "/about/differentialtuition.php", "", "The shop before differential tuition. Click to learn more.", "Differential tuition advertisement"],
-                ["/images/pictures_homepage/ME429F11.jpg", "http://courses.engr.wisc.edu/me/me429.html", "_new", "Engineering students learning about tool life for ME 429", "Student machining on a lathe"],
+                ["/images/pictures_homepage/markresearch.jpg", "", "", "Mark Rodarte displays a research apparatus he built to allow researchers to see R245FA while boiling.", "Student machining on a lathe"],
+                //["/images/pictures_homepage/ME429F11.jpg", "http://courses.engr.wisc.edu/me/me429.html", "_new", "Engineering students learning about tool life for ME 429", "Student machining on a lathe"],
                 ["/images/pictures_homepage/amandamic.jpg", "/training/basics/measurement.php#mic", "", "This engineering student knows how to read a micrometer, do you? Click to learn how.", "Student measuring part on lathe with micrometer"],
                 //["/images/pictures_homepage/DiffTuitionMachi.gif", "/about/differentialtuition.php", "", "Learn how differential tuition is improving your education.", "Differential tuition advertisement"],
                 ["/images/pictures_homepage/instrumentshop.jpg", "http://instrumentshop.engr.wisc.edu/", "_new", "The Instrument Shop can fabricate custom parts for students and faculty", "Instrument maker fabricating part on mill"]
