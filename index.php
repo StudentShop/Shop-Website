@@ -132,42 +132,38 @@
                 <div class="headerRightCol2"><a href="events/index.php">News &amp; Events</a></div>
 
                 <div class="specialtycontent">
-                <!-- Add Events Here -->
-                <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                <p><a href="/events/index.php#082415">Shop Fees/Charges Begin</a>
-                  <br />08/24/15</p>
-                <p><a href="/events/index.php#083115">Shop Closed</a>
-                  <br />08/31/15 - 09/01/15</p>
+                  <!-- Add Events Here -->
+                  <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
                   <p><a href="/events/index.php#090415">Shop Closed</a>
                     <br />09/04/15</p>
-                <p class="more"><a href="/events/index.php">View more...</a></p>
+                  <p class="more"><a href="/events/index.php">View more...</a></p>
 
-                <!-- Bottom Right Featured Training Area -->
+                  <!-- Bottom Right Featured Training Area -->
 
-                <img src="/images/icons/training.jpg" align="left" alt="icon: image of a gear" />
+                  <img src="/images/icons/training.jpg" align="left" alt="icon: image of a gear" />
 
-                <div class="headerRightCol"><a href="training/index.php">Featured Training</a></div>
+                  <div class="headerRightCol"><a href="training/index.php">Featured Training</a></div>
 
-                <div class="specialtycontent">
+                  <div class="specialtycontent">
 
-                  <!-- Add Featured Events Here -->
-                  <p><a href="/permit/info/upgrades/cnc_lathe_1.php">CNC lathe basics</a></p>
-                  <p><a href="/permit/info/upgrades/woodworking_1.php">Wood working powertools</a></p>
-                  <p><a href="/capabilities/3dprint/reprap.php">Simple 3D printing</a></p>
+                    <!-- Add Featured Events Here -->
+                    <p><a href="/permit/info/upgrades/cnc_lathe_1.php">CNC lathe basics</a></p>
+                    <p><a href="/permit/info/upgrades/woodworking_1.php">Wood working powertools</a></p>
+                    <p><a href="/capabilities/3dprint/reprap.php">Simple 3D printing</a></p>
+
+                  </div>
+                  <!-- specialtycontent -->
 
                 </div>
-                <!-- specialtycontent -->
+                <!-- side-b -->
 
               </div>
-              <!-- side-b -->
+              <!-- container -->
 
             </div>
-            <!-- container -->
+            <!-- wrapper -->
 
-          </div>
-          <!-- wrapper -->
-
-          <?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
-            </body>
+            <?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
+              </body>
 
 </html>

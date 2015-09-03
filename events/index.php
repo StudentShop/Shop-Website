@@ -57,14 +57,14 @@
                 <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. Some shop users will also be charged an hourly machine reservation fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page.</p>
 
                 <h2>
-                  <a name="083115"></a>Shop Closed</h2>
-                  <h3>08/31/15 - 09/01/15</h3>
-                  <p>The shop will be closed August 31<sup>st</sup> and September 1<sup>st</sup> in order to move in new equipment.</p>
-
-                  <h2>
                     <a name="090415"></a>Shop Closed</h2>
                   <h3>09/04/15</h3>
                   <p>The shop will be closed September 4<sup>th</sup> for the holiday weekend.</p>
+
+                  <h2>
+                    <a name="100615"></a>Shop Closed</h2>
+                  <h3>10/06/15</h3>
+                  <p>The shop will be closed October 6<sup>th</sup> for staff to attend a machine tool tradeshow.</p>
 
               </div>
               <!-- END OF EVENTS -->
