@@ -147,9 +147,9 @@
                   <div class="specialtycontent">
 
                     <!-- Add Featured Events Here -->
-                    <p><a href="/permit/info/upgrades/cnc_lathe_1.php">CNC lathe basics</a></p>
-                    <p><a href="/permit/info/upgrades/woodworking_1.php">Wood working powertools</a></p>
-                    <p><a href="/capabilities/3dprint/reprap.php">Simple 3D printing</a></p>
+                    <p><a href="/permit/info/upgrades/woodworking_2.php">Woodworking 2 Upgrade</a></p>
+                    <p><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a></p>
+                    <p><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a></p>
 
                   </div>
                   <!-- specialtycontent -->
