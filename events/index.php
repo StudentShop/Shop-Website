@@ -54,7 +54,7 @@
                 <h2>
                   <a name="082415"></a>Shop Fees/Charges Policy</h2>
                 <h3>08/24/15</h3>
-                <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. Some shop users will also be charged an hourly machine reservation fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page.</p>
+                <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page.</p>
 
                 <h2>
                     <a name="090415"></a>Shop Closed</h2>
@@ -64,7 +64,7 @@
                   <h2>
                     <a name="100615"></a>Shop Closed</h2>
                   <h3>10/06/15</h3>
-                  <p>The shop will be closed October 6<sup>th</sup> for staff to attend a machine tool tradeshow.</p>
+                  <p>The shop will be closed October 6<sup>th</sup> from 8am to 6pm for staff to attend a machine tool tradeshow.</p>
 
               </div>
               <!-- END OF EVENTS -->
