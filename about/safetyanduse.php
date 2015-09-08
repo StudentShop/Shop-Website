@@ -45,7 +45,7 @@
                                 <li>The Student Shop is for projects related to research or class work. Personal projects are not allowed.</li>
                                 <li>Shop facilities may not be used unless the Student Shop Supervisor or his/her delegated representative is present.</li>
                 <li>There must be at least two individuals present at all times when the shop facilities are in use.</li>
-                                <li>Smoking, chewing tobacco, or being under the influence of drugs or alchol is prohibited.</li>
+                                <li>Smoking, chewing tobacco, or being under the influence of drugs or alcohol is prohibited.</li>
                                 <li>Personal hygiene must reach the threshold of social acceptability.</li>
                                 <li>Eating or drinking around equipment is prohibited.</li>
                                 <li>All accidents, including minor injuries and all hazardous conditions or activities must be reported immediately to the Student Shop Supervisor.</li>
@@ -72,11 +72,11 @@
                                 <li>If you are not sure how to operate something check with the Shop Staff.</li>
                                 <li>Read and follow all operational signs and posting located on or near the various machines. This should be done before ever turning on the machine.</li>
                                 <li>Machine guards are to be in place and in use at all times when equipment is operating.</li>
-                <li>Do not try to stop a machine’s rotating parts with your hands, especially a lathe or drill chuck.</li>
+                <li>Do not try to stop a machineï¿½s rotating parts with your hands, especially a lathe or drill chuck.</li>
                 <li>Do not leave a machine until it has come to a complete stop.</li>
                 <li>Make sure the machine is off and unplugged before making any adjustments or repairs (e.g changing blades on the table saw).</li>
-                                <li>Always stop the machine to make speed or feed changes that require the shifting of a gear lever. <strong>Note</strong>: Variable speed machines – mills, drill presses and lathes must be running when adjusting the speed. The machine still must be off though to switch from low to high gear or vice versa.</li>
-                <li>Use a blue chip brush (located by machines) to remove short, discontinuous types of chips – not hands, fingers or rags. Use a pair of pliers to remove chips, especially the long, stringy type.</li>
+                                <li>Always stop the machine to make speed or feed changes that require the shifting of a gear lever. <strong>Note</strong>: Variable speed machines ï¿½ mills, drill presses and lathes must be running when adjusting the speed. The machine still must be off though to switch from low to high gear or vice versa.</li>
+                <li>Use a blue chip brush (located by machines) to remove short, discontinuous types of chips ï¿½ not hands, fingers or rags. Use a pair of pliers to remove chips, especially the long, stringy type.</li>
                                 <li>Never use rags to clean the work piece or any part of the machine that is running.</li>
                                 <li>Only one person may operate a machine at a time.</li>
                                 <li>Keep aisles clear and maintain unobstructed access to all exits, first aid kits, fire extinguishers, electrical panels, emergency showers and eyewash stations. Take note of their location in the shops areas.</li>
