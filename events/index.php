@@ -56,11 +56,6 @@
                 <h3>08/24/15</h3>
                 <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page.</p>
 
-                <h2>
-                    <a name="090415"></a>Shop Closed</h2>
-                  <h3>09/04/15</h3>
-                  <p>The shop will be closed September 4<sup>th</sup> for the holiday weekend.</p>
-
                   <h2>
                     <a name="100615"></a>Shop Closed</h2>
                   <h3>10/06/15</h3>
