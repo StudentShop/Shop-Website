@@ -134,8 +134,8 @@
                 <div class="specialtycontent">
                   <!-- Add Events Here -->
                   <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#100615">Shop Closed</a>
-                    <br />10/06/15</p>
+                  <p><a href="/events/index.php#100615">Restricted Hours</a>
+                    <br />10/06/15 - 10/08/15</p>
                   <p class="more"><a href="/events/index.php">View more...</a></p>
 
                   <!-- Bottom Right Featured Training Area -->
