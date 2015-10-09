@@ -299,6 +299,48 @@
             <img src="images/johnr.jpg" alt="image of John Ryan"</>
             <div style="clear:both;"></div>
 
+            <li><p class="name"><a name="angelac"></a>Angela C</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/angelac.jpg" alt="image of Angela C"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="nicholast"></a>Nicholas T</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/nicholast.jpg" alt="image of Nicholas T"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="andreww"></a>Andrew W</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/andreww.jpg" alt="image of Andrew W"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="gabrielg"></a>Gabriel G</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/gabrielg.jpg" alt="image of Gabriel G"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="matthews"></a>Matthew S</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/matthews.jpg" alt="image of Matthew S"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="samp"></a>Sam P</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/samp.jpg" alt="image of Sam P"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="rebeccah"></a>Rebecca Hyatt</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/rebeccah.jpg" alt="image of Rebecca Hyatt"/>
+            <div style="clear:both;"></div>
+
             <!--<li><p class="name"><a name=""></a></p>
                 <p>Student Shop Technician</p>
             </li>
