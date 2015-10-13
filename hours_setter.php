@@ -7,7 +7,7 @@
 //Set date ranges for alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
-    ["2015-10-03 00:00", "2015-10-09 23:59:59"],
+    ["2015-10-17 00:00", "2015-10-23 23:59:59"],
 ];
 
 //Set how to display alt_hours_1 here

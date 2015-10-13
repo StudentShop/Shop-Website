@@ -57,9 +57,9 @@
                 <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page.</p>
 
                   <h2>
-                    <a name="100615"></a>Restricted Hours</h2>
-                  <h3>10/06/15 - 10/08/15</h3>
-                  <p>The shop will be closed October 6<sup>th</sup> through Ocotober 8<sup>th</sup> from 8am to 5pm for staff to recieve training.</p>
+                    <a name="102015"></a>Restricted Hours</h2>
+                  <h3>10/20/15 - 10/22/15</h3>
+                  <p>The shop will be closed October 20<sup>th</sup> through Ocotober 22<sup>nd</sup> from 8am to 5pm for staff training.</p>
 
               </div>
               <!-- END OF EVENTS -->
