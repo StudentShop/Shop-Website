@@ -13,7 +13,7 @@ $alt_hours_1 = [
 //Set how to display alt_hours_1 here
 $alternative_hours_1 =  '<p>Monday: 8am to 9pm<br />
    Tues-Thur: 5pm to 9pm<br />
-   Fri: 8am to 4pm<br />
+   Fri: 8am to 5:30pm<br />
    Weekend: Closed</p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
@@ -69,7 +69,7 @@ $sem_hours = [
 
 //Times the shop is open during Fall/Spring Semester
 $semester_hours = '<p>Mon-Thurs: 8am to 9pm<br />
-   Friday: 8am to 4pm<br />
+   Friday: 8am to 5:30pm<br />
    Weekend: Closed</p>';
 
 //Times the shop is open during Winter/Summer/Spring/etc. breaks
