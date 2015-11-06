@@ -204,7 +204,8 @@
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="aislinno"></a>Aislinn O'Dwyer</p>
-                <p>Student Shop Technician</p>
+                <p>Student Shop Technician<br />
+                Instructor</p>
             </li>
             <img src="images/aislinno.jpg" alt="image of Aislinn O'Dwyer"/>
             <div style="clear:both;"></div>
