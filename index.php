@@ -134,10 +134,12 @@
                 <div class="specialtycontent">
                   <!-- Add Events Here -->
                   <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#111415">Saturday Hours Available</a>
-                    <br />11/14/15</p>
                   <p><a href="/events/index.php#112515">Shop Closed</a>
                     <br />11/26/15 - 11/27/15</p>
+                  <p><a href="/events/index.php#113015">Late Hours Start</a>
+                    <br />11/30/15</p>
+                  <p><a href="/events/index.php#120515">Saturday Hours Available</a>
+                    <br />12/05/15</p>
                   <p class="more"><a href="/events/index.php">View more...</a></p>
 
                   <!-- Bottom Right Featured Training Area -->
