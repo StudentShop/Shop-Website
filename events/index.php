@@ -56,13 +56,8 @@
                 <h3>08/24/15</h3>
                 <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page.</p>
 
-                  <h2>
-                    <a name="112515"></a>Shop Closed</h2>
-                  <h3>11/25/15-11/27/15</h3>
-                  <p>The shop will close at 4pm on Wednesday, November 25<sup>th</sup> and remain closed through the end of the week.</p>
-
-                  <h2>
-                    <a name="113015"></a>Late Hours Start</h2>
+                <h2>
+                  <a name="113015"></a>Late Hours Start</h2>
                   <h3>11/30/15</h3>
                   <p>The shop will be open until 10pm Monday through Thursday starting Novermber 30<sup>th</sup>.</p>
 
