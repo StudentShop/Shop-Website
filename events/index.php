@@ -51,20 +51,20 @@
                 <h3>05/14/15</h3>
                     <p></p>-->
 
-                <h2>
+                <!--<h2>
                   <a name="082415"></a>Shop Fees/Charges Policy</h2>
                 <h3>08/24/15</h3>
-                <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page.</p>
+                <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page</a>.</p>-->
 
                 <h2>
-                  <a name="113015"></a>Late Hours Start</h2>
-                  <h3>11/30/15</h3>
-                  <p>The shop will be open until 10pm Monday through Thursday starting Novermber 30<sup>th</sup>.</p>
+                  <a name="121515"></a>Break Hours Start</h2>
+                <h3>12/15/15</h3>
+                <p>The shop will be open 8am to 4pm Monday through Friday starting December 15<sup>th</sup>.</p>
 
-                  <h2>
-                    <a name="120515"></a>Saturday Hours Available</h2>
-                  <h3>12/05/15</h3>
-                  <p>The shop will open Saturday, December 5<sup>th</sup> from 9am to 4pm.</p>
+                <h2>
+                  <a name="122415"></a>Shop Closed</h2>
+                <h3>12/24/15 - 01/01/16</h3>
+                <p>The shop will be closed December 24<sup>th</sup> through January 1<sup>st</sup> for the holidays.</p>
 
               </div>
               <!-- END OF EVENTS -->

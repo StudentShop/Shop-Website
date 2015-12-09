@@ -7,31 +7,41 @@
 //Set date ranges for alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
-    ["2015-11-28 00:00", "2015-12-05 23:59:59"],
+    ["2015-12-06 00:00", "2015-12-12 23:59:59"],
 ];
 
 //Set how to display alt_hours_1 here
-$alternative_hours_1 =  '<p>Mon-Thurs: 8am - 10pm<br />
-   Friday: 8am - 5:30pm<br />
-   Saturday: 9am - 4pm<br />
-   Sunday: Closed</p>';
+$alternative_hours_1 ='<p>Mon-Thurs: 8am - 10pm<br />
+   Friday: 8am to 5:30pm<br />
+   Weekend: Closed</p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
-    ["2015-12-06 00:00", "2015-12-11 23:59:59"],
+    ["2015-12-13 00:00", "2015-12-18 23:59:59"],
 ];
 
 //Set how to display alt_hours_2 here
-$alternative_hours_2 = '<p>Mon-Thurs: 8am - 10pm<br />
-   Friday: 8am to 5:30pm<br />
+$alternative_hours_2 = '<p>Mon: 8am - 10pm<br />
+   Tues - Fri: 8am - 4pm<br />
    Weekend: Closed</p>';
+
+   //Set date ranges for a week of different alternative hours following a week of alternative hours here
+   //Full timestamp necessary YYYY-MM-DD HH:MM:SS
+   $alt_hours_3 = [
+       ["2015-12-19 00:00", "2015-12-25 23:59:59"],
+   ];
+
+   //Set how to display alt_hours_2 here
+   $alternative_hours_3 = '<p>Mon-Wed: 8am - 10pm<br />
+      Thurs-Fri: Closed<br />
+      Weekend: Closed</p>';
 
 //Set date ranges for the shop being closed all week below
 //NOT FOR INDIVIDUAL DAYS!, use alt_hours_1 & alt_hours_2 for that
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $shop_closed = [
-    ["2015-08-15 00:00", "2015-08-21 23:59:59"],
+    ["2015-12-26 00:00", "2016-01-01 23:59:59"],
 ];
 
 //Shop closed all week
@@ -45,7 +55,7 @@ $sem_hours = [
 /*2014 Fall start & end*/ ["2014-09-02 00:00", "2014-12-10 23:59:59"],
 /*2015 Spring start & spring break start*/["2015-01-20 00:00", "2015-03-28 00:00"],
 /*2015 Spring break end & spring end*/["2015-04-06 00:00", "2015-05-08 23:59:59"],
-/*2015 Fall start & end*/["2015-09-02 00:00", "2015-12-15 23:59:59"],
+/*2015 Fall start & end*/["2015-09-02 00:00", "2015-12-14 23:59:59"],
 /*2016 Spring start & spring break start*/["2016-01-19 00:00", "2016-03-19 00:00"],
 /*2016 Spring break end & spring end*/["2016-03-28 00:00", "2016-05-06 23:59:59"],
 /*2016 Fall start & end*/["2016-09-02 00:00", "2016-12-15 23:59:59"],
@@ -67,7 +77,7 @@ $sem_hours = [
 
 //Times the shop is open during Fall/Spring Semester
 $semester_hours = '<p>Mon-Thurs: 8am to 9pm<br />
-   Friday: 8am to 5:30pm<br />
+   Friday: 8am to 4:00pm<br />
    Weekend: Closed</p>';
 
 //Times the shop is open during Winter/Summer/Spring/etc. breaks
@@ -109,6 +119,8 @@ if (today_in_range($shop_closed)) {
     echo $alternative_hours_1;
 } elseif (today_in_range($alt_hours_2)) {
     echo $alternative_hours_2;
+} elseif (today_in_range($alt_hours_3)) {
+    echo $alternative_hours_3;
 } elseif (today_in_range($sem_hours)) {
     echo $semester_hours;
 } else {
