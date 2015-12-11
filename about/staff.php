@@ -306,28 +306,10 @@
             <img src="images/ashleyk.jpg" alt="image of Ashley Klein"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="angelac"></a>Angela Campbell</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/angelac.jpg" alt="image of Angela Campbell"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="gabrielg"></a>Gabriel Gottieb</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/gabrielg.jpg" alt="image of Gabriel Gottieb"/>
-            <div style="clear:both;"></div>
-
-            <li><p class="name"><a name="davidl"></a>David Luzzio</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/male-silhouette.jpg" alt="image of a male silhouette"/>
-            <div style="clear:both;"></div>
-
-            <li><p class="name"><a name="matthews"></a>Matthew Szekely</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/matthews.jpg" alt="image of Matthew Szekely"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="nicholast"></a>Nicholas Termini</p>
