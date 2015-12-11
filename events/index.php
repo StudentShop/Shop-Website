@@ -62,9 +62,9 @@
                 <p>The shop will be open 8am to 4pm Monday through Friday starting December 15<sup>th</sup>.</p>
 
                 <h2>
-                  <a name="122415"></a>Shop Closed</h2>
-                <h3>12/24/15 - 01/01/16</h3>
-                <p>The shop will be closed December 24<sup>th</sup> through January 1<sup>st</sup> for the holidays.</p>
+                  <a name="122315"></a>Shop Closed</h2>
+                <h3>12/23/15 - 01/01/16</h3>
+                <p>The shop will be closed December 23<sup>rd</sup> through January 1<sup>st</sup> for the holidays.</p>
 
               </div>
               <!-- END OF EVENTS -->

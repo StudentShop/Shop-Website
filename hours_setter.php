@@ -33,8 +33,8 @@ $alternative_hours_2 = '<p>Mon: 8am - 10pm<br />
    ];
 
    //Set how to display alt_hours_2 here
-   $alternative_hours_3 = '<p>Mon-Wed: 8am - 10pm<br />
-      Thurs-Fri: Closed<br />
+   $alternative_hours_3 = '<p>Mon-Tues: 8am - 10pm<br />
+      Wed-Fri: Closed<br />
       Weekend: Closed</p>';
 
 //Set date ranges for the shop being closed all week below
