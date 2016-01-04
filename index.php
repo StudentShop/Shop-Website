@@ -134,10 +134,6 @@
                 <div class="specialtycontent">
                   <!-- Add Events Here -->
                   <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#121515">Break Hours Start</a>
-                    <br />12/15/15</p>
-                  <p><a href="/events/index.php#122315">Shop Closed</a>
-                    <br />12/23/15 - 01/01/16</p>
                   <p><a href="/events/index.php#011316">Shop Closed</a>
                     <br />01/13/16</p>
                   <p class="more"><a href="/events/index.php">View more...</a></p>

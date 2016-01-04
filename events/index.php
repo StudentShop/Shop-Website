@@ -57,16 +57,6 @@
                 <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page</a>.</p>-->
 
                 <h2>
-                  <a name="121515"></a>Break Hours Start</h2>
-                <h3>12/15/15</h3>
-                <p>The shop will be open 8am to 4pm Monday through Friday starting December 15<sup>th</sup>.</p>
-
-                <h2>
-                  <a name="122315"></a>Shop Closed</h2>
-                <h3>12/23/15 - 01/01/16</h3>
-                <p>The shop will be closed December 23<sup>rd</sup> through January 1<sup>st</sup> for the holidays.</p>
-
-                <h2>
                   <a name="011316"></a>Shop Closed</h2>
                 <h3>01/13/16</h3>
                 <p>The shop will be closed January 13<sup>th</sup> for staff first aid/cpr training.</p>
