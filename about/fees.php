@@ -51,7 +51,7 @@
                <li>Teaching assistants for courses that use the shop may be entitled to have the fee waived. At this time that requires the professor of the course for which they act as a teaching assistant to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#101;&#110;&#101;&#46;&#109;&#97;&#115;&#116;&#101;&#114;&#115;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email Gene Masters</a> with the teaching assistant's name and a means of identification (e.g., a campus ID number or NetID).</li>
               <li>Those working on funded research are required to pay the research fee (see below) rather than the materials fee.</li>
               <li>Individuals with a permit may check out hand tools (not including tooling, machine tools, or electric or pneumatic power tools) without paying the materials fee.</li>
-              <li>Shop services for hire (<a href="/capabilities/3dprint/index.php">3d printing</a>, <a href="/capabilities/instrshop/index.php">Instrument Shop</a>, etc.).</li></ul>
+              <li>Enlisting Shop services for hire (<a href="/capabilities/3dprint/index.php">3d printing</a>, <a href="/capabilities/instrshop/index.php">Instrument Shop</a>, etc.) does not require the fee (nor even a permit).</li></ul>
 
               <h2><a name="researchfee"></a>Research Fee</h2>
               <p>Individuals working on funded research are required to pay a biannual research fee of $100 to use the Student Shop (i.e. $200 per year, per user). The first period extends from December through June and the second extends from June through December (allowing a one month overlap at the start and end of each fee period).</p>
@@ -61,15 +61,15 @@
               <ul>
                 <li>All faculty and university staff including academic, classified permanent, classified LTE, classified project, and limited (but excluding student hourlies) are exempt from the research fee.</li>
               <li>Individuals with a permit may check out hand tools (not including tooling, machine tools, or electric or pneumatic power tools) without paying the materials fee.</li>
-              <li>Shop services for hire (<a href="/capabilities/3dprint/index.php">3d printing</a>, <a href="/capabilities/instrshop/index.php">Instrument Shop</a>, etc.) do not require the fee (nor even a permit).</li></ul>
+              <li>Enlisting shop services for hire (<a href="/capabilities/3dprint/index.php">3d printing</a>, <a href="/capabilities/instrshop/index.php">Instrument Shop</a>, etc.) does not require the fee (nor even a permit).</li></ul>
 
               <h2><a name="feefaq"></a>Frequently Asked Questions</h2>
               <h3>How do I pay the fee?</h3>
               <p>To pay the materials fee, <a href="https://emu.engr.wisc.edu/emu">log into EMU</a> and click the button at the top of the screen that says "Pay Fee Now". You will need a credit card to pay.</p>
-            <p>To pay the research fee, have your professor or principal investigator (PI) <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#101;&#110;&#101;&#46;&#109;&#97;&#115;&#116;&#101;&#114;&#115;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email Gene Masters</a>. Include your name, a means of identification (e.g., your campus ID number or your NetID), and a funding account to charge. There is no online payment method available at this time.</p>
+            <p>To pay the research fee, have your professor or principal investigator (PI) <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#103;&#101;&#110;&#101;&#46;&#109;&#97;&#115;&#116;&#101;&#114;&#115;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email Gene Masters</a>. Include your name, a means of identification (e.g., your campus ID number or your NetID), and a university funding account to charge. There is no online payment method available at this time.</p>
 
             <h3>I tried to pay online with a credit card but the system rejected my card. How do I pay?</h3>
-            <p>Unfortunately, online payment via credit card is the only way to pay the materials fee. Most likely you entered incorrect information. If you don't think that's the case your only option is to use a different credit card (maybe you could use a friend's or parent's and reimburse them?)
+            <p>Unfortunately, online payment via credit card is the only way to pay the materials fee. Most likely you entered incorrect information or used auto fill. If you don't think that's the case your only option is to use a different credit card (maybe you could use a friend's or parent's and reimburse them?)
 
               <h3>I'm a student working on a funded research project in the shop. Which fee do I pay?</h3>
               <p>Funded research must pay the research fee instead of the materials fee.</p>
@@ -94,7 +94,7 @@
               <p>You can request the fee be waived for teaching assistants if they are working for a course that uses the shop. Email Gene Masters and include the name of the teaching assistant, a means of identification (such as their Campus ID or NetID), and the course they are working for.</p>
               <p>If you are paying a student's materials fee you will need them to log into <a href="https://emu.engr.wisc.edu/emu">EMU</a> and click the "Pay Fee Now" button and then enter the credit card information for them.</p>
 
-              <h3>I'm emeritus faculty. Do I have to pay a fee?</h3>
+              <h3>I'm emeritus faculty. Do I need to pay a fee?</h3>
                <p>No, you are academic staff.</p>
 
               <h3>I'm a visiting scholar. Do I need to pay a fee?</h3>
@@ -116,7 +116,7 @@
               <p>Engineering undergraduate differential tuition is used to help pay for new equipment as well as equipment maintenance and repair. Differential tuition has made it possible to increase the number of equipment pieces in the shop, keep equipment current and allow for increased access to Shop equipment for students. It does not cover consumables used in the shop.</p>
 
               <h3>Why does funded research have to pay more than non-research?</h3>
-              <p>Funded research pays more because the shop is partially funded with differential tuition which research doesn't pay. The increased cost is to prevent students from covering shop costs that should also be paid by researchers using the shop.</p>
+              <p>Funded research pays more because the shop is partially funded with differential tuition which is only paid by undergraduates.</p>
 
               <h3>Can I pay the fee for multiple fee periods all at once?</h3>
               <p>Unfortunately, that is not possible at this time.</p>
@@ -128,7 +128,7 @@
               <p>Yes.</p>
 
               <h3>I'm right at the edge of a fee period. Can I pay now and have it apply to the next fee period?</h3>
-              <p>Sorry, no.</p>
+              <p>Unfortunately, no. The month overlap at the start and end of each period is supposed to reduce the chances of this happening. However, if you are outside of the one month overlap but need shop access for both the current period and the next one, you will have to pay for both.</p>
 
               <h3>Since this fee covers materials used in the shop, I don't have to pay for broken or lost equipment then?</h3>
               <p>No. If you damage expensive shop equipment you will still be liable for it's replacement. Some broken tooling may be covered by the fee. This is at the discretion of shop staff.</p>
