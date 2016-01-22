@@ -51,15 +51,10 @@
                 <h3>05/14/15</h3>
                     <p></p>-->
 
-                <!--<h2>
-                  <a name="082415"></a>Shop Fees/Charges Policy</h2>
-                <h3>08/24/15</h3>
-                <p>Begining August 24, 2015 the shop will charge all shop users a materials fee. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page</a>.</p>-->
-
                 <h2>
-                  <a name="011316"></a>Shop Closed</h2>
-                <h3>01/13/16</h3>
-                <p>The shop will be closed January 13<sup>th</sup> for staff first aid/cpr training.</p>
+                  <a name="010116"></a>Shop Fees Policy</h2>
+                <h3>01/01/16</h3>
+                <p>The shop now requires either a materials fee or a reserach fee be paid before using the shop. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page</a>.</p>
 
               </div>
               <!-- END OF EVENTS -->
