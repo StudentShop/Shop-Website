@@ -124,13 +124,6 @@
             <img src="images/matt.jpg" alt="photo of Matt Michalak"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="rossp"></a>Ross Paulson</p>
-              <p>Student Shop Technician<br />
-                Instructor</p>
-            </li>
-            <img src="images/rossp.jpg" alt="image of Ross Paulson"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="kyler"></a>Kyle Roethle</p>
               <p>Student Shop Technician<br />
                 Instructor</p>
@@ -157,18 +150,6 @@
             </li>
             <img src="images/jenniferb.jpg" alt="image of Jennifer Bartaszewicz"/>
             <div style="clear:both;"></div>
-
-            <li><p class="name"><a name="michiaelr"></a>Michael Rademacher</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/michaelr.jpg" alt="image of Michael Rademacher"/>
-            <div style="clear:both;"></div>
-
-            <!--<li><p class="name"><a name="zachp"></a>Zachary Peppin</p>
-              <p>Student Shop Technician</p>
-            </li>
-            <img src="images/zachp.jpg" alt="image of Zachary Peppin"/>
-            <div style="clear:both;"></div>-->
 
             <li><p class="name"><a name="jabarib"></a>Jabari Bolton</p>
               <p>Student Shop Technician</br>
@@ -210,12 +191,6 @@
             <img src="images/aislinno.jpg" alt="image of Aislinn O'Dwyer"/>
             <div style="clear:both;"></div>
 
-	        <!--<li><p class="name"><a name="cullenb"></a>Cullen Billhartz</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/cullenb.jpg" alt="image of Cullen Billhartz"/>
-            <div style="clear:both;"></div>-->
-
 	        <li><p class="name"><a name="tedv"></a>Ted Vaala</p>
                 <p>Student Shop Technician</p>
             </li>
@@ -228,11 +203,11 @@
             <img src="images/kevinr.jpg" alt="image of Kevin Rogers"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="alexl"></a>Alex Lebrun</p>
+            <!--<li><p class="name"><a name="alexl"></a>Alex Lebrun</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/alexl.jpg" alt="image of Alex Lebrun"/>
-            <div style="clear:both;"></div>
+            <div style="clear:both;"></div>-->
 
             <li><p class="name"><a name="reidc"></a>Reid Carlson</p>
                 <p>Student Shop Technician</p>
@@ -244,12 +219,6 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/daniele.jpg" alt="image of Daniel Eckerson"/>
-            <div style="clear:both;"></div>
-
-           <li><p class="name"><a name="davidn"></a>David Neuser</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/davidn.jpg" alt="image of David Neuser"/>
             <div style="clear:both;"></div>
 
            <li><p class="name"><a name="connorh"></a>Connor Hartigan</p>
@@ -264,10 +233,16 @@
             <img src="images/elizabethk.jpg" alt="image of Elizabeth Kotoski"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="shannono"></a>Shannon Olson</p>
+            <!--<li><p class="name"><a name="shannono"></a>Shannon Olson</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/shannono.jpg" alt="image of Shannon Olson"/>
+            <div style="clear:both;"></div>-->
+
+            <li><p class="name"><a name="taylorb"></a>Taylor Bauch</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/taylorb.jpg" alt="image of Taylor Bauch"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
@@ -276,10 +251,10 @@
             <img src="images/margareth.jpg" alt="image of Margaret Heinemann"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="owenz"></a>Owen Zwiefelhofer</p>
+            <li><p class="name"><a name="johnr"></a>John Ryan</p>
                 <p>Student Shop Technician</p>
             </li>
-            <img src="images/owenz.jpg" alt="image of Owen Zwiefelhofer"/>
+            <img src="images/johnr.jpg" alt="image of John Ryan"</>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="vincents"></a>Vincent Schad</p>
@@ -288,16 +263,10 @@
             <img src="images/vincents.jpg" alt="image of Vincent Schad"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="taylorb"></a>Taylor Bauch</p>
+            <li><p class="name"><a name="owenz"></a>Owen Zwiefelhofer</p>
                 <p>Student Shop Technician</p>
             </li>
-            <img src="images/taylorb.jpg" alt="image of Taylor Bauch"/>
-            <div style="clear:both;"></div>
-
-            <li><p class="name"><a name="johnr"></a>John Ryan</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/johnr.jpg" alt="image of John Ryan"</>
+            <img src="images/owenz.jpg" alt="image of Owen Zwiefelhofer"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="ashleyk"></a>Ashley Klein</p>
