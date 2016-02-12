@@ -59,7 +59,7 @@
 
               <h3>Exceptions</h3>
               <ul>
-                <li>All faculty and University staff including academic, classified permanent, classified LTE, classified project, and limited (but excluding student hourlies) are exempt from the research fee.</li>
+                <li>All faculty and University staff including academic, classified permanent, classified LTE, classified project, and limited (but excluding student hourlies and some honorary assoc/fellows) are exempt from the research fee.</li>
               <li>Individuals with a permit may check out hand tools (not including tooling, machine tools, or electric or pneumatic power tools) without paying the materials fee.</li>
               <li>Enlisting shop services for hire (<a href="/capabilities/3dprint/index.php">3d printing</a>, <a href="/capabilities/instrshop/index.php">Instrument Shop</a>, etc.) does not require paying the fee (nor even a permit).</li></ul>
 
@@ -75,7 +75,7 @@
               <p>Unfortunately the only accepted method of payment for the materials fee is a credit card. We are exploring other options but they are not available at this time. The research fee can only be paid with a University funding account.</p>
 
             <h3>Can I pay with a ProCard?</h3>
-              <p>Please consult with your departmental financial person to verify that this is an acceptable use of the <a href="http://www.bussvc.wisc.edu/acct/purchcd/">purchasing card</a>.</p>
+              <p>Please consult with your departmental financial person to verify that this is an acceptable use of the <a href="http://www.bussvc.wisc.edu/acct/purchcd/">purchasing card</a>. The College prefers fees be paid via departmental transfer rather than by Procard to reduce unnecessary transfer fees.</p>
 
             <h3>I'm a student working on a funded research project in the shop. Which fee do I pay?</h3>
               <p>Funded research must pay the research fee to work in the shop.</p>
@@ -106,8 +106,8 @@
             <h3>I'm emeritus faculty. Do I need to pay a fee?</h3>
                <p>No, you are academic staff.</p>
 
-            <h3>I'm a visiting scholar. Do I need to pay a fee?</h3>
-              <p>No, if the system says you do, please <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email the Student Shop</a>.</p>
+            <h3>I'm an honorary assoc/fellow. Do I need to pay a fee?</h3>
+              <p>Possibly, this is decided on a case by case basis (by the <a href="http://www.engr.wisc.edu/leadership.html">office of the Dean</a>). Please <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email the Student Shop</a>.</p>
 
             <h3>I just want training. Shouldn't I be exempt from the fee since I'm not using any materials?</h3>
               <p>No, nearly all training in the shop makes use of materials.</p>
