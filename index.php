@@ -37,106 +37,110 @@
                 ["/images/pictures_homepage/jebresearch.jpg", "", "", "Jeb Phillips displays a friction stir welding tool that can transmit temperature data to aid research.", "Jeb Phillips displays a friction stir welding tool that can transmit temperature data aid research."],               
                 ["/images/pictures_homepage/ME429F11.jpg", "http://courses.engr.wisc.edu/me/me429.html", "_new", "Engineering students learning about tool life for ME 429", "Student machining on a lathe"],
                 ["/images/pictures_homepage/markresearch.jpg", "", "", "Mark Rodarte displays a research apparatus he built to allow researchers to see R245FA while boiling.", "Mark Rodarte displays a research apparatus he built to allow researchers to see R245FA while boiling."],
-                //["/images/pictures_homepage/amandamic.jpg", "/training/basics/measurement.php#mic", "", "This engineering student knows how to read a micrometer, do you? Click to learn how.", "Student measuring part on lathe with micrometer"],
-                //["/images/pictures_homepage/DiffTuitionMachi.gif", "/about/differentialtuition.php", "", "Learn how differential tuition is improving your education.", "Differential tuition advertisement"],
-                ["/images/pictures_homepage/instrumentshop.jpg", "http://instrumentshop.engr.wisc.edu/", "_new", "The Instrument Shop can fabricate custom parts for students and faculty", "Instrument maker fabricating part on mill"]
-                //<!--no trailing comma after very last image element!-->
-              ],
-              displaymode: {
-                type: 'auto',
-                pause: 6000,
-                cycles: 0,
-                wraparound: false
-              },
-              persist: false, //remember last viewed slide and recall within same session?
-              fadeduration: 750, //transition duration (milliseconds)
-              descreveal: "always",
-              togglerid: ""
-            })
-          </script>
+                    //["/images/pictures_homepage/amandamic.jpg", "/training/basics/measurement.php#mic", "", "This engineering student knows how to read a micrometer, do you? Click to learn how.", "Student measuring part on lathe with micrometer"],
+                    //["/images/pictures_homepage/DiffTuitionMachi.gif", "/about/differentialtuition.php", "", "Learn how differential tuition is improving your education.", "Differential tuition advertisement"],
+                    ["/images/pictures_homepage/instrumentshop.jpg", "http://instrumentshop.engr.wisc.edu/", "_new", "The Instrument Shop can fabricate custom parts for students and faculty", "Instrument maker fabricating part on mill"]
+                    //<!--no trailing comma after very last image element!-->
+                  ],
+                  displaymode: {
+                    type: 'auto',
+                    pause: 6000,
+                    cycles: 0,
+                    wraparound: false
+                  },
+                  persist: false, //remember last viewed slide and recall within same session?
+                  fadeduration: 750, //transition duration (milliseconds)
+                  descreveal: "always",
+                  togglerid: ""
+                })
+              </script>
 
-          <!-- ************************* End of Navigation Items ****************************  -->
+              <!-- ************************* End of Navigation Items ****************************  -->
 
-          <div id="wrapper">
-            <!-- <h1>Student Shop</h1> -->
+              <div id="wrapper">
+                <!-- <h1>Student Shop</h1> -->
 
-            <div id="container">
+                <div id="container">
 
-              <div id="side-a">
+                  <div id="side-a">
 
-                <h1 class="hide">Student Shop</h1>
-                <!-- <h1> tag is only here for accessibility purposes   -->
+                    <h1 class="hide">Student Shop</h1>
+                    <!-- <h1> tag is only here for accessibility purposes   -->
 
-                <img src="/images/Clock.jpg" align="left" alt="icon: image of a clock" />
+                    <img src="/images/Clock.jpg" align="left" alt="icon: image of a clock" />
 
-                <div class="headerLeftCol">Shop Hours</div>
+                    <div class="headerLeftCol">Shop Hours</div>
 
-                <div class="specialtycontent">
-                  <?php include ($_SERVER['DOCUMENT_ROOT']."/hours_setter.php"); ?>
-                </div>
-                <!-- spceialtycontent -->
+                    <div class="specialtycontent">
+                      <?php include ($_SERVER['DOCUMENT_ROOT']."/hours_setter.php"); ?>
+                    </div>
+                    <!-- spceialtycontent -->
 
 
-                <img src="images/icons/letter.jpg" align="left" alt="icon image of mail" />
+                    <img src="images/icons/letter.jpg" align="left" alt="icon image of mail" />
 
-                <div class="headerLeftCol2"><a href="/about/contact.php">Contact us</a></div>
+                    <div class="headerLeftCol2"><a href="/about/contact.php">Contact us</a></div>
 
-                <div class="specialtycontent">
-                  <p>Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a>
-                    <br /> Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#50;&#54;&#49;&#45;&#49;&#49;&#49;&#50;">(&#54;&#48;&#56;) &#50;&#54;&#49;&#45;&#49;&#49;&#49;&#50;</a>
-                    <br /> Fax: (608) 261-1111</p>
-                  <p>CoE Student Shop
-                    <br /> Engineering Centers Bdg
-                    <br />
-                    <a href="/about/floorplan.php">Rm B1086</a>
-                    <br />
-                    <a href="http://coestudentshop.engr.wisc.edu/about/location.php">1550 Engineering Dr<br />
-                Madison, WI 53706</a></p>
-                </div>
-                <!-- specialtycontent -->
+                    <div class="specialtycontent">
+                      <p>Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a>
+                        <br /> Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#50;&#54;&#49;&#45;&#49;&#49;&#49;&#50;">(&#54;&#48;&#56;) &#50;&#54;&#49;&#45;&#49;&#49;&#49;&#50;</a>
+                        <br /> Fax: (608) 261-1111</p>
+                      <p>CoE Student Shop
+                        <br /> Engineering Centers Bdg
+                        <br />
+                        <a href="/about/floorplan.php">Rm B1086</a>
+                        <br />
+                        <a href="http://coestudentshop.engr.wisc.edu/about/location.php">1550 Engineering Dr<br />
+                    Madison, WI 53706</a></p>
+                    </div>
+                    <!-- specialtycontent -->
 
-              </div>
-              <!-- side-a -->
-
-              <div id="middle">
-
-                <div class="slideshow">
-                  <div id="fadeshow1"></div>
-                </div>
-                <!-- slideshow -->
-
-                <a href="https://emu.engr.wisc.edu/emu/">
-
-                  <p id="get-a">Get a</p>
-
-                  <img src="images/GearsFeaturedTraining.png" align="left" style=" position:relative; margin: 30px 0px 0px -20px;" alt="image of a shop permit" />
-
-                  <div class="headerMiddleCol">
-                    <div class="firstchar">Shop</div>
-                    <div class="firstchar2">Permit</div>
                   </div>
-                  <!-- headerMiddleCol -->
+                  <!-- side-a -->
 
-                  &nbsp;&nbsp;&nbsp;&nbsp;
+                  <div id="middle">
 
-                  <img src="images/permits.jpg" alt="image of shop permits" style="margin: -100px 0px 0px 20px;" />
-                </a>
+                    <div class="slideshow">
+                      <div id="fadeshow1"></div>
+                    </div>
+                    <!-- slideshow -->
 
-              </div>
+                    <a href="https://emu.engr.wisc.edu/emu/">
 
-              <div id="side-b">
+                      <p id="get-a">Get a</p>
 
-                <!-- Top Right Events Area -->
+                      <img src="images/GearsFeaturedTraining.png" align="left" style=" position:relative; margin: 30px 0px 0px -20px;" alt="image of a shop permit" />
 
-                <img src="images/icons/calendar3.jpg" align="left" alt="icon: image of a calendar" style="z-index:-10;" />
+                      <div class="headerMiddleCol">
+                        <div class="firstchar">Shop</div>
+                        <div class="firstchar2">Permit</div>
+                      </div>
+                      <!-- headerMiddleCol -->
 
-                <div class="headerRightCol2"><a href="events/index.php">News &amp; Events</a></div>
+                      &nbsp;&nbsp;&nbsp;&nbsp;
 
-                <div class="specialtycontent">
-                  <!-- Add Events Here -->
-                  <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#010116">Shop Fee Policy</a>
-                    <br />01/01/16</p>
+                      <img src="images/permits.jpg" alt="image of shop permits" style="margin: -100px 0px 0px 20px;" />
+                    </a>
+
+                  </div>
+
+                  <div id="side-b">
+
+                    <!-- Top Right Events Area -->
+
+                    <img src="images/icons/calendar3.jpg" align="left" alt="icon: image of a calendar" style="z-index:-10;" />
+
+                    <div class="headerRightCol2"><a href="events/index.php">News &amp; Events</a></div>
+
+                    <div class="specialtycontent">
+                      <!-- Add Events Here -->
+                      <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
+                  <p><a href="/events/index.php#022626">Limited Hours</a>
+                        <br />02/26/16</p>
+                  <p><a href="/events/index.php#031116">Limited Hours</a>
+                    <br />03/11, 03/18, 4/1</p>
+                  <p><a href="/events/index.php#032116">Break Hours Start</a>
+                    <br />03/21/16</p>
                   <p class="more"><a href="/events/index.php">View more...</a></p>
 
                   <!-- Bottom Right Featured Training Area -->
