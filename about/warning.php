@@ -54,11 +54,6 @@
                 <li>Using a permit under false pretenses (e.g. using a forged permit or representing someone else's permit as your own)</li>
                 <li>Aiding or abetting someone using a permit under false pretenses</li>
               </ul>
-              <br />
-              <p>The following violations will result in a suspension of shop privileges of not less than one full semester.</p>
-              <ul>
-                <li>Deliberately misrepresenting the purpose or duration of a machine reservation so as to avoid or reduce the hourly reservation charge.</li>
-              </ul>
 
             </div>
             <!-- END OF MAINCONTENT -->
