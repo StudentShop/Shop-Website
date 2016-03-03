@@ -311,6 +311,12 @@
             <img src="images/josephp.jpg" alt="image of Joseph Pascavis"/>
             <div style="clear:both;"></div>
 
+            <li><p class="name"><a name="evanh"></a>Evan Hansen</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/evanh.jpg" alt="image of Evan Hansen"/>
+            <div style="clear:both;"></div>
+
             <!--<li><p class="name"><a name=""></a></p>
                 <p>Student Shop Technician</p>
             </li>
