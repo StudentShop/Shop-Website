@@ -91,6 +91,7 @@
               <h3>Commercial Resources</h3>
               <ul>
                 <li><a href="http://3dprintingpricecheck.com/" rel="external">3D Printing Price Check</a></li>
+                <li><a href="https://madison-wi-3391.theupsstorelocal.com/products-services/new-3d-printing" rel="external">The UPS Store</a></li>
                 <li><a href="http://www.midwestproto.com/" rel="external">Midwest Prototyping</a></li>
                 <li><a href="http://www.ponoko.com/3d-printing" rel="external">Ponoko</a></li>
                 <li><a href="http://www.shapeways.com/" rel="external">Shapeways</a></li>
