@@ -45,7 +45,7 @@
 
         <h2>What do I need to get a shop permit?</h2>
 
-        <p>Please click the link in the navigation bar on the left of the screen that corresponds to the permit you wish to apply for. All information about the requirments and deadlines for the permit are located there.</p>
+        <p>Please click the link in the navigation bar on the left of the screen that corresponds to the permit you wish to apply for. All information about the requirements and deadlines for the permit are located there.</p>
 
         <h2>What is <q>EMU</q> and how do I access it?</h2>
 
