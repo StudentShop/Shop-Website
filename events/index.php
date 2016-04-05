@@ -57,19 +57,14 @@
                 <p>The shop now requires either a materials fee or a reserach fee be paid before using the shop. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page</a>.</p>
 
                 <h2>
-                  <a name="022616"></a>Limited Shop Hours</h2>
-                <h3>02/26/16</h3>
-                <p>The shop will be closed Friday, February 26<sup>th</sup> from 12pm to 2pm to celebrate Mark Richardson's last day.</p>
+                  <a name="040916"></a>Saturday Hours</h2>
+                <h3>04/09/16 &amp; 04/23/16</h3>
+                <p>The shop will be open April 9<sup>th</sup> and April 23<sup>rd</sup> from 9am - 4pm.</p>
 
                 <h2>
-                  <a name="031116"></a>Limited Shop Hours</h2>
-                <h3>03/11/16, 03/18/16, 04/01/16</h3>
-                <p>The shop will be closed March 11<sup>th</sup>, March 18<sup>th</sup>, and April 1<sup>st</sup> after 12pm to give tours to prospective students.</p>
-
-                <h2>
-                  <a name="032116"></a>Spring Break Hours</h2>
-                <h3>03/21/16</h3>
-                <p>The shop will be open March 21<sup>st</sup> through March 25<sup>th</sup> from 8am - 4pm.</p>
+                  <a name="041816"></a>Extended Hours</h2>
+                <h3>04/18/16</h3>
+                <p>The shop will be open until 10pm Monday through Thursday starting April 18<sup>th</sup>.</p>
 
               </div>
               <!-- END OF EVENTS -->

@@ -135,12 +135,10 @@
                     <div class="specialtycontent">
                       <!-- Add Events Here -->
                       <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#022626">Limited Hours</a>
-                        <br />02/26/16</p>
-                  <p><a href="/events/index.php#031116">Limited Hours</a>
-                    <br />03/11, 03/18, 4/1</p>
-                  <p><a href="/events/index.php#032116">Break Hours Start</a>
-                    <br />03/21/16</p>
+                  <p><a href="/events/index.php#040916">Saturday Hours</a>
+                        <br />04/09/2016 &amp; 04/23/2016</p>
+                  <p><a href="/events/index.php#041816">Extended Hours</a>
+                    <br />4/18/2016</p>
                   <p class="more"><a href="/events/index.php">View more...</a></p>
 
                   <!-- Bottom Right Featured Training Area -->
