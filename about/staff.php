@@ -293,16 +293,16 @@
             <img src="images/rebeccah.jpg" alt="image of Rebecca Hyatt"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="finleym"></a>Finely Myers</p>
+            <li><p class="name"><a name="finleym"></a>Finley Myers</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/finleym.jpg" alt="image of Finley Myers"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="charlien"></a>Charlie Nobel</p>
+            <li><p class="name"><a name="charlien"></a>Charlie Noble</p>
                 <p>Student Shop Technician</p>
             </li>
-            <img src="images/charlien.jpg" alt="image of Charlie Nobel"/>
+            <img src="images/charlien.jpg" alt="image of Charlie Noble"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="josephp"></a>Joseph Pascavis</p>
