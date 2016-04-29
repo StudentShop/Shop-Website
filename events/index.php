@@ -52,19 +52,9 @@
                     <p></p>-->
 
                 <h2>
-                  <a name="010116"></a>Shop Fees Policy</h2>
-                <h3>01/01/16</h3>
-                <p>The shop now requires either a materials fee or a reserach fee be paid before using the shop. You can read more about this policy change on our <a href="/about/fees.php">charges &amp; fees policy page</a>.</p>
-
-                <h2>
-                  <a name="040916"></a>Saturday Hours</h2>
-                <h3>04/09/16 &amp; 04/23/16</h3>
-                <p>The shop will be open April 9<sup>th</sup> and April 23<sup>rd</sup> from 9am - 4pm.</p>
-
-                <h2>
-                  <a name="041816"></a>Extended Hours</h2>
-                <h3>04/18/16</h3>
-                <p>The shop will be open until 10pm Monday through Thursday starting April 18<sup>th</sup>.</p>
+                  <a name="050916"></a>Break Hours Start</h2>
+                <h3>05/09/16</h3>
+                <p>The shop will be open 8am - 4pm Monday through Friday starting May 9<sup>th</sup>.</p>
 
               </div>
               <!-- END OF EVENTS -->

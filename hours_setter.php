@@ -31,7 +31,7 @@ $alternative_hours_2 = '<p>Mon-Thurs: 8am - 10pm<br />
    //Set date ranges for a week of different alternative hours following a week of alternative hours here
    //Full timestamp necessary YYYY-MM-DD HH:MM:SS
    $alt_hours_3 = [
-       ["2016-04-16 00:00", "2016-05-6 23:59:59"],
+       ["2016-04-16 00:00", "2016-04-29 23:59:59"],
    ];
 
    //Set how to display alt_hours_2 here
@@ -80,7 +80,7 @@ $sem_hours = [
 
 //Times the shop is open during Fall/Spring Semester
 $semester_hours = '<p>Mon-Thurs: 8am to 9pm<br />
-   Friday: 8am to 4:00pm<br />
+   Fri: 8am to 4pm<br />
    Weekend: Closed</p>';
 
 //Times the shop is open during Winter/Summer/Spring/etc. breaks
