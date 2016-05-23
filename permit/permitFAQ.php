@@ -68,7 +68,7 @@
 
         <h2>If I fail to complete the requirements for a green permit in time for my lab can I simply downgrade to a red permit so I can complete some of my lab?</h2>
 
-        <p>No. A red permit will not be issued to circumvent the green permit requirements for any class. All students enrolled in courses that have labs in the Student Shop are told at the beginning of the semester (by their professor) that they must obtain a green shop permit before being able to attend the lab and are given enough time to do so. InterEgr 160 is the only class that is an exception to this rule. InterEgr 160 students are required to obtain a <a href="/permit/info/red.php">red permit</a>. No exceptions will be made due to lack of planning or claims of ignorance. If you feel you were not adequately informed that is an issue that should be taken up with your professor.</p>
+        <p>No. A red permit will not be issued to circumvent the green permit requirement for any class. No exceptions will be made due to lack of planning or claims of ignorance. If you feel you were not adequately informed that is an issue that should be taken up with your professor.</p>
 
         <h2>Once I have gotten my permit, am I completely trained?</h2>
 
@@ -84,9 +84,9 @@
 
         <h2><a name="bestpermit"></a>What permit is best for me?</h2>
 
-        <p>Which permit is best for you depends on your needs. Each permit gives access to a different amount of shop resources. Read the information about the various permits using the navigation on the top, left hand side of this page. If you are using the Student Shop as part of a class that has lab in the shop (such as ME 313) you are required to obtain a <a href="/permit/info/green.php">green permit</a> and will be prohibited from partcipating in lab until the permit is obtained. InterEgr 160 is the only class that is an exception to this rule. InterEgr 160 students are required to obtain a <a href="/permit/info/red.php">red permit</a>.
+        <p>Which permit is best for you depends on your needs. Each permit gives access to a different amount of shop resources. Read the information about the various permits using the navigation on the top, left hand side of this page.
 
-          <h2>The green permit requires a test piece; what is it and why?</h2>
+        <h2>The green permit requires a test piece; what is it and why?</h2>
 
         <p>See the page about the test piece located <a href="/permit/info/testpiece.php">here</a>.</p>
 

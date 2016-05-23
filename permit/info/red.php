@@ -46,9 +46,7 @@
 							<h2>Overview</h2>
 							<p>The red permit is the mid-level permit. It is a good alternative to the green permit for students who do not wish to complete the addtional training on the mills and lathes but still need access to machines like drill presses, cutoff saws, and
 								band saws.</p>
-							<p>All students in classes using the Student Shop must obtain a green permit (a red permit would
-								<em>not</em> be an acceptable alternative) with the exception of InterEgr 160 which requires a red permit.</p>
-
+							
 							<img src="/permit/images/Application-Process-Red-Permit.png" alt="Application process for red permit. Application process takes about 1-2 weeks" align="middle" height="259px" width="710px" />
 
 							<p>

@@ -44,9 +44,7 @@
 
 							<h2>Overview</h2>
 							<p>The green permit is the highest level permit and gives students the most access to shop resources including mills and lathes. The training and experience gained from getting a green permit will make the applicant a better engineer.</p>
-							<p>All students in classes using the Student Shop must obtain a green permit (a red permit would
-								<em>not</em> be an acceptable alternative) with the exception of InterEgr 160 which requires a red permit. It is strongly recommend that individuals begin the process of getting a green permit as early as possible to avoid problems.</p>
-
+					
 							<img src="/permit/images/Application-Process-Green-Permit.png" alt="Application process for green permit. Application process takes about 2 weeks" />
 
 							<p>
