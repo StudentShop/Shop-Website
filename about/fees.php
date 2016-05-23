@@ -49,10 +49,11 @@
               <h3>Exceptions</h3>
               <ul>
                 <li>All faculty and University staff including academic, classified permanent, classified LTE, classified project, and limited (but excluding student hourlies) are exempt from the materials fee.</li>
-               <li>Teaching assistants for courses that use the shop may be entitled to have the fee waived. Please use this form to <a href="https://emu.engr.wisc.edu/student_shop_fee/enter_student.php">request the fee be waived</a>.</li>
-              <li>Those working on funded research are required to pay the research fee (see below) rather than the materials fee.</li>
-              <li>Individuals with a permit may check out hand tools (not including tooling, machine tools, or electric or pneumatic power tools) without paying the materials fee.</li>
-              <li>Enlisting shop services for hire (<a href="/capabilities/3dprint/index.php">3d printing</a>, <a href="/capabilities/instrshop/index.php">Instrument Shop</a>, etc.) does not require paying the fee (nor even a permit).</li></ul>
+                <li>Teaching assistants for courses that use the shop may be entitled to have the fee waived. Please use this form to <a href="https://emu.engr.wisc.edu/student_shop_fee/enter_student.php">request the fee be waived</a>.</li>
+                <li>Individuals employed by the College of Engineering to work on instructional projects (i.e., projects to support a course) are exempt from the materials fee.</li>
+                <li>Those working on funded research are required to pay the research fee (see below) rather than the materials fee.</li>
+                <li>Individuals with a permit may check out hand tools (not including tooling, machine tools, or electric or pneumatic power tools) without paying the materials fee.</li>
+                <li>Enlisting shop services for hire (<a href="/capabilities/3dprint/index.php">3d printing</a>, <a href="/capabilities/instrshop/index.php">Instrument Shop</a>, etc.) does not require paying the fee (nor even a permit).</li></ul>
 
               <h2><a name="researchfee"></a>Research Fee</h2>
               <p>Individuals working on funded research are required to pay a biannual research fee of $100 to use the Student Shop (i.e. $200 per user, per year). The first period extends from December through June and the second extends from June through December (allowing a one month overlap at the start and end of each fee period).</p>
