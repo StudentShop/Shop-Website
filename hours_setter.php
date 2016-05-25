@@ -7,26 +7,24 @@
 //Set date ranges for alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
-    ["2016-04-02 00:00", "2016-04-09 23:59:59"],
+    ["2016-05-25 00:00", "2016-05-27 23:59:59"],
 ];
 
 //Set how to display alt_hours_1 here
-$alternative_hours_1 ='<p>Mon-Thurs: 8am - 9pm<br />
-   Fri: 8am - 4pm<br />
-   Saturday: 9am - 4pm<br />
-   Sunday: Closed</p>';
+$alternative_hours_1 ='<p>Mon-Thurs: 8am - 4pm<br />
+   Friday: Closed<br />
+   Weekend: Closed</p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
-    ["2016-04-16 00:00", "2016-04-23 23:59:59"],
+    ["2016-05-28 00:00", "2016-06-3 23:59:59"],
 ];
 
 //Set how to display alt_hours_2 here
-$alternative_hours_2 = '<p>Mon-Thurs: 8am - 10pm<br />
-   Fri: 8am - 4pm<br />
-   Saturday: 9am - 4pm<br />
-   Sunday: Closed</p>';
+$alternative_hours_2 = '<p>Monday: Closed<br />
+   Tues-Fri: 8am - 4pm<br />
+   Weekend: Closed</p>';
 
    //Set date ranges for a week of different alternative hours following a week of alternative hours here
    //Full timestamp necessary YYYY-MM-DD HH:MM:SS
@@ -61,21 +59,21 @@ $sem_hours = [
 /*2015 Fall start & end*/["2015-09-02 00:00", "2015-12-14 23:59:59"],
 /*2016 Spring start & spring break start*/["2016-01-19 00:00", "2016-03-19 00:00"],
 /*2016 Spring break end & spring end*/["2016-03-28 00:00", "2016-05-06 23:59:59"],
-/*2016 Fall start & end*/["2016-09-02 00:00", "2016-12-15 23:59:59"],
-/*2017 Spring start & spring break start*/["2017-01-23 00:00", "2017-03-18 00:00"],
-/*2017 Spring break end & spring end*/["2017-03-27 00:00", "2017-05-11 23:59:59"],
+/*2016 Fall start & end*/["2016-09-06 00:00", "2016-12-15 23:59:59"],
+/*2017 Spring start & spring break start*/["2017-01-17 00:00", "2017-03-18 00:00"],
+/*2017 Spring break end & spring end*/["2017-03-27 00:00", "2017-05-04 23:59:59"],
 /*2017 Fall start & end*/["2017-09-05 00:00", "2017-12-15 23:59:59"],
-/*2018 Spring start & spring break start*/["2018-01-22 00:00", "2018-03-24 00:00"],
-/*2018 Spring break end & spring end*/["2018-04-02 00:00", "2018-05-10 23:59:59"],
+/*2018 Spring start & spring break start*/["2018-01-16 00:00", "2018-03-24 00:00"],
+/*2018 Spring break end & spring end*/["2018-04-02 00:00", "2018-05-03 23:59:59"],
 /*2018 Fall start & end*/["2018-09-04 00:00", "2018-12-14 23:59:59"],
-/*2019 Spring start & spring break start*/["2019-01-22 00:00", "2019-03-16 00:00"],
-/*2019 Spring break end & spring end*/["2019-03-25 00:00", "2019-05-10 23:59:59"],
+/*2019 Spring start & spring break start*/["2019-01-14 00:00", "2019-03-16 00:00"],
+/*2019 Spring break end & spring end*/["2019-03-25 00:00", "2019-05-02 23:59:59"],
 /*2019 Fall start & end*/["2019-09-03 00:00", "2019-12-13 23:59:59"],
-/*2020 Spring start & spring break start*/["2020-01-21 00:00", "2020-03-14 00:00"],
-/*2020 Spring break end & spring end*/["2020-03-23 00:00", "2020-05-08 23:59:59"],
+/*2020 Spring start & spring break start*/["2020-01-13 00:00", "2020-03-14 00:00"],
+/*2020 Spring break end & spring end*/["2020-03-23 00:00", "2020-04-30 23:59:59"],
 /*2020 Fall start & end*/["2020-09-02 00:00", "2020-12-15 59:59:59"],
-/*2021 Spring start & spring break start*/["2021-01-19 00:00", "2021-03-27 00:00"],
-/*2021 Spring break end & spring end*/["2021-04-05 00:00", "2021-05-07 23:59:59"],
+/*2021 Spring start & spring break start*/["2021-01-11 00:00", "2021-03-27 00:00"],
+/*2021 Spring break end & spring end*/["2021-04-05 00:00", "2021-04-29 23:59:59"],
 ];
 
 //Times the shop is open during Fall/Spring Semester
