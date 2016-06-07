@@ -101,16 +101,6 @@
 
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="michaels"></a>Michael Sullivan</p>
-              <p>Instrument Maker - Specialist<br />
-                <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
-                Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;">(&#54;&#48;&#56;) &#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;</a><br />
-                Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#111;&#115;&#117;&#108;&#108;&#105;&#118;&#97;&#110;&#51;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#109;&#111;&#115;&#117;&#108;&#108;&#105;&#118;&#97;&#110;&#51;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
-            </li>
-
-            <img src="images/michaels.jpg" alt="photo of Michael Sullivan" />
-
-            <div style="clear:both;"></div>
           </ul>
 
           <h2>Student Staff</h2>
