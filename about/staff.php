@@ -218,12 +218,6 @@
             <img src="images/ashleyk.jpg" alt="image of Ashley Klein"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="gabrielg"></a>Gabriel Gottieb</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/gabrielg.jpg" alt="image of Gabriel Gottieb"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="nicholast"></a>Nicholas Termini</p>
                 <p>Student Shop Technician</p>
             </li>
