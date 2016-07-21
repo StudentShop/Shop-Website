@@ -164,12 +164,6 @@
             <img src="images/tedv.jpg" alt="image of Ted Vaala"/>
             <div style="clear:both;"></div>
 
-	        <li><p class="name"><a name="kevinr"></a>Kevin Rogers</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/kevinr.jpg" alt="image of Kevin Rogers"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="reidc"></a>Reid Carlson</p>
                 <p>Student Shop Technician</p>
             </li>
