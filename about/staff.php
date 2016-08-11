@@ -143,19 +143,6 @@
             <img src="images/abbyb.jpg" alt="image of Abby Buarapha"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="michaelk"></a>Michael Keck</p>
-              <p>Student Shop Technician</br>
-		        Instructor</p>
-            </li>
-            <img src="images/michaelk.jpg" alt="image of Michael Keck"/>
-            <div style="clear:both;"></div>
-
-            <li><p class="name"><a name="liamw"></a>Liam West</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/liamw.jpg" alt="image of a Liam West"/>
-            <div style="clear:both;"></div>
-
 	        <li><p class="name"><a name="lucasb"></a>Lucas Benish</p>
                 <p>Student Shop Technician</p>
             </li>
@@ -175,12 +162,6 @@
             <img src="images/tedv.jpg" alt="image of Ted Vaala"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="reidc"></a>Reid Carlson</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/reidc.jpg" alt="image of Reid Carlson"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="daniele"></a>Daniel Eckerson</p>
                 <p>Student Shop Technician</p>
             </li>
@@ -191,6 +172,12 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/elizabethk.jpg" alt="image of Elizabeth Kotoski"/>
+            <div style="clear:both;"></div>
+
+           <li><p class="name"><a name="michaelr"></a>Michael Rademacher</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/michaelr.jpg" alt="image of Michael Rademacher"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
@@ -215,12 +202,6 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/owenz.jpg" alt="image of Owen Zwiefelhofer"/>
-            <div style="clear:both;"></div>
-
-            <li><p class="name"><a name="ashleyk"></a>Ashley Klein</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/ashleyk.jpg" alt="image of Ashley Klein"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="nicholast"></a>Nicholas Termini</p>
