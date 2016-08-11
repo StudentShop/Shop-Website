@@ -57,7 +57,7 @@
               </ul>
 
               <h2>Access</h2>
-              <p>Restricted to individuals affiliated with the College of Engineering.</p>
+              <p>Requires the <a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 upgrade</a>.</p>
               <p>To set up a time to use this machine please <a href="http://coeshoptest.engr.wisc.edu/about/contact.php">contact the shop.</a></p>
 
               <h2>
