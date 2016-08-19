@@ -52,9 +52,9 @@
                     <p></p>-->
 
                 <h2>
-                  <a name="050916"></a>Break Hours Start</h2>
-                <h3>05/09/16</h3>
-                <p>The shop will be open 8am - 4pm Monday through Friday starting May 9<sup>th</sup>.</p>
+                  <a name="090116"></a>Shop Closed</h2>
+                <h3>09/01/16 - 09/05/16</h3>
+                <p>The shop will be closed September 1<sup>st</sup>, 2<sup>nd</sup>, and 5<sup>th</sup> for the holiday.<p>
 
               </div>
               <!-- END OF EVENTS -->
