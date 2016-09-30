@@ -136,6 +136,12 @@
             <img src="images/jenniferb.jpg" alt="image of Jennifer Bartaszewicz"/>
             <div style="clear:both;"></div>
 
+            <li><p class="name"><a name="michaelk"></a>Michael Keck</p>
+                 <p>Student Shop Technician</p>
+             </li>
+             <img src="images/michaelk.jpg" alt="image of Michael Keck"/>
+             <div style="clear:both;"></div>
+
             <li><p class="name"><a name="abbyb"></a>Abby Buarapha</p>
               <p>Student Shop Technician</br>
 		        Instructor</p>
@@ -156,12 +162,6 @@
             <img src="images/aislinno.jpg" alt="image of Aislinn O'Dwyer"/>
             <div style="clear:both;"></div>
 
-	        <li><p class="name"><a name="tedv"></a>Ted Vaala</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/tedv.jpg" alt="image of Ted Vaala"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="daniele"></a>Daniel Eckerson</p>
                 <p>Student Shop Technician</p>
             </li>
@@ -172,12 +172,6 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/elizabethk.jpg" alt="image of Elizabeth Kotoski"/>
-            <div style="clear:both;"></div>
-
-           <li><p class="name"><a name="michaelr"></a>Michael Rademacher</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/michaelr.jpg" alt="image of Michael Rademacher"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
@@ -202,6 +196,12 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/owenz.jpg" alt="image of Owen Zwiefelhofer"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="tedv"></a>Ted Vaala</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/tedv.jpg" alt="image of Ted Vaala"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="nicholast"></a>Nicholas Termini</p>
@@ -252,6 +252,59 @@
             <img src="images/evanh.jpg" alt="image of Evan Hansen"/>
             <div style="clear:both;"></div>
 
+            <li><p class="name"><a name="paulk"></a>Paul Kijak</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/paulk.jpg" alt="image of Paul Kijak"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="clairec"></a>Claire Chen</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/clairec.jpg" alt="image of Claire Chen"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="jacobf"></a>Jacob Fuiten</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/jacobf.jpg" alt="image of Jacob Fuiten"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="michaell"></a>Michael Lucas</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/michaell.jpg" alt="image of Michael Lucas"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="viktorm"></a>Viktor Mudry</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/viktorm.jpg" alt="image of Viktor Mudry"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="gracer"></a>Grace Restle</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/gracer.jpg" alt="image of Grace Restle"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="charliec"></a>Charlie Chermak</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/charliec.jpg" alt="image of Charlie Chermak"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="tavishig"></a>Tavishi Gupta</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/tavishig.jpg" alt="image of Tavishi Gupta"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="eriks"></a>Erik Spitz</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/eriks.jpg" alt="image of Erik Spitz"/>
+            <div style="clear:both;"></div>
             <!--<li><p class="name"><a name=""></a></p>
                 <p>Student Shop Technician</p>
             </li>
