@@ -34,7 +34,7 @@
                 //array is of the form ["image url", "url to go to  when image is clicked", "target attribute", "text displayed over image", "alt attribute" ]
                 //["/images/pictures_homepage/welcomeBack.jpg", "/about/policies.php", "", "Welcome back!"],
                   //["/images/pictures_homepage/pre_diff_tuition.jpg", "/about/differentialtuition.php", "", "The shop before differential tuition. Click to learn more.", "Differential tuition advertisement"],
-                ["/images/pictures_homepage/waterjet.gif", "/about/capabilities/instrshop/index.php", "", "Have two dimensional parts cut in record time using the new waterjet service", "waterjet service now available"],
+                ["/images/pictures_homepage/waterjet.gif", "/capabilities/instrshop/index.php", "", "Have two dimensional parts cut in record time using the new waterjet service", "waterjet service now available"],
 
                 ["/images/pictures_homepage/jebresearch.jpg", "", "", "Jeb Phillips displays a friction stir welding tool that can transmit temperature data to aid research.", "Jeb Phillips displays a friction stir welding tool that can transmit temperature data aid research."],
                 ["/images/pictures_homepage/ME429F11.jpg", "http://courses.engr.wisc.edu/me/me429.html", "_new", "Engineering students learning about tool life for ME 429", "Student machining on a lathe"],
