@@ -50,7 +50,24 @@
           <li> Heat treating of metals</li>
           <li> Sign and label engraving in metal and plastic</li>
           <li> Plunge electrical discharge machining (EDM)</li>
+          <li>Waterjet cutting</li>
         </ul>
+        <h2>Fabrication Requests</h2>
+        <p>For a cost estimate (labor rate: $70 per hour) please <a href="/about/contact.php">email one of the instrument makers</a> and arrange a time to meet to discuss your project. You email should include the following:</p>
+          <ul>
+            <li>Times you are available</li>
+            <li>A CAD drawing of your project (if possible)</li>
+          </ul>
+
+        <h2>Waterjet Requests</h2>
+        <p>For a cost estimate please email <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#117;&#103;&#104;&#101;&#115;&#51;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">Mike Hughes</a> and include the following information in your email:</p>
+          <ul>
+              <li>A CAD drawing dimensioned in Imperial (a.k.a. English) and in DXF format</li>
+              <li>The part needs to be normal to when it is saved (i.e. must be straight on, no isometric drawings or skewed parts)</li>
+              <li>One part per file, if there are multiple parts please include the quanitity of each. Do not draw multiple parts in a single file.</li>
+              <li>Material type</li>
+              <li>Thickness of material</li>
+          </ul>
 
       </div> <!-- END OF MAINCONTENT -->
 
