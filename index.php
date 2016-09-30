@@ -36,7 +36,7 @@
                   //["/images/pictures_homepage/pre_diff_tuition.jpg", "/about/differentialtuition.php", "", "The shop before differential tuition. Click to learn more.", "Differential tuition advertisement"],
                 ["/images/pictures_homepage/waterjet.gif", "/about/capabilities/instrshop/index.php", "", "Have two dimensional parts cut in record time using the new waterjet service", "waterjet service now available"],
 
-                ["/images/pictures_homepage/jebresearch.jpg", "", "", "Jeb Phillips displays a friction stir welding tool that can transmit temperature data to aid research.", "Jeb Phillips displays a friction stir welding tool that can transmit temperature data aid research."],               
+                ["/images/pictures_homepage/jebresearch.jpg", "", "", "Jeb Phillips displays a friction stir welding tool that can transmit temperature data to aid research.", "Jeb Phillips displays a friction stir welding tool that can transmit temperature data aid research."],
                 ["/images/pictures_homepage/ME429F11.jpg", "http://courses.engr.wisc.edu/me/me429.html", "_new", "Engineering students learning about tool life for ME 429", "Student machining on a lathe"],
                 ["/images/pictures_homepage/markresearch.jpg", "", "", "Mark Rodarte displays a research apparatus he built to allow researchers to see R245FA while boiling.", "Mark Rodarte displays a research apparatus he built to allow researchers to see R245FA while boiling."],
                     //["/images/pictures_homepage/amandamic.jpg", "/training/basics/measurement.php#mic", "", "This engineering student knows how to read a micrometer, do you? Click to learn how.", "Student measuring part on lathe with micrometer"],
@@ -46,7 +46,7 @@
                   ],
                   displaymode: {
                     type: 'auto',
-                    pause: 6000,
+                    pause: 10000,
                     cycles: 0,
                     wraparound: false
                   },
