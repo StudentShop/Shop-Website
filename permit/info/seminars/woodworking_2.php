@@ -35,10 +35,10 @@
 	  <h1>Woodworking 2 Seminar</h1>
 
       	<h2>Overview</h2>
-        	<p>The woodworking 2 seminar is required to complete the woodworking 2 upgrade. This seminar will familiarize students with the safe operation of jointers, planers, routers, and biscuit joiners.</p>
+        	<p>The woodworking 2 seminar is required to complete the woodworking 2 upgrade. This seminar will familiarize students with the safe operation of jointers, planers, routers, biscuit jointers, pocket screws and dado blades.</p>
 
          <h2>Duration</h2>
-         	<p>~2.5 hours</p>
+         	<p>~3 hours</p>
 
         <h2>Prerequisites</h2>
         	<p>(must be completed in order)</p>
