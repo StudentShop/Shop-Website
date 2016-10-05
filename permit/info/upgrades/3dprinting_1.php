@@ -58,12 +58,15 @@
 							</ul>
 
 							<h2>Requirements</h2>
-							<p>(must be completed in order)</p>
+
+							<p>The 3D printing upgrade is not available at this time.</p>
+
+							<!--<p>(must be completed in order)</p>
 							<ul>
 							<li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the 3D printing 1 upgrade</a>&#42;</li>
 							<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">Email the shop</a> to schedule a training time</li>
 							</ul>
-							<p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
+							<p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>-->
 
 							<h2>Time Frame</h2>
 							<ul>
