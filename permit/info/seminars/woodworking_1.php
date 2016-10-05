@@ -35,10 +35,10 @@
 	  <h1>Woodworking 1 Seminar</h1>
       
       	<h2>Overview</h2>
-        	<p>The woodworking 1 seminar is required to complete the woodworking 1 upgrade. This seminar will familiarize students with the safe operation of panel, miter, track, circular and table saws (both conventional and SawStop) as well as routers and biscuit joiners.</p>
+        	<p>The woodworking 1 seminar is required to complete the woodworking 1 upgrade. This seminar will familiarize students with the safe operation of <a href="https://en.wikipedia.org/wiki/Panel_saw" rel="external">panel</a>, <a href="https://en.wikipedia.org/wiki/Miter_saw"    rel="external">miter</a>, track, <a href="https://en.wikipedia.org/wiki/Circular_saw" rel="external">circular</a>, and <a href="https://en.wikipedia.org/wiki/Table_saw" rel="external">table saws</a> (both conventional and SawStop) as well as simple glues and fasteners.</p>
          
          <h2>Duration</h2>
-         	<p>~2.5 hours</p>
+         	<p>~2 hours</p>
             
         <h2>Prerequisites</h2>
         	<p>(must be completed in order)</p>
