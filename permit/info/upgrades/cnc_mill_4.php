@@ -40,15 +40,9 @@
 
         <h2>Privileges</h2>
         	<ul>
-          		<li>Four axis CNC machining on a machine of choice.</li>
+          		<li>Four axis CNC machining on the Tormach PCNC1100.</li>
         	</ul>
-        	<p>Note: This only gives access to the machine choosen. To use one of the other machines you would need to go through this process again for that machine. You do not need to redraw your parts as long as you have them from your previous CNC Mill 4 upgrade.</p>
-
-        <h2>Machines</h2>
-        	<ul>
-          		<li>Tormach PCNC1100</li>
-        	</ul>
-
+        	
         <h2>Prerequisites</h2>
         <ul>
         	<li>Green shop permit</li>
