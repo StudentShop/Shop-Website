@@ -96,6 +96,7 @@
                 <li><a href="http://www.ponoko.com/3d-printing" rel="external">Ponoko</a></li>
                 <li><a href="http://www.shapeways.com/" rel="external">Shapeways</a></li>
                 <li><a href="http://www.xcentricmold.com/rapid-prototyping.php" rel="external">Xcentric</a></li>
+                <li><a href="http://3dhubs.com/students" rel="external">3D Hubs</a></li>
               </ul>
 
               <h3>Project Ideas &amp; CAD Files:</h3>
