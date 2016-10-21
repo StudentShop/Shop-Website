@@ -117,15 +117,13 @@
           <h2>Student Staff</h2>
           <ul>
             <li><p class="name"><a name="mattm"></a>Matt Michalak</p>
-              <p>Student Shop Technician<br />
-                Instructor</p>
+              <p>Student Shop Technician</p>
             </li>
             <img src="images/matt.jpg" alt="photo of Matt Michalak"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="kyler"></a>Kyle Roethle</p>
-              <p>Student Shop Technician<br />
-                Instructor</p>
+              <p>Student Shop Technician</p>
             </li>
             <img src="images/kyler.jpg" alt="image of Kyle Roethle"/>
             <div style="clear:both;"></div>
@@ -143,8 +141,7 @@
              <div style="clear:both;"></div>
 
             <li><p class="name"><a name="abbyb"></a>Abby Buarapha</p>
-              <p>Student Shop Technician</br>
-		        Instructor</p>
+              <p>Student Shop Technician</p>
             </li>
             <img src="images/abbyb.jpg" alt="image of Abby Buarapha"/>
             <div style="clear:both;"></div>
@@ -156,8 +153,7 @@
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="aislinno"></a>Aislinn O'Dwyer</p>
-                <p>Student Shop Technician<br />
-                Instructor</p>
+                <p>Student Shop Technician</p>
             </li>
             <img src="images/aislinno.jpg" alt="image of Aislinn O'Dwyer"/>
             <div style="clear:both;"></div>
