@@ -52,9 +52,14 @@
                     <p></p>-->
 
                 <h2>
-                  <a name="090116"></a>Shop Closed</h2>
-                <h3>09/01/16 - 09/05/16</h3>
-                <p>The shop will be closed September 1<sup>st</sup>, 2<sup>nd</sup>, and 5<sup>th</sup> for the holiday.<p>
+                  <a name="111416"></a>Extended Hours Begin</h2>
+                <h3>11/14/16</h3>
+                <p>The shop will be open Monday through Thursday from 8am until 10pm starting November 14<sup>th</sup>.</p>
+
+                <h2>
+                  <a name="111916"></a>Saturday Hours Available</h2>
+                <h3>11/14/16</h3>
+                <p>The shop will be open Saturday 11/19/16, 12/03/16, &amp; 12/10/16 from 9am - 4pm.</p>                
 
               </div>
               <!-- END OF EVENTS -->

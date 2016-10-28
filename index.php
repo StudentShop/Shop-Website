@@ -137,8 +137,10 @@
                     <div class="specialtycontent">
                       <!-- Add Events Here -->
                       <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#090116">Shop Closed</a>
-                        <br />09/01/16 - 09/05/16</p>
+                  <p><a href="/events/index.php#111416">Extended Hours Begin</a>
+                        <br />11/14/16</p>
+                  <p><a href="/events/index.php#111916">Saturday Hours Available</a>
+                        <br />11/19/16, 12/03/16, &amp; 12/10/16</p>
                   <p class="more"><a href="/events/index.php">View more...</a></p>
 
                   <!-- Bottom Right Featured Training Area -->
