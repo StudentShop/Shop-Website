@@ -11,7 +11,7 @@ $alt_hours_1 = [
 ];
 
 //Set how to display alt_hours_1 here
-$alternative_hours_1 = '<p>Mon-Thurs: 8am - 10pm<br />
+$alternative_hours_1 = '<p>Mon-Thurs: 8am - 9pm<br />
    Fri: 8am - 4pm<br />
    Saturday: 9am - 4pm<br />
    Sunday: Closed</p>';
@@ -19,29 +19,41 @@ $alternative_hours_1 = '<p>Mon-Thurs: 8am - 10pm<br />
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
-    ["2016-11-26 00:00", "2016-12-03 23:59:59"],
+    ["2016-11-20 00:00", "2016-11-25 23:59:59"],
 ];
 
 //Set how to display alt_hours_2 here
-$alternative_hours_2 = '<p>Mon-Thurs: 8am - 10pm<br />
+$alternative_hours_2 = '<p>Mon-Tues: 8am - 10pm<br />
+   Wed: 8am - 4pm<br />
+   Thurs-Fri: Closed<br />
+   Weekend: Closed</p>';
+
+//Set date ranges for a week of different alternative hours following a week of alternative hours here
+//Full timestamp necessary YYYY-MM-DD HH:MM:SS
+$alt_hours_3 = [
+    ["2016-11-26 00:00", "2016-12-10 23:59:59"],
+];
+
+//Set how to display alt_hours_3 here
+$alternative_hours_3 = '<p>Mon-Thurs: 8am - 10pm<br />
    Fri: 8am - 4pm<br />
    Saturday: 9am - 4pm<br />
    Sunday: Closed</p>';
 
-   //Set date ranges for a week of different alternative hours following a week of alternative hours here
-   //Full timestamp necessary YYYY-MM-DD HH:MM:SS
-   $alt_hours_3 = [
-       ["2016-11-14 00:00", "2016-12-15 23:59:59"],
-   ];
+//Set date ranges for a week of different alternative hours following a week of alternative hours here
+//Full timestamp necessary YYYY-MM-DD HH:MM:SS
+$alt_hours_4 = [
+   ["2016-11-21 00:00", "2016-12-15 23:59:59"],
+];
 
-   //Set how to display alt_hours_2 here
-   $alternative_hours_3 = '<p>Mon-Thurs: 8am - 10pm<br />
+//Set how to display alt_hours_4 here
+$alternative_hours_4 = '<p>Mon-Thurs: 8am - 10pm<br />
    Fri: 8am - 4pm<br />
    Weekend: Closed</p>';
 
 //Set date ranges for the shop being closed all week below
-//NOT FOR INDIVIDUAL DAYS!, use alt_hours_1, alt_hours_2, and 
-//alt_hours_3 for that.
+//NOT FOR INDIVIDUAL DAYS!, use alt_hours_1, alt_hours_2, 
+//alt_hours_3, and alt_hours_4 for that.
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $shop_closed = [
     ["2015-12-26 00:00", "2016-01-01 23:59:59"],
@@ -124,6 +136,8 @@ if (today_in_range($shop_closed)) {
     echo $alternative_hours_2;
 } elseif (today_in_range($alt_hours_3)) {
     echo $alternative_hours_3;
+} elseif (today_in_range($alt_hours_4)) {
+    echo $alternative_hours_4;    
 } elseif (today_in_range($sem_hours)) {
     echo $semester_hours;
 } else {
