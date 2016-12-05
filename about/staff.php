@@ -176,12 +176,6 @@
             <img src="images/margareth.jpg" alt="image of Margaret Heinemann"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="johnr"></a>John Ryan</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/johnr.jpg" alt="image of John Ryan"</>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="vincents"></a>Vincent Schad</p>
                 <p>Student Shop Technician</p>
             </li>
