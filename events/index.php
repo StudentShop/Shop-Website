@@ -52,18 +52,9 @@
                     <p></p>-->
 
                 <h2>
-                  <a name="112116"></a>Extended Hours Begin</h2>
-                <h3>11/21/16</h3>
-                <p>The shop will be open Monday through Thursday from 8am until 10pm starting November 21<sup>st</sup>.</p>
-
-                <h2>
-                  <a name="120316"></a>Saturday Hours Available</h2>
-                <h3>12/03/16,  &amp; 12/10/16</h3>
-                <p>The shop will be open Saturday 12/03/16 &amp; 12/10/16 from 9am - 4pm.</p>                
-                <h2>
-                  <a name="112316"></a>Restricted Hours</h2>
-                <h3>11/23/16 - 11/25/16</h3>
-                <p>The shop will be open Wednesday 11/23/16 from 8am - 4pm. The Shop will be closed 11/24/16 &amp; 11/25/16 for the holiday.</p>
+                  <a name="121516"></a>Break Hours Start</h2>
+                <h3>12/15/16</h3>
+                <p>The shop will be open Monday through Friday from 8am until 4pm starting December 15<sup>th</sup>.</p>
 
               </div>
               <!-- END OF EVENTS -->

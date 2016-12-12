@@ -7,12 +7,12 @@
 //Set date ranges for alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
-    ["2016-11-12 00:00", "2016-11-19 23:59:59"],
+    ["2016-12-12 00:00", "2016-12-16 23:59:59"],
 ];
 
 //Set how to display alt_hours_1 here
-$alternative_hours_1 = '<p>Mon-Thurs: 8am - 9pm<br />
-   Fri: 8am - 4pm<br />
+$alternative_hours_1 = '<p>Mon-Wed: 8am - 10pm<br />
+   Thurs-Fri: 8am - 4pm<br />
    Weekend: Closed</p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
