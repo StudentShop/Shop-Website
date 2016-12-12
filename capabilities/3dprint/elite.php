@@ -60,11 +60,11 @@
               <h2>
                 <a name="costs"></a>Costs</h2>
               <ul>
-                <li>Model Material: &#36;4.64 per cubic inch</li>
-                <li>Support Material: &#36;4.46 per cubic inch</li>
+                <li>Model Material: &#36;2.31 per cubic inch</li>
+                <li>Support Material: &#36;4.44 per cubic inch</li>
                 <li>Machine Time: &#36;3.48 per hour</li>
-                <li>Base: &#36;5.00 per base</li>
-                <li>For non-instructional printing requests, staff time will be charged as a flat fee of $20.</li>
+                <li>Base: &#36;5.21 per base</li>
+                <li>For non-instructional printing requests, staff time will be charged as a flat fee of $15.</li>
               </ul>
 
               <h2>Default Settings</h2>
