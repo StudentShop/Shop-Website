@@ -139,8 +139,10 @@
                       <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
                   <p><a href="/events/index.php#121516">Break Hours Start</a>
                         <br />12/15/16</p>
-                  <!--<p><a href="/events/index.php#112316">Shop Closed</a>
-                        <br />12/23/16 - 01/02/17</p>      
+                  
+                  <p><a href="/events/index.php#122616">Shop Closed</a>
+                        <br />12/26/16 - 12/30/16</p>
+                              
                   <p class="more"><a href="/events/index.php">View more...</a></p>-->
 
                   <!-- Bottom Right Featured Training Area -->

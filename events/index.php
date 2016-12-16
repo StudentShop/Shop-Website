@@ -55,6 +55,12 @@
                   <a name="121516"></a>Break Hours Start</h2>
                 <h3>12/15/16</h3>
                 <p>The shop will be open Monday through Friday from 8am until 4pm starting December 15<sup>th</sup>.</p>
+                
+                <h2>
+                  <a name="122616"></a>Shop Closed</h2>
+                <h3>12/26/16 - 12/30/16</h3>
+                <p>The shop will be closed for the holidays the week of December 26<sup>th</sup>.</p>
+
 
               </div>
               <!-- END OF EVENTS -->

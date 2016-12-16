@@ -55,7 +55,7 @@ $alternative_hours_4 = '<p>Mon-Thurs: 8am - 10pm<br />
 //alt_hours_3, and alt_hours_4 for that.
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $shop_closed = [
-    ["2015-12-26 00:00", "2016-01-01 23:59:59"],
+    ["2016-12-24 00:00", "2016-12-30 23:59:59"],
 ];
 
 //Shop closed all week
