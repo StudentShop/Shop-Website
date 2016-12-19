@@ -42,7 +42,7 @@
               <h1>Dimension Elite</h1>
               <h2>Overview</h2>
               <p>The Student Shop has a Dimension Elite 3D printer which can perform <a href="https://en.wikipedia.org/wiki/Fused_deposition_modeling" rel="external">fused deposition modeling</a> with
-                <acronym title="acrylonitrile butadiene styrene">ABS</acronym>. The machine is excellant for high quility rapid prototyping.</p>
+                <acronym title="acrylonitrile butadiene styrene">ABS</acronym>. The machine is excellent for high quality rapid prototyping.</p>
               <h2>Specifications</h2>
               <ul>
                 <li>Build envelope: 8&quot; x 8&quot; x 12&quot; (203 x 203 x 305 mm)</li>

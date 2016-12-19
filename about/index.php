@@ -41,7 +41,7 @@
         <h2>Overview</h2>
           <p>The College of Engineering Student Machine Shop is
         located in the Engineering Centers Building on the beautiful University
-        of Wisconsin campus. The Student Shop provides Unveristy of Wisconsin
+        of Wisconsin campus. The Student Shop provides University of Wisconsin
         engineering students with the majority of the tools and equipment found
         in a modern machine shop. The shop is equipped with both manual and CNC
         mills and lathes, drill presses, grinders, belt sanders, band saws, and
@@ -70,7 +70,7 @@
 
           <p>In keeping with the <a href="http://wisconsinidea.wisc.edu/"
           rel="external">Wisconsin Idea</a>, we try to make as much of our
-          training publicly available as possible. In additon to the content on
+          training publicly available as possible. In addition to the content on
           this website, we also have additional content on <a
           href="https://github.com/StudentShop">Github</a>.</p>
 
@@ -79,7 +79,7 @@
         Wisconsin-Madison, in accordance with the <a
         href="http://wisconsinidea.wisc.edu/" rel="external">Wisconsin Idea</a>,
         presents the information on this web site as a service to the university
-        community and other internet users. While information on this site is
+        community and other Internet users. While information on this site is
         about proper machine shop practices, it is not a substitute for formal
         training. Moreover, we make no warranty or guarantee concerning the
         accuracy or reliability of the content at this site or at other sites to

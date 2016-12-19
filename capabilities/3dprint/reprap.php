@@ -43,7 +43,7 @@
               <h1>RepRap</h1>
               <h2>Overview</h2>
               <p>The Student Shop has a <a href="http://reprap.org/" rel="external">RepRap</a> which can perform <a href="https://en.wikipedia.org/wiki/Fused_deposition_modeling" rel="external">fused deposition modeling</a> with
-                <acronym title="acrylonitrile butadiene styrene">ABS</acronym>. The machine is excellant for low cost, low quality rapid prototyping.</p>
+                <acronym title="acrylonitrile butadiene styrene">ABS</acronym>. The machine is excellent for low cost, low quality rapid prototyping.</p>
 
               <h3>Specifications:</h3>
               <ul>
