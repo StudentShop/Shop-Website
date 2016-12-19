@@ -42,7 +42,7 @@
         <ul>
           <li> CNC Milling - 2D and 3D profiling</li>
           <li> CNC Turning - complex curves and shapes</li>
-          <li> Precision grinding - surface, center and centerless, internal and       external in metals and ceramics</li>
+          <li> Precision grinding - surface, center and centerless, internal and external in metals and ceramics</li>
           <li>Tool and die making</li>
           <li> Plastic injection mold making</li>
           <li> Specialized machines for abrasive blasting, hardness testing in metals, static balancing</li>
@@ -59,14 +59,28 @@
             <li>A CAD drawing or model of your project (if possible)</li>
           </ul>
 
-        <h2>Waterjet Requests</h2>
+          <h2>Waterjet Requests</h2>
         <p>For a cost estimate please email <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#117;&#103;&#104;&#101;&#115;&#51;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">Mike Hughes</a> and include the following information in your email:</p>
           <ul>
               <li>A CAD drawing dimensioned in Imperial (a.k.a. English) and in DXF format</li>
               <li>The part needs to be normal to when it is saved (i.e. must be straight on, no isometric drawings or skewed parts)</li>
+              <li>The drawing should include only the part itself (see <a href="../docs/good_example.PDF">good example</a>, <a href="../docs/bad_example.PDF">bad example</a>)</li>
               <li>One part per file, if there are multiple parts please include the quanitity of each. Do not draw multiple parts in a single file.</li>
               <li>Material type</li>
               <li>Thickness of material</li>
+          </ul>
+          <h3>Waterjet Costs</h3>
+          <ul>
+            <li>Staff time: $1.15/min</li>
+            <li>Machine run time: $.70/min</li>
+            <li>Machine startup fee: $15.00 (waived for instructional use)</li>
+          </ul>
+
+          <h3>Waterjet Specifications</h3>
+          <ul>
+            <li>Cut envelope: 4' x 4' x 6" ()</li>
+            <li>Kerf: ~.05" (~1.270mm)</li>
+            <li>Minimum hole size: 3/16" (4.762mm)</li>
           </ul>
 
       </div> <!-- END OF MAINCONTENT -->
