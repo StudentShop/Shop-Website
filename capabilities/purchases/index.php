@@ -10,9 +10,9 @@
          **************************************************************************** -->
     <?php $subtitle = "Purchases &amp; Rentals";?>
 
-    <?php include ("../../functions.php") ?>
-    <?php include("../../header.php"); ?>
-    <?php include("../../main_nav.php"); ?>
+    <?php require($_SERVER['DOCUMENT_ROOT']."/functions.php") ?>
+    <?php require($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+    <?php require($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
 
     <!-- ************************* End of Navigation Items ****************************  -->
 
@@ -20,7 +20,7 @@
 
       <div id="leftNav">
 
-        <?php include ("capabilities_purchases_left_nav.php") ?> <!-- Left Navigation in the include file -->
+        <?php require("capabilities_purchases_left_nav.php") ?> <!-- Left Navigation in the include file -->
 
         <!-- <h2 class="subnav2"><span>Related Links</span></h2>
              <ul>
@@ -101,7 +101,7 @@
 
     </div> <!-- END OF WRAPPER -->
 
-    <?php include("../../footer.php"); ?>
+    <?php require($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 
   </body>
 </html>
