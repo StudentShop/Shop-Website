@@ -48,6 +48,7 @@
         <ul>
           <li><a href="https://www.grainger.com" rel="external">Grainger</a></li>
           <li><a href="http://www.taindustrial.com/" rel="external">T &amp; A Industrial</a></li>
+          <li><a href="https://www.engman-taylor.com/Welcome" rel="external">Engman-Taylor</a></li>
         </ul>
 
         <h3>Precision Hardware</h3>
@@ -82,6 +83,7 @@
         <h3>Tooling</h3>
         <ul>
           <li><a href="https://www.use-enco.com/CGI/INSRHM" rel="external">Enco</a></li>
+          <li><a href="https://www.engman-taylor.com/Welcome" rel="external">Engman-Taylor</a></li>
           <li><a href="https://www.mscdirect.com/" rel="external">MSC</a></li>
           <li><a href="http://www.taindustrial.com/" rel="external">T &amp; A Industrial</a></li>
         </ul>
