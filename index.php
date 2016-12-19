@@ -143,7 +143,7 @@
                   <p><a href="/events/index.php#122616">Shop Closed</a>
                         <br />12/26/16 - 12/30/16</p>
                               
-                  <p class="more"><a href="/events/index.php">View more...</a></p>-->
+                  <p class="more"><a href="/events/index.php">View more...</a></p>
 
                   <!-- Bottom Right Featured Training Area -->
 
