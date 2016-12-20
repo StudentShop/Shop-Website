@@ -128,12 +128,6 @@
             <img src="images/kyler.jpg" alt="image of Kyle Roethle"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="jenniferb"></a>Jennifer Bartaszewicz</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/jenniferb.jpg" alt="image of Jennifer Bartaszewicz"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="michaelk"></a>Michael Keck</p>
                  <p>Student Shop Technician</p>
              </li>
@@ -158,23 +152,17 @@
             <img src="images/aislinno.jpg" alt="image of Aislinn O'Dwyer"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="daniele"></a>Daniel Eckerson</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/daniele.jpg" alt="image of Daniel Eckerson"/>
-            <div style="clear:both;"></div>
-
            <li><p class="name"><a name="elizabethk"></a>Elizabeth Kotoski</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/elizabethk.jpg" alt="image of Elizabeth Kotoski"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
+            <!--<li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/margareth.jpg" alt="image of Margaret Heinemann"/>
-            <div style="clear:both;"></div>
+            <div style="clear:both;"></div>-->
 
             <li><p class="name"><a name="vincents"></a>Vincent Schad</p>
                 <p>Student Shop Technician</p>
@@ -284,17 +272,12 @@
             <img src="images/charliec.jpg" alt="image of Charlie Chermak"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="tavishig"></a>Tavishi Gupta</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/tavishig.jpg" alt="image of Tavishi Gupta"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="eriks"></a>Erik Spitz</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/eriks.jpg" alt="image of Erik Spitz"/>
             <div style="clear:both;"></div>
+            
             <!--<li><p class="name"><a name=""></a></p>
                 <p>Student Shop Technician</p>
             </li>
