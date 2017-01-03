@@ -72,69 +72,69 @@
               <h3>How do I pay the research fee?</h3>
             <p>Please use this form to <a href="https://emu.engr.wisc.edu/student_shop_fee/enter_student.php">pay the research fee</a>.</p>
 
-            <h3>I tried to pay online with a credit card but the system rejected my card. How do I pay?</h3>
+            <h3><a name="1"></a>I tried to pay online with a credit card but the system rejected my card. How do I pay?</h3>
             <p>Unfortunately, online payment via credit card is the only way to pay the materials fee. Most likely you entered incorrect information (this commonly occurs when using autofill). If you don't think that's the case your only option is to use a different credit card (maybe you could use a friend's or parent's card and reimburse them?).</p>
 
-            <h3>Can I pay with cash, check, Wiscard account, bitcoin, etc.?</h3>
+            <h3><a name="2"></a>Can I pay with cash, check, Wiscard account, bitcoin, etc.?</h3>
               <p>Unfortunately the only accepted method of payment for the materials fee is a credit card. We are exploring other options but they are not available at this time. The research fee can only be paid with a University funding account.</p>
 
-            <h3>Can I pay with a ProCard?</h3>
+            <h3><a name="3"></a>Can I pay with a ProCard?</h3>
               <p>Please consult with your departmental financial person to verify that this is an acceptable use of the <a href="http://www.bussvc.wisc.edu/acct/purchcd/">purchasing card</a>. The College prefers fees be paid via departmental transfer rather than by Procard to reduce unnecessary transfer fees.</p>
 
-            <h3>I'm a student working on a funded research project in the shop. Which fee do I pay?</h3>
+            <h3><a name="4"></a>I'm a student working on a funded research project in the shop. Which fee do I pay?</h3>
               <p>Funded research must <a href="https://emu.engr.wisc.edu/student_shop_fee/enter_student.php">pay the research fee</a> to work in the shop.</p>
 
-            <h3>I'm emeritus faculty. Do I need to pay a fee?</h3>
+            <h3><a name="5"></a>I'm emeritus faculty. Do I need to pay a fee?</h3>
                <p>No, you are academic staff.</p>
 
-            <h3>I'm an honorary assoc/fellow. Do I need to pay a fee?</h3>
+            <h3><a name="6"></a>I'm an honorary assoc/fellow. Do I need to pay a fee?</h3>
               <p>Possibly, this is decided on a case by case basis (by the <a href="http://www.engr.wisc.edu/leadership.html">office of the Dean</a>). Please <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email the Student Shop</a>.</p>
 
-           <h3>I paid the materials fee but now I work on a funded research project. Does my research group need to pay the research fee as well?</h3>
+           <h3><a name="7"></a>I paid the materials fee but now I work on a funded research project. Does my research group need to pay the research fee as well?</h3>
               <p>Individuals working in the shop on funded research must pay the research fee even if they already paid the materials fee. If the materials fee was mistakenly paid when the research fee was intended please <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email the Student Shop</a></p>
 
-            <h3>Can I be reimbursed by my department?</h3>
+            <h3><a name="8"></a>Can I be reimbursed by my department?</h3>
               <p>That is a departmental decision; however, you should not pay the fee yourself and then ask to be reimbursed. Speak with your department's financial person or your professor first and find out how they would like you to pay.</p>
 
-            <h3>Can I have a refund?</h3>
+            <h3><a name="9"></a>Can I have a refund?</h3>
               <p>Refunds will only be given in extenuating circumstances (as decided by the <a href="http://www.engr.wisc.edu/leadership.html">office of the Dean</a>). To request a refund, please <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email the Student Shop</a>.</p>
 
-            <h3>Do I have to pay a fee before submitting a work order for the Instrument Shop, a 3D printing request, etc.?</h3>
+            <h3><a name="10"></a>Do I have to pay a fee before submitting a work order for the Instrument Shop, a 3D printing request, etc.?</h3>
               <p>No, services provided by the shop where you have to pay for the work being done do not require payment of the materials or research fee. If the work is being done free of charge either the material or research fee applies.</p>
 
-            <h3>Can I pay on behalf of a student working for me?</h3>
+            <h3><a name="11"></a>Can I pay on behalf of a student working for me?</h3>
               <p>Yes, please use this form to <a href="https://emu.engr.wisc.edu/student_shop_fee/enter_student.php">pay the research fee</a>.</p>
               <p>You can request the fee be waived for teaching assistants if they are working for a course that uses the shop. Please use this form to <a href="https://emu.engr.wisc.edu/student_shop_fee/enter_student.php">request the fee be waived</a>.</p>
               <p>If you are paying a student's materials fee you will need them to log into <a href="https://emu.engr.wisc.edu/emu">EMU</a> and click the "Pay Fee Now" button and then enter the credit card information for them.</p>
 
-            <h3>One of my students paid the materials fee before I was able to have the fee waived. What can I do?</h3>
+            <h3><a name="12"></a>One of my students paid the materials fee before I was able to have the fee waived. What can I do?</h3>
               <p>Please <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email the Student Shop</a>.</p>
 
-            <h3>I just want training. Shouldn't I be exempt from the fee since I'm not using any materials?</h3>
+            <h3><a name="13"></a>I just want training. Shouldn't I be exempt from the fee since I'm not using any materials?</h3>
               <p>No, nearly all training in the shop makes use of materials.</p>
 
-            <h3>Doesn't differential tuition cover the cost of the shop?</h3>
+            <h3><a name="14"></a>Doesn't differential tuition cover the cost of the shop?</h3>
               <p>Engineering undergraduate differential tuition is used to help pay for new equipment as well as equipment maintenance and repair. Differential tuition has made it possible to increase the number of equipment pieces in the shop, keep equipment current and allow for increased access to Shop equipment for students. Differential tuition is also used to pay for shop staff. It does not however, cover consumables used in the shop.</p>
 
-            <h3>Why does funded research have to pay more than non-research?</h3>
+            <h3><a name="15"></a>Why does funded research have to pay more than non-research?</h3>
               <p>Funded research pays more because the shop is partially funded with Engineering undergraduate differential tuition which is only paid by undergraduates.</p>
 
-            <h3>Can I pay the fee for multiple fee periods all at once?</h3>
+            <h3><a name="16"></a>Can I pay the fee for multiple fee periods all at once?</h3>
               <p>Unfortunately, that is not possible at this time.</p>
 
-            <h3>Can I pay for a future fee period</h3>
+            <h3><a name="17"></a>Can I pay for a future fee period</h3>
               <p>Unfortunately, that is not possible at this time.</p>
 
-            <h3>Do I have to pay the whole fee even though I'm only using it for one short project?</h3>
+            <h3><a name="18"></a>Do I have to pay the whole fee even though I'm only using it for one short project?</h3>
               <p>Yes.</p>
 
-            <h3>I'm right at the edge of a fee period. Can I pay now and have it apply to the next fee period?</h3>
+            <h3><a name="19"></a>I'm right at the edge of a fee period. Can I pay now and have it apply to the next fee period?</h3>
               <p>Unfortunately, no. The month overlap at the start and end of each period is supposed to reduce the chances of this happening. However, if you are outside of the one month overlap but need shop access for both the current period and the next one, you will have to pay for both.</p>
 
-            <h3>Since this fee covers materials used in the shop, I don't have to pay for broken or lost equipment then?</h3>
+            <h3><a name="20"></a>Since this fee covers materials used in the shop, I don't have to pay for broken or lost equipment then?</h3>
               <p>No, if you damage expensive shop equipment you will still be liable for it's replacement. Some broken tooling may be covered by the fee. This is at the discretion of shop staff.</p>
 
-            <h3>My question wasn't answered in the FAQ. Whom do I contact?</h3>
+            <h3><a name="21"></a>My question wasn't answered in the FAQ. Whom do I contact?</h3>
               <p>Our apologies, please <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#116;&#117;&#100;&#101;&#110;&#116;&#115;&#104;&#111;&#112;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">email the Student Shop</a> with your question.</p>
 
             </div>
