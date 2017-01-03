@@ -50,18 +50,16 @@
                 <!--<h2><a name="051415"></a>Title</h2>
                 <h3>05/14/15</h3>
                     <p></p>-->
-
-                <h2>
-                  <a name="121516"></a>Break Hours Start</h2>
-                <h3>12/15/16</h3>
-                <p>The shop will be open Monday through Friday from 8am until 4pm starting December 15<sup>th</sup>.</p>
                 
                 <h2>
-                  <a name="122616"></a>Shop Closed</h2>
-                <h3>12/26/16 - 12/30/16</h3>
-                <p>The shop will be closed for the holidays the week of December 26<sup>th</sup>.</p>
+                  <a name="011617"></a>Shop Closed</h2>
+                <h3>01/16/17</h3>
+                <p>The shop will be closed for Martin Luther King day on January 16<sup>th</sup>.</p>
 
-
+                <h2>
+                  <a name="011717"></a>Semester Hours Start</h2>
+                <h3>01/17/17</h3>
+                <p>The shop will be open Monday through Thursday from 8am until 9pm and Friday from 8am until 4pm starting January 17<sup>th</sup>.</p>
               </div>
               <!-- END OF EVENTS -->
 

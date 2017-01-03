@@ -7,24 +7,24 @@
 //Set date ranges for alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
-    ["2016-12-12 00:00", "2016-12-16 23:59:59"],
+    ["2016-12-31 00:00", "2017-1-6 23:59:59"],
 ];
 
 //Set how to display alt_hours_1 here
-$alternative_hours_1 = '<p>Mon-Wed: 8am - 10pm<br />
-   Thurs-Fri: 8am - 4pm<br />
+$alternative_hours_1 = '<p>Mon: Closed<br />
+   Tues-Fri: 8am - 4pm<br />
    Weekend: Closed</p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
-    ["2016-11-20 00:00", "2016-11-25 23:59:59"],
+    ["2017-01-14 00:00", "2017-01-20 23:59:59"],
 ];
 
 //Set how to display alt_hours_2 here
-$alternative_hours_2 = '<p>Mon-Tues: 8am - 10pm<br />
-   Wed: 8am - 4pm<br />
-   Thurs-Fri: Closed<br />
+$alternative_hours_2 = '<p>Mon: Closed<br />
+   Tues-Thurs: 8am - 9pm<br />
+   Fri: 8am - 4pm<br />
    Weekend: Closed</p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
@@ -66,13 +66,6 @@ $closed = '<p>Mon-Fri: Closed<br />
 //Date ranges for semester hours, including accounting for spring breaks, through spring 2021
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $sem_hours = [
-/*2014 Fall start & end*/ ["2014-09-02 00:00", "2014-12-10 23:59:59"],
-/*2015 Spring start & spring break start*/["2015-01-20 00:00", "2015-03-28 00:00"],
-/*2015 Spring break end & spring end*/["2015-04-06 00:00", "2015-05-08 23:59:59"],
-/*2015 Fall start & end*/["2015-09-02 00:00", "2015-12-14 23:59:59"],
-/*2016 Spring start & spring break start*/["2016-01-19 00:00", "2016-03-19 00:00"],
-/*2016 Spring break end & spring end*/["2016-03-28 00:00", "2016-05-06 23:59:59"],
-/*2016 Fall start & end*/["2016-09-06 00:00", "2016-12-15 23:59:59"],
 /*2017 Spring start & spring break start*/["2017-01-17 00:00", "2017-03-18 00:00"],
 /*2017 Spring break end & spring end*/["2017-03-27 00:00", "2017-05-04 23:59:59"],
 /*2017 Fall start & end*/["2017-09-05 00:00", "2017-12-15 23:59:59"],

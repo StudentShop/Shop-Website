@@ -137,12 +137,12 @@
                     <div class="specialtycontent">
                       <!-- Add Events Here -->
                       <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#121516">Break Hours Start</a>
-                        <br />12/15/16</p>
-                  
-                  <p><a href="/events/index.php#122616">Shop Closed</a>
-                        <br />12/26/16 - 12/30/16</p>
-                              
+                  <p><a href="/events/index.php#011617">Shop Closed</a>
+                        <br />01/16/17</p>
+                        
+                  <p><a href="/events/index.php#011717">Semester Hours Start</a>
+                        <br />01/17/17</p>
+                                                
                   <p class="more"><a href="/events/index.php">View more...</a></p>
 
                   <!-- Bottom Right Featured Training Area -->
