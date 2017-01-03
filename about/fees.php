@@ -48,10 +48,10 @@
 
               <h3>Exceptions</h3>
               <ul>
-                <li>The following employee classes are exempt from paying the research fee: Faculty (FA), Limited (LI), Classified Project (CJ), Academic Staff (AS), Univ Staff Ongoing Emplymnt (CP), Univ Staff Temporary Emplymnt (CL), Classified Permanent (cp), Univ Staff Project - FT Finite (CJ), OT Pensions (OT3), Ad Hoc Prg Spec/Corr Tutor (OT1), Zero Dollar Conc/Teach Supv (OT2), Classified LTE (CL), and Pre-College Intern (OT6).</li>
+                <li>The following employee classes are exempt from paying the materials fee: Faculty (FA), Limited (LI), Classified Project (CJ), Academic Staff (AS), Univ Staff Ongoing Emplymnt (CP), Univ Staff Temporary Emplymnt (CL), Classified Permanent (cp), Univ Staff Project - FT Finite (CJ), OT Pensions (OT3), Ad Hoc Prg Spec/Corr Tutor (OT1), Zero Dollar Conc/Teach Supv (OT2), Classified LTE (CL), and Pre-College Intern (OT6).</li>
                 <li>Teaching assistants for courses that use the shop may be entitled to have the fee waived. Please use this form to <a href="https://emu.engr.wisc.edu/student_shop_fee/enter_student.php">request the fee be waived</a>.</li>
                 <li>Individuals employed by the College of Engineering to work on instructional projects (i.e., projects to support a course) are exempt from the materials fee. Please use this form to <a href="https://emu.engr.wisc.edu/student_shop_fee/enter_student.php">request the fee be waived</a>.</li>
-                <li>Those working on funded research are required to pay the research fee (see below) rather than the materials fee.</li>
+                <li>Those working on funded research are required to pay the research fee (<a href="#researchfee">see below</a>) rather than the materials fee.</li>
                 <li>Individuals with a permit may check out hand tools (not including tooling, machine tools, or electric or pneumatic power tools) without paying the materials fee.</li>
                 <li>Enlisting shop services for hire (<a href="/capabilities/3dprint/index.php">3d printing</a>, <a href="/capabilities/instrshop/index.php">Instrument Shop</a>, etc.) does not require paying the materials fee (nor even a permit).</li></ul>
 
