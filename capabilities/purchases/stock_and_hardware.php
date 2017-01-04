@@ -34,7 +34,7 @@
       <div id="MainContent"> <!-- sets the main content (middle column area) -->
 
         <h1>Stock &amp; Hardware</h1>
-        <p>Students, faculty, and staff can purchase some materials from the Student Shop for academic or departmental use (The Student Shop can not make purchases for personal use). This includes both hardware such as nuts and bolts and materials such as wood, metal, and plastic. In order to make purchases the buyer must set up an account with the Student Shop using an approved UW account number (see you department's financial specialist for how to get an account number). The form required to set up an account can be found below. A 15% mark-up is applied to the cost of all purchases to cover materials and services overhead.</p>
+        <p>Students, faculty, and staff can purchase some materials from the Student Shop for academic or departmental use (The Student Shop can not make purchases for personal use). This includes both hardware such as nuts and bolts and materials such as wood, metal, and plastic. In order to make purchases the buyer must set up an account with the Student Shop using an approved UW funding number (see your department's financial specialist for how to get a funding number). The form required to set up an account can be found below. A 15% mark-up is applied to the cost of all purchases to cover materials and services overhead.</p>
         <h2>Account Set-up Form</h2>
         <p><a href="/capabilities/docs/account_form.pdf">Account Set-up Form</a></p>
 
