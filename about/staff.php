@@ -242,12 +242,6 @@
             <img src="images/clairec.jpg" alt="image of Claire Chen"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="jacobf"></a>Jacob Fuiten</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/jacobf.jpg" alt="image of Jacob Fuiten"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="michaell"></a>Michael Lucas</p>
                 <p>Student Shop Technician</p>
             </li>
