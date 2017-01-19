@@ -52,14 +52,9 @@
                     <p></p>-->
                 
                 <h2>
-                  <a name="011617"></a>Shop Closed</h2>
+                  <a name="011917"></a>Now Hiring</h2>
                 <h3>01/16/17</h3>
-                <p>The shop will be closed for Martin Luther King day on January 16<sup>th</sup>.</p>
-
-                <h2>
-                  <a name="011717"></a>Semester Hours Start</h2>
-                <h3>01/17/17</h3>
-                <p>The shop will be open Monday through Thursday from 8am until 9pm and Friday from 8am until 4pm starting January 17<sup>th</sup>.</p>
+                <p>The shop is now hiring student staff. Click here for <a href="/about/jobs.php">more information</a>.</p>
               </div>
               <!-- END OF EVENTS -->
 

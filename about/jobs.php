@@ -41,8 +41,8 @@
             <h2>Currently Available Positions:</h2>
 
             <div id="jobs">
-                <p>None</p>
-                <!--<h3>Student Shop Technician</h3>
+                <!--<p>None</p>-->
+                <h3>Student Shop Technician</h3>
                     	<p>Individuals that enjoy working in a hands-on work environment and have experience
 in the use of machine shop equipment (including lathes, mills, hand tools and power tools).
 Applicants must also be capable of performing physical labor and have
@@ -65,7 +65,7 @@ material along with other miscellaneous tasks.</li>
                     	<p>$9.50 - $10.50</p>
 					<h4>How to apply:</h4>
 						<p>Send a cover letter and resume to Larry Wheeler (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#119;&#104;&#101;&#101;&#108;&#101;&#114;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#119;&#104;&#101;&#101;&#108;&#101;&#114;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a>), fax it to (608) 261-1111, or drop off the
-information at the CoE Student Shop <a href="/about/floorplan.php">Rm B1086</a> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1550+Engineering+Dr+Madison,+WI+53706&sll=43.072304,-89.412133&sspn=0.011176,0.027874&ie=UTF8&hq=&hnear=1550+Engineering+Dr,+Madison,+Dane,+Wisconsin+53706&view=map">1550 Engineering Dr Madison, WI 53706</a></p> -->
+information at the CoE Student Shop <a href="/about/floorplan.php">Rm B1086</a> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1550+Engineering+Dr+Madison,+WI+53706&sll=43.072304,-89.412133&sspn=0.011176,0.027874&ie=UTF8&hq=&hnear=1550+Engineering+Dr,+Madison,+Dane,+Wisconsin+53706&view=map">1550 Engineering Dr Madison, WI 53706</a></p> 
 
 				<!--<h3>Webmaster</h3>
                     	<p>The CoE Student Shop is in search of a new Webmaster. Applicant must be a UW-Madison full-time student enrolled in the 2010 Fall semester. We are looking for a person to work this semester along with next school year (11-12) or hopefully longer. Proficiencies in software such as Dreamweaver CS4,  and Photoshop CS4 are essential. Applicant should be able to read and understand HTML (including some HTML5), XHTML, CSS, and be able to manipulate simple JQuery and PHP. Applicant should be highly creative, have a keen eye-for-design, be able to work in a group, and have a strong desire to work within commonly accepted web standards (as determined by the W3C and the University of Wisconsin). Willingness to learn on the job is must.</p>
