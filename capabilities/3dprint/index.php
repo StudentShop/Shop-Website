@@ -93,6 +93,7 @@
                 <li><a href="http://3dprintingpricecheck.com/" rel="external">3D Printing Price Check</a></li>
                 <li><a href="https://madison-wi-3391.theupsstorelocal.com/products-services/new-3d-printing" rel="external">The UPS Store</a></li>
                 <li><a href="http://www.midwestproto.com/" rel="external">Midwest Prototyping</a></li>
+                <li><a href="https://www.engman-taylor.com/3D-Printing/S761/P1/L3" rel="external">Engman-Taylor</a></li>
                 <li><a href="http://www.ponoko.com/3d-printing" rel="external">Ponoko</a></li>
                 <li><a href="http://www.shapeways.com/" rel="external">Shapeways</a></li>
                 <li><a href="http://www.xcentricmold.com/rapid-prototyping.php" rel="external">Xcentric</a></li>
