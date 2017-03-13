@@ -182,12 +182,6 @@
             <img src="images/tedv.jpg" alt="image of Ted Vaala"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="nicholast"></a>Nicholas Termini</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/nicholast.jpg" alt="image of Nicholas Termini"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="andreww"></a>Andrew Wild</p>
                 <p>Student Shop Technician</p>
             </li>
