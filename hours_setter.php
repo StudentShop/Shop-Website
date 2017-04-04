@@ -7,23 +7,25 @@
 //Set date ranges for alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
-    ["2016-12-31 00:00", "2017-1-6 23:59:59"],
+    ["2017-04-15 00:00", "2017-04-29 23:59:59"],
 ];
 
 //Set how to display alt_hours_1 here
-$alternative_hours_1 = '<p>Mon: Closed<br />
-   Tues-Fri: 8am - 4pm<br />
-   Weekend: Closed</p>';
+$alternative_hours_1 = '<p>
+   Mon-Thurs: 8am - 10pm<br />
+   Fri: 8am - 4pm<br />
+   Saturday: 9am - 4pm<br />
+   Sunday: Closed</p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
-    ["2017-01-14 00:00", "2017-01-20 23:59:59"],
+    ["2017-04-08 00:00", "2017-05-05 23:59:59"],
 ];
 
 //Set how to display alt_hours_2 here
-$alternative_hours_2 = '<p>Mon: Closed<br />
-   Tues-Thurs: 8am - 9pm<br />
+$alternative_hours_2 = '<p>
+   Mon-Thurs: 8am - 10pm<br />
    Fri: 8am - 4pm<br />
    Weekend: Closed</p>';
 
@@ -66,8 +68,7 @@ $closed = '<p>Mon-Fri: Closed<br />
 //Date ranges for semester hours, including accounting for spring breaks, through spring 2021
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $sem_hours = [
-/*2017 Spring start & spring break start*/["2017-01-17 00:00", "2017-03-18 00:00"],
-/*2017 Spring break end & spring end*/["2017-03-27 00:00", "2017-05-04 23:59:59"],
+/*2017 Spring break end & spring end*/["2017-03-27 00:00", "2017-05-06 23:59:59"],
 /*2017 Fall start & end*/["2017-09-05 00:00", "2017-12-15 23:59:59"],
 /*2018 Spring start & spring break start*/["2018-01-16 00:00", "2018-03-24 00:00"],
 /*2018 Spring break end & spring end*/["2018-04-02 00:00", "2018-05-03 23:59:59"],
