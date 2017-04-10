@@ -265,6 +265,12 @@
             </li>
             <img src="images/eriks.jpg" alt="image of Erik Spitz"/>
             <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="haleyb"></a>Haley Buchberger</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/haleyb.jpg" alt="image of Haley Buchberger"/>
+            <div style="clear:both;"></div>            
             
             <!--<li><p class="name"><a name=""></a></p>
                 <p>Student Shop Technician</p>
