@@ -59,6 +59,8 @@
             <li>A CAD drawing or model of your project (if possible)</li>
           </ul>
 
+        <img src="/capabilities/images/waterjetglass.jpg" alt="A glass part cut on the waterjet."/>
+        
           <h2>Waterjet Requests</h2>
         <p>For a cost estimate please email <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#117;&#103;&#104;&#101;&#115;&#51;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">Mike Hughes</a> or <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#106;&#114;&#97;&#112;&#112;&#101;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">Jeff Rappe</a> and include the following information in your email:</p>
           <ul>
@@ -69,6 +71,7 @@
               <li>Material type</li>
               <li>Thickness of material</li>
           </ul>
+
           <h3>Waterjet Costs</h3>
           <ul>
             <li>Staff time: $1.15/min</li>
