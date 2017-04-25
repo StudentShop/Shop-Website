@@ -56,14 +56,13 @@
                 <h3>01/16/17</h3>
                 <p>The shop is now hiring student staff. Click here for <a href="/about/jobs.php">more information</a>.</p>
 
-                <h2><a name="041017"></a>Late Hours Start</h2>
-                <h3>04/10/17</h3>
-                    <p>Starting Monday, April 10<sup>th</sup>, the shop will be open Monday through Thursday from 8am until 10pm.</p>
-
                 <h2><a name="042217"></a>Open Saturdays</h2>
                 <h3>04/22/17 &amp; 04/29/17</h3>
                     <p>The shop will be open Saturday April 22<sup>nd</sup> &amp; 29<sup>th</sup> from 9am until 4pm.</p>
 
+                <h2><a name="050317"></a>Limited Shop Hours</h2>
+                <h3>05/03/17</h3>
+                    <p>The shop will be closed Wednesday, May 3<sup>rd</sup> from 11:30am until 1:30pm.</p>                    
                 <h2><a name="050817"></a>Break Hours Start</h2>
                 <h3>05/08/17</h3>
                     <p>Starting Monday, May 8<sup>th</sup>, the shop will be open Monday through Friday from 8am until 4pm.</p>    
