@@ -32,7 +32,6 @@
 								</h2>
 								<ul>
 									<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a></li>
-									<li><a href="/permit/info/upgrades/waterjet_1.php">Waterjet 1 Upgrade</a></li>
 								</ul>
 
 						</div>
@@ -41,9 +40,10 @@
 						<div id="MainContent">
 							<!-- sets the main content (middle column area) -->
 
-							<h1>Laser 1 Upgrade</h1>
+							<h1>Laser 1 Upgrade (Deprecated)</h1>
 
 							<h2>Overview</h2>
+							<p>Note: The Laser 1 upgrade is no longer available. This page remains for historical reference.</p>
 							<p>The Laser 1 upgrade is an additional amount of training individuals can take to learn how to use an Epilog laser cutter. Individuals will not be allowed to use the Shop's Epilog laser until they have obtained
 								the Laser 1 upgrade.</p>
 

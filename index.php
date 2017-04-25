@@ -156,7 +156,6 @@
 
                     <!-- Add Featured Events Here -->
                     <p><a href="/permit/info/upgrades/woodworking_2.php">Woodworking 2 Upgrade</a></p>
-                    <p><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a></p>
                     <p><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a></p>
 
                   </div>

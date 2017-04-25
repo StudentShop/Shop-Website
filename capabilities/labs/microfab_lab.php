@@ -34,7 +34,6 @@
         <p>Located in ECB room B1026, the MicroFab Lab is set up to accomodate rapid prototyping and small parts fabrication. The room includes:
 	<ul>
 		<li>A variety of <acronym title="Fused Deposition Modeling">FDM</acronym> machines (a.k.a. 3D printers)</li>
-		<li>40 Watt Epilog laser cutter</li>
 		<li>4-axis Tormach mill</li>
 		<li>Bandsaw</li>
 		<li>Scroll saw</li>
