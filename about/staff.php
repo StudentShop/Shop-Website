@@ -116,12 +116,6 @@
 
           <h2>Student Staff</h2>
           <ul>
-            <li><p class="name"><a name="mattm"></a>Matt Michalak</p>
-              <p>Student Shop Technician</p>
-            </li>
-            <img src="images/matt.jpg" alt="photo of Matt Michalak"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="kyler"></a>Kyle Roethle</p>
               <p>Student Shop Technician</p>
             </li>
