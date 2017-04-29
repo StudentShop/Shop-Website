@@ -12,9 +12,10 @@
 				<?php $subtitle = "Welding 3 Seminar";?>
 
             
-		<?php include ("../../../functions.php") ?>
- 		<?php include("../../../header.php"); ?>
-		<?php include("../../../main_nav.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
+      <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+        <?php require ($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
+
 
 <!-- ************************* 				End of Navigation Items 			****************************  -->
 
@@ -27,7 +28,7 @@
 		<h2 class="subnav2"><span>Related Links</span></h2>
 			<ul>
 				<li><a href="/permit/info/upgrades/welding_1.php">Welding 1 Upgrade</a></li>
-				<li><a href="/permit/info/upgrades/scotchman_1.php">Scotchman 1 Upgrade</a></li>
+				<li><a href="/permit/info/upgrades/welding_2.php">Welding 2 Upgrade</a></li>
             </ul>                    
       </div> <!-- END OF LEFT NAV DIV -->
 
@@ -66,7 +67,7 @@
 
 </div> <!-- END OF WRAPPER -->
 
-<?php include("../../../footer.php"); ?>
+<?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 
 
 
