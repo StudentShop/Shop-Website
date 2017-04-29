@@ -33,7 +33,7 @@
 
         <img src="images/policies.png" alt="picture of a policy document" align="right" />
         <h1>Policies</h1>
-        <p>At left is the list of current shop policies. Anyone wishing to use shop resources is expected to be familiar with and follow these policies. If you have questions or comments about any of the Student Shop policies please feel free to <a href="/about/feedback.php">contact us</a>.</p>
+        <p>At left is the list of current shop policies. Anyone wishing to use shop resources is expected to be familiar with and follow these policies. If you have questions or comments about any of the Student Shop policies please feel free to <a href="/about/contact.php">contact us</a>.</p>
 
       </div> <!-- END OF MAINCONTENT -->
 
