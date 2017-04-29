@@ -31,7 +31,7 @@
 									<span>Related Links</span>
 								</h2>
 								<ul>
-									<li><a href="/permit/info/upgrades/Woodworking_1.php">Woodworking 1 Upgrade</a></li>
+									<li><a href="/permit/info/upgrades/woodworking_1.php">Woodworking 1 Upgrade</a></li>
 									<li><a href="/permit/info/upgrades/welding_1.php">Welding 1 Upgrade</a></li>
 								</ul>
 						</div>
