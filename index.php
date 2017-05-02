@@ -137,12 +137,13 @@
                     <div class="specialtycontent">
                       <!-- Add Events Here -->
                       <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#011917">Now Hiring</a>
-                        <br />01/19/17</p>
-                  <p><a href="/events/index.php#042217">Open Saturdays</a>
-                        <br />04/22/17 &amp; 04/29/17</p>
+
+                  <p><a href="/events/index.php#050817">Break Hours Start</a>
+                        <br />05/08/17</p>
                   <p><a href="/events/index.php#050317">Limited Shop Hours</a>
-                        <br />05/03/17</p>                        
+                        <br />05/03/17</p>
+                  <p><a href="/events/index.php#051017">Limited Shop Hours</a>
+                        <br />05/09/17 &amp; 05/10/17</p>                                
                   <!--<p><a href="/events/index.php#050817">Break Hours Start</a>
                         <br />05/08/17</p>-->                                                  
                   <p class="more"><a href="/events/index.php">View more...</a></p>
