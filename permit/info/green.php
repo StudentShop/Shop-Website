@@ -90,8 +90,6 @@
 								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
 								<br />
-								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
-								<br />
 								<li><a href="/permit/info/upgrades/cnc_mill_1.php">CNC Mill 1 Upgrade</a> (Eisen: Conversational)</li>
 								<li><a href="/permit/info/upgrades/cnc_mill_2.php">CNC Mill 2 Upgrade</a> (Eisen, Trak DPM, or Tormach: 2-Axis)</li>
 								<li><a href="/permit/info/upgrades/cnc_mill_3.php">CNC Mill 3 Upgrade</a> (Trak DPM or Tormach: 3-Axis)</li>

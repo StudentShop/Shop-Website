@@ -43,8 +43,8 @@
 
               <h1>3D Printing</h1>
               <h2>Overview</h2>
-              <p>The Student Shop has three rapid prototyping machines (a.k.a. 3D printers). These include a Dimension Elite and two RepRaps. All perform <a href="https://en.wikipedia.org/wiki/Fused_deposition_modeling" rel="external">fused deposition modeling</a>                with
-                <acronym title="acrylonitrile butadiene styrene">ABS</acronym>. The machines are excellent for prototyping designs that would be cost or time prohibitive to make using conventional machining technologies.</p>
+              <p>The Student Shop has a Dimension Elite 3D printer which performs <a href="https://en.wikipedia.org/wiki/Fused_deposition_modeling" rel="external">fused deposition modeling</a>                with
+                <acronym title="acrylonitrile butadiene styrene">ABS</acronym>. The machine is excellent for prototyping designs that would be cost or time prohibitive to make using conventional machining technologies.</p>
               <p>We recommend reading <a href="/capabilities/docs/machinedparts.pdf"> Tips on Designing Cost Effective Machined Parts</a> to help decide whether rapid prototying is the appropriate technology for fabricating your design.</p>
 
               <h2>
@@ -60,17 +60,16 @@
               </ul>
               <p>*One part per .STL file, output should be binary, not ASCII and in either inches or milimeters.</p>
               <p>**A current unversity funding number is needed in advance of printing but is not required for estimates.</p>
-              <p>All printing done by the shop will be done on the Dimension Elite printer. The printing costs can be found on the <a href="/capabilities/3dprint/elite.php#costs">Dimension Elite page</a>. During times of high demand printing will be done
+              <p><!--All printing done by the shop will be done on the Dimension Elite printer.-->The printing costs can be found on the <a href="/capabilities/3dprint/elite.php#costs">Dimension Elite page</a>. During times of high demand printing will be done
                 on a first come first served basis. Students, faculty, and staff of the College of Engineering will be given priority over individuals outside of the college.</p>
 
               <h2>Costs</h2>
               <ul>
                 <li><a href="/capabilities/3dprint/elite.php#costs">Dimension Elite</a></li>
-                <li><a href="/capabilities/3dprint/reprap.php#costs">Reprap</a></li>
               </ul>
 
-              <h2>Access to Machines</h2>
-              <p>The shop will print for anyone with a current university funding number. Students, faculty, and staff affiliated with College of Engineering can also print their own parts on specfic machines. See the specific machine pages for access information.</p>
+              <!--<h2>Access to Machines</h2>
+              <p>The shop will print for anyone with a current university funding number. Students, faculty, and staff affiliated with College of Engineering can also print their own parts on specfic machines. See the specific machine pages for access information.</p>-->
 
               <h2>Disclaimer</h2>
               <p>In providing 3-D printing services, the Provider disclaims any warranties, express or implied, including the warranty of merchantability and warranty for fitness of any particular purpose, for the services themselves and any resulting tangible

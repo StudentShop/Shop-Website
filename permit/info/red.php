@@ -89,8 +89,6 @@
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php" <a>Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
-								<br />
-								<li><a href="/permit/info/upgrades/3dprinting_1.php">3D Printing 1 Upgrade</a> (Reprap)</li>
 							</ul>
 							<p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
 							<br />
