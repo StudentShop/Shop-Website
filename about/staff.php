@@ -122,24 +122,6 @@
             <img src="images/kyler.jpg" alt="image of Kyle Roethle"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="michaelk"></a>Michael Keck</p>
-                 <p>Student Shop Technician</p>
-             </li>
-             <img src="images/michaelk.jpg" alt="image of Michael Keck"/>
-             <div style="clear:both;"></div>
-
-            <li><p class="name"><a name="abbyb"></a>Abby Buarapha</p>
-              <p>Student Shop Technician</p>
-            </li>
-            <img src="images/abbyb.jpg" alt="image of Abby Buarapha"/>
-            <div style="clear:both;"></div>
-
-	        <li><p class="name"><a name="lucasb"></a>Lucas Benish</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/lucasb.jpg" alt="image of Lucas Benish"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="aislinno"></a>Aislinn O'Dwyer</p>
                 <p>Student Shop Technician</p>
             </li>
@@ -168,12 +150,6 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/owenz.jpg" alt="image of Owen Zwiefelhofer"/>
-            <div style="clear:both;"></div>
-
-            <li><p class="name"><a name="tedv"></a>Ted Vaala</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/tedv.jpg" alt="image of Ted Vaala"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="andreww"></a>Andrew Wild</p>
@@ -230,11 +206,11 @@
             <img src="images/clairec.jpg" alt="image of Claire Chen"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="michaell"></a>Michael Lucas</p>
+            <!--<li><p class="name"><a name="michaell"></a>Michael Lucas</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/michaell.jpg" alt="image of Michael Lucas"/>
-            <div style="clear:both;"></div>
+            <div style="clear:both;"></div>-->
 
             <li><p class="name"><a name="viktorm"></a>Viktor Mudry</p>
                 <p>Student Shop Technician</p>
