@@ -140,12 +140,11 @@
 
                   <p><a href="/events/index.php#050817">Break Hours Start</a>
                         <br />05/08/17</p>
-                  <p><a href="/events/index.php#050317">Limited Shop Hours</a>
-                        <br />05/03/17</p>
                   <p><a href="/events/index.php#051017">Limited Shop Hours</a>
-                        <br />05/09/17 &amp; 05/10/17</p>                                
-                  <!--<p><a href="/events/index.php#050817">Break Hours Start</a>
-                        <br />05/08/17</p>-->                                                  
+                        <br />05/09/17 &amp; 05/10/17</p>
+                  <p><a href="/events/index.php#051117">Limited Shop Hours</a>
+                        <br />05/11/17</p>
+                                                             
                   <p class="more"><a href="/events/index.php">View more...</a></p>
                   <!-- Bottom Right Featured Training Area -->
 

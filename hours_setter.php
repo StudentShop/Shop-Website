@@ -15,7 +15,8 @@ $alternative_hours_1 = '<p>
    Mon: 8am - 4pm<br />
    Tues-Wed: Shop Closed<br />
    Thurs-Fri: 8am - 4pm<br />
-   Weekend: Closed</p>';
+   Weekend: Closed<br />
+   See why: <a href="/events/index.php">events page</a></p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
