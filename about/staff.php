@@ -182,11 +182,11 @@
             <img src="images/charlien.jpg" alt="image of Charlie Noble"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="josephp"></a>Joseph Pascavis</p>
+            <!--<li><p class="name"><a name="josephp"></a>Joseph Pascavis</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/josephp.jpg" alt="image of Joseph Pascavis"/>
-            <div style="clear:both;"></div>
+            <div style="clear:both;"></div>-->
 
             <li><p class="name"><a name="evanh"></a>Evan Hansen</p>
                 <p>Student Shop Technician</p>
