@@ -50,18 +50,10 @@
                 <!--<h2><a name="051415"></a>Title</h2>
                 <h3>05/14/15</h3>
                     <p></p>-->
-                    
-                <h2><a name="050817"></a>Break Hours Start</h2>
-                <h3>05/08/17</h3>
-                    <p>Starting Monday, May 8<sup>th</sup>, the shop will be open Monday through Friday from 8am until 4pm.</p>
 
-                <h2><a name="050917"></a>Limited Shop Hours</h2>
-                <h3>05/09/17 &amp; 05/10/17</h3>
-                    <p>The shop will be closed Wednesday, May 9<sup>th</sup> and Thursday, May 10<sup>th</sup> while the shop staff receive MasterCAM training.</p>
-
-                <h2><a name="051117"></a>Limited Shop Hours</h2>
-                <h3>05/11/17</h3>
-                    <p>The shop will be closed Thursday, May 11<sup>th</sup> from 12pm until 2pm for the staff to celebrate Tom Wirth's retirement.</p>                                            
+                <h2><a name="052617"></a>Shop Closed</h2>
+                <h3>05/26/17 &amp; 05/29/17</h3>
+                    <p>The shop will be closed Friday May 26<sup>th</sup> and Monday May 29<sup>th</sup> for the holiday.</p>                                            
               </div>
               <!-- END OF EVENTS -->
 
