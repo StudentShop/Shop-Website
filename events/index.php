@@ -51,12 +51,11 @@
                 <h3>05/14/15</h3>
                     <p></p>-->
 
-                <h2><a name="052617"></a>Shop Closed</h2>
-                <h3>05/26/17 &amp; 05/29/17</h3>
-                    <p>The shop will be closed Friday May 26<sup>th</sup> and Monday May 29<sup>th</sup> for the holiday.</p>                                            
+                <h2><a name="060917"></a>Shop Closed</h2>
+                <h3>06/09/17</h3>
+                    <p>The shop will be closed Friday June 9<sup>th</sup>.</p>                                            
               </div>
               <!-- END OF EVENTS -->
-
             </div>
             <!-- END OF MAINCONTENT -->
 
