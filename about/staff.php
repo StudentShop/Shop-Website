@@ -68,17 +68,6 @@
 
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="tomw"></a>Tom Wirth</p>
-              <p>Instrument Maker - Specialist<br />
-                <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
-                Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;">(&#54;&#48;&#56;) &#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;</a><br />
-                Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#104;&#111;&#109;&#97;&#115;&#46;&#119;&#105;&#114;&#116;&#104;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#116;&#104;&#111;&#109;&#97;&#115;&#46;&#119;&#105;&#114;&#116;&#104;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
-            </li>
-
-            <img src="images/tomw.jpg" alt="photo of Tom Wirth" />
-
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="mikeh"></a>Mike Hughes</p>
               <p>Instrument Maker - Specialist<br />
                 <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
@@ -112,16 +101,21 @@
 
             <div style="clear:both;"></div>
 
+            <li><p class="name"><a name="jayb"></a>Jay Bowe</p>
+              <p>Instrument Maker - Specialist<br />
+                <a href="../capabilities/instrshop/index.php">Instrument Shop</a> &amp; Student Shop Staff<br />
+                Phone: <a href="&#116;&#101;&#108;&#58;&#49;&#45;&#54;&#48;&#56;&#45;&#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;">(&#54;&#48;&#56;) &#56;&#57;&#48;&#45;&#51;&#57;&#54;&#57;</a><br />
+                Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#106;&#115;&#98;&#111;&#119;&#101;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#106;&#98;&#111;&#119;&#101;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a></p>
+            </li>
+
+            <img src="images/jayb.jpg" alt="photo of Jay Bowe" />
+
+            <div style="clear:both;"></div>
+
           </ul>
 
           <h2>Student Staff</h2>
           <ul>
-            <li><p class="name"><a name="kyler"></a>Kyle Roethle</p>
-              <p>Student Shop Technician</p>
-            </li>
-            <img src="images/kyler.jpg" alt="image of Kyle Roethle"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="aislinno"></a>Aislinn O'Dwyer</p>
                 <p>Student Shop Technician</p>
             </li>
@@ -134,11 +128,11 @@
             <img src="images/elizabethk.jpg" alt="image of Elizabeth Kotoski"/>
             <div style="clear:both;"></div>
 
-            <!--<li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
+            <li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/margareth.jpg" alt="image of Margaret Heinemann"/>
-            <div style="clear:both;"></div>-->
+            <div style="clear:both;"></div>
 
             <li><p class="name"><a name="vincents"></a>Vincent Schad</p>
                 <p>Student Shop Technician</p>
@@ -206,11 +200,11 @@
             <img src="images/clairec.jpg" alt="image of Claire Chen"/>
             <div style="clear:both;"></div>
 
-            <!--<li><p class="name"><a name="michaell"></a>Michael Lucas</p>
+            <li><p class="name"><a name="michaell"></a>Michael Lucas</p>
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/michaell.jpg" alt="image of Michael Lucas"/>
-            <div style="clear:both;"></div>-->
+            <div style="clear:both;"></div>
 
             <li><p class="name"><a name="viktorm"></a>Viktor Mudry</p>
                 <p>Student Shop Technician</p>
@@ -240,7 +234,25 @@
                 <p>Student Shop Technician</p>
             </li>
             <img src="images/haleyb.jpg" alt="image of Haley Buchberger"/>
-            <div style="clear:both;"></div>            
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="mungyos"></a>Mungyo Song</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/mungyos.jpg" alt="image of Mungyo Song"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="samb"></a>Sam Balistrieri</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/male-silhouette.jpg" alt="image of a male silhouette"/>
+            <div style="clear:both;"></div>
+
+            <li><p class="name"><a name="chrissyk"></a>Chrissy Kujawa</p>
+                <p>Student Shop Technician</p>
+            </li>
+            <img src="images/female-silhouette.jpg" alt="image of a female silhouette"/>
+            <div style="clear:both;"></div>             
             
             <!--<li><p class="name"><a name=""></a></p>
                 <p>Student Shop Technician</p>
