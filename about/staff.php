@@ -245,7 +245,7 @@
             <li><p class="name"><a name="samb"></a>Sam Balistrieri</p>
                 <p>Student Shop Technician</p>
             </li>
-            <img src="images/male-silhouette.jpg" alt="image of a male silhouette"/>
+            <img src="images/samb.jpg" alt="image of Sam Balistrieri"/>
             <div style="clear:both;"></div>
 
             <li><p class="name"><a name="chrissyk"></a>Chrissy Kujawa</p>
