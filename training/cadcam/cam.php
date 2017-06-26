@@ -9,12 +9,12 @@
 **********		Title should be the same as the <h1> tag below 		*************
 **********															*************
 *********************************************************************************	-->
-				<?php $subtitle = "CAM Software";?>
+<?php $subtitle = "CAM Software";?>
 
             
-		<?php include ("../../functions.php") ?>
- 		<?php include("../../header.php"); ?>
-		<?php include("../../main_nav.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
+      <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+        <?php require ($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
 
 <!-- ************************* 				End of Navigation Items 			****************************  -->
 
@@ -39,7 +39,7 @@
 			<h1>CAM Software</h1>
             	
                 <h2>Overview</h2>
-            		<p>Computer Aided Manufacturing (CAM) software is essential to convert a CAD designed part into CNC machine-readable code. FeatureCAM (used in the Student Shop) and <a href="https://en.wikipedia.org/wiki/MasterCAM" rel="external">Mastercam</a> are examples of two such CAM programs. The instructional material that follows will give some very basic information on the use of FeatureCAM.</p>
+            		<p>Computer Aided Manufacturing (CAM) software is essential to convert a CAD designed part into CNC machine-readable code.  While there are many types of CAM software available, <a href="https://en.wikipedia.org/wiki/MasterCAM" rel="external">Mastercam</a> is what's used in the Student Shop. The instructional material that follows will give some very basic information on the use of MasterCAM.</p>
                     
             <h2>Shop Training</h2>
             	<p>The shop provides training in the form of <a href="/permit/info/upgrades/index.php">permit upgrades</a>. The following permit upgrades deal with CAM software:</p>
@@ -54,10 +54,7 @@
                 
                 <h2>Instructional material:</h2>
                 	<ul>
-                    	<li><a href="../docs/feature_cam_training.pdf">Getting started with FeatureCAM</a></li>
-                    	<li><a href="../docs/featurecam_basic_features.pdf">Basic Features of FeatureCAM</a></li>
-                        <li><a href="../docs/importing_a_file_into_featurecam.pdf">Importing a file into FeatureCAM</a></li>
-                        <li><a href="../docs/exporting_nc_code.pdf">Exporting NC code from FeatureCAM</a></li>                        
+                    	<li>DoIT offers <a href="https://it.wisc.edu/services/online-training-lynda-com/">free software training</a>, including for <a href="https://www.lynda.com/CAD-tutorials/Learning-Mastercam/359786-2.html">MasterCAM</a>, through Lynda.com.</li>                     
                     </ul>
 
             	<h2>Related Wikipedia Articles</h2>
@@ -73,7 +70,7 @@
 
 </div> <!-- END OF WRAPPER -->
 
-<?php include("../../footer.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 
 </body>
 </html>

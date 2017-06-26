@@ -9,12 +9,11 @@
          **********              Title should be the same as the <h1> tag below          *************
          **********                                                                                                                      *************
          *********************************************************************************       -->
-    <?php $subtitle = "CNC Mill 2 Upgrade";?>
+<?php $subtitle = "CNC Mill 2 Upgrade";?>
 
-
-    <?php include ("../../../functions.php") ?>
-    <?php include("../../../header.php"); ?>
-    <?php include("../../../main_nav.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
+      <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
+        <?php require ($_SERVER['DOCUMENT_ROOT']."/main_nav.php"); ?>
 
     <!-- *************************                          End of Navigation Items                         ****************************  -->
 
@@ -37,7 +36,7 @@
         <h1>CNC Mill 2 Upgrade</h1>
 
         <h2>Overview</h2>
-        	<p>This upgrade will introduce students to drawing and machining 2-axis parts using FeatureCam and a machine of their choice.</p>
+        	<p>This upgrade will introduce students to drawing and machining 2-axis parts using MasterCAM and a machine of their choice.</p>
 
         <h2>Privileges</h2>
         	<ul>
@@ -62,7 +61,7 @@
         <p>(to be completed in order)</p>
         <ul>
           <li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the CNC Mill 2 upgrade</a>&#42;</li>
-	  <li>Watch the <a href="http://www.youtube.com/playlist?list=PLR0Xdgs8lIrTtbrEpaDbcbICG9XOGGp_2" rel="external">CNC Mill 2 screencast</a> and draw the <a href="/permit/docs/cnc2homework.pdf">homework part</a></li>
+	  <li>Watch the CNC Mill 2 screencast (coming soon) and draw the <a href="/permit/docs/cnc2homework.pdf">homework part</a></li>
 	  <li>Draw, program, and machine <a href="/permit/docs/cnc2test1.pdf">test piece 1</a></li>
 	  <li>Draw, program, and machine <a href="/permit/docs/cnc2test2.pdf">test piece 2</a></li>
         </ul>
@@ -79,7 +78,7 @@
 
     </div> <!-- END OF WRAPPER -->
 
-    <?php include("../../../footer.php"); ?>
+    <?php require ($_SERVER['DOCUMENT_ROOT']."/footer.php"); ?>
 
 
 

@@ -9,7 +9,7 @@
 **********		Title should be the same as the <h1> tag below 		*************
 **********															*************
 *********************************************************************************	-->
-				<?php $subtitle = "CNC Mill 3 Upgrade";?>
+<?php $subtitle = "CNC Mill 3 Upgrade";?>
 
             
     <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
@@ -37,7 +37,7 @@
 	<h1>CNC Mill 3 Upgrade</h1>
               
  	<h2>Overview</h2>
-        	<p>This upgrade will introduce students to drawing and machining 3-axis parts using FeatureCam and a machine of their choice.</p>
+        	<p>This upgrade will introduce students to drawing and machining 3-axis parts using MasterCam and a machine of their choice.</p>
 
         <h2>Privileges</h2>
         	<ul>
@@ -63,7 +63,7 @@
         <p>(to be completed in order)</p>
         <ul>
           <li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the CNC Mill 3 upgrade</a>&#42;</li>
-	  <li>Watch the <a href="https://www.youtube.com/playlist?list=PLR0Xdgs8lIrTKZJFsokOoGvDgxp6kfegT" rel="external">CNC Mill 3 screencast</a></li>
+	  <li>Watch the CNC Mill 3 screencast (coming soon)</li>
 	  <li>Program, and machine test piece 1: <a href="/permit/docs/cnc3test1.SLDPRT">Solidworks model</a>, <a href="/permit/docs/cnc3test1.PDF">Print</a></li>
 	  <li>Program, and machine test piece 2: <a href="/permit/docs/cnc3test2.SLDPRT">Solidworks model</a>, <a href="/permit/docs/cnc3test2.PDF">Print</a></li>
         </ul>

@@ -9,7 +9,7 @@
 **********		Title should be the same as the <h1> tag below 		*************
 **********															*************
 *********************************************************************************	-->
-				<?php $subtitle = "CNC Mill 4 Upgrade";?>
+<?php $subtitle = "CNC Mill 4 Upgrade";?>
 
     <?php require ($_SERVER['DOCUMENT_ROOT']."/functions.php"); ?>
     <?php require ($_SERVER['DOCUMENT_ROOT']."/header.php"); ?>
@@ -36,7 +36,7 @@
 	<h1>CNC Mill 4 Upgrade</h1>
               
  	<h2>Overview</h2>
-        	<p>This upgrade will introduce students to drawing and machining 4-axis parts using FeatureCam and a machine of their choice.</p>
+        	<p>This upgrade will introduce students to drawing and machining 4-axis parts using MasterCam and a machine of their choice.</p>
 
         <h2>Privileges</h2>
         	<ul>
