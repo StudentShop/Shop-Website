@@ -7,13 +7,13 @@
 //Set date ranges for alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
-    ["2017-06-03 00:00", "2017-06-09 23:59:59"],
+    ["2017-07-01 00:00", "2017-07-07 23:59:59"],
 ];
 
 //Set how to display alt_hours_1 here
 $alternative_hours_1 = '<p>
-   Mon-Thurs: 8am - 4pm<br />
-   Fri: Closed<br />
+   Mon-Tues: Closed<br />
+   Wed - Fri: 8am - 4pm<br />
    Weekend: Closed<br />
    See why: <a href="/events/index.php">events page</a></p>';
 
@@ -68,19 +68,18 @@ $closed = '<p>Mon-Fri: Closed<br />
 //Date ranges for semester hours, including accounting for spring breaks, through spring 2021
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $sem_hours = [
-/*2017 Spring break end & spring end*/["2017-03-27 00:00", "2017-05-06 23:59:59"],
-/*2017 Fall start & end*/["2017-09-05 00:00", "2017-12-15 23:59:59"],
-/*2018 Spring start & spring break start*/["2018-01-16 00:00", "2018-03-24 00:00"],
-/*2018 Spring break end & spring end*/["2018-04-02 00:00", "2018-05-03 23:59:59"],
-/*2018 Fall start & end*/["2018-09-04 00:00", "2018-12-14 23:59:59"],
-/*2019 Spring start & spring break start*/["2019-01-14 00:00", "2019-03-16 00:00"],
+/*2017 Fall start & end*/["2017-09-06 00:00", "2017-12-15 23:59:59"],
+/*2018 Spring start & spring break start*/["2018-01-23 00:00", "2018-03-24 00:00"],
+/*2018 Spring break end & spring end*/["2018-04-02 00:00", "2018-05-04 23:59:59"],
+/*2018 Fall start & end*/["2018-09-05 00:00", "2018-12-12 23:59:59"],
+/*2019 Spring start & spring break start*/["2019-01-22 00:00", "2019-03-16 00:00"],
 /*2019 Spring break end & spring end*/["2019-03-25 00:00", "2019-05-02 23:59:59"],
-/*2019 Fall start & end*/["2019-09-03 00:00", "2019-12-13 23:59:59"],
-/*2020 Spring start & spring break start*/["2020-01-13 00:00", "2020-03-14 00:00"],
-/*2020 Spring break end & spring end*/["2020-03-23 00:00", "2020-04-30 23:59:59"],
-/*2020 Fall start & end*/["2020-09-02 00:00", "2020-12-15 59:59:59"],
-/*2021 Spring start & spring break start*/["2021-01-11 00:00", "2021-03-27 00:00"],
-/*2021 Spring break end & spring end*/["2021-04-05 00:00", "2021-04-29 23:59:59"],
+/*2019 Fall start & end*/["2019-09-04 00:00", "2019-12-11 23:59:59"],
+/*2020 Spring start & spring break start*/["2020-01-21 00:00", "2020-03-14 00:00"],
+/*2020 Spring break end & spring end*/["2020-03-23 00:00", "2020-05-01 23:59:59"],
+/*2020 Fall start & end*/["2020-09-02 00:00", "2020-12-10 59:59:59"],
+/*2021 Spring start & spring break start*/["2021-01-19 00:00", "2021-03-27 00:00"],
+/*2021 Spring break end & spring end*/["2021-04-05 00:00", "2021-04-30 23:59:59"],
 ];
 
 //Times the shop is open during Fall/Spring Semester
