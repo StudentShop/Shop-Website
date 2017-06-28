@@ -218,12 +218,6 @@
             <img src="images/gracer.jpg" alt="image of Grace Restle"/>
             <div style="clear:both;"></div>
 
-            <li><p class="name"><a name="charliec"></a>Charlie Chermak</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/charliec.jpg" alt="image of Charlie Chermak"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="eriks"></a>Erik Spitz</p>
                 <p>Student Shop Technician</p>
             </li>
