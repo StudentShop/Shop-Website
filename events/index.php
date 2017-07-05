@@ -53,7 +53,11 @@
 
                 <h2><a name="070317"></a>Shop Closed</h2>
                 <h3>07/03/17 - 07/04/17</h3>
-                    <p>The shop will be closed Monday July 3<sup>rd</sup> and Tuesday July 4<sup>th</sup> for the holiday.</p>                                            
+                    <p>The shop will be closed Monday July 3<sup>rd</sup> and Tuesday July 4<sup>th</sup> for the holiday.</p>
+
+                <h2><a name="070617"></a>Limited Shop Access</h2>
+                <h3>07/06/17</h3>
+                    <p>Machines will not be available for checkout on Thursday July 6<sup>th</sup> as staff attend training. Tool checkout will still be available however.</p>                                                 
               </div>
               <!-- END OF EVENTS -->
             </div>
