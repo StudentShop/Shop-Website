@@ -34,6 +34,7 @@
           <li <?php navclass('permit/info/') || navclass('permit/index.php'); ?>><a href="/permit/index.php" title="Permit Information">Permit Info</a></li>
           <li><a href="https://emu.engr.wisc.edu/emu/">Application</a></li>
           <li <?php navclass('permit/permitFAQ.php'); ?>><a href="/permit/permitFAQ.php">Permit FAQ</a></li>
+          <li <?php navclass('/about/fees.php'); ?>><a href="/about/fees.php">Fees</a></li>
         </ul>
       </li>
 
