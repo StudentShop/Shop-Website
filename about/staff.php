@@ -122,12 +122,6 @@
             <img src="images/aislinno.jpg" alt="image of Aislinn O'Dwyer"/>
             <div style="clear:both;"></div>
 
-           <li><p class="name"><a name="elizabethk"></a>Elizabeth Kotoski</p>
-                <p>Student Shop Technician</p>
-            </li>
-            <img src="images/elizabethk.jpg" alt="image of Elizabeth Kotoski"/>
-            <div style="clear:both;"></div>
-
             <li><p class="name"><a name="margareth"></a>Margaret Heinemann</p>
                 <p>Student Shop Technician</p>
             </li>
