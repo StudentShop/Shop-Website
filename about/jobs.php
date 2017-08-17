@@ -60,11 +60,12 @@ student enrolled in the current semester.</p>
 material along with other miscellaneous tasks.</li>
 						</ul>
             		<h4>Available hours per week:</h4>
-            			<p>10 - 20 hours, between 8am and 11pm Monday - Friday and some Saturdays</p>
+            			<p>Minimum of 10 hours, maximum of 25</p> 
+                        <p>Semester hours are 8am to 9pm Monday - Thursday, Friday 8am - 4pm. During the last few weeks of the semester hours are Monday - Thursday 8am - 10pm, Friday 8am - 4pm, and some Saturdays 9am - 4pm.</p>
 					<h4>Hourly Wage:</h4>
-                    	<p>$9.50 - $10.50</p>
+                    	<p>$10.00 - $12.00 (depending on experience)</p>
 					<h4>How to apply:</h4>
-						<p>Send a cover letter and resume to Larry Wheeler (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#119;&#104;&#101;&#101;&#108;&#101;&#114;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#119;&#104;&#101;&#101;&#108;&#101;&#114;&#64;&#101;&#110;&#103;&#114;&#46;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a>), fax it to (608) 261-1111, or drop off the
+						<p>Send a cover letter and resume to Larry Wheeler (<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#108;&#97;&#114;&#114;&#121;&#46;&#119;&#104;&#101;&#101;&#108;&#101;&#114;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;">&#108;&#97;&#114;&#114;&#121;&#46;&#119;&#104;&#101;&#101;&#108;&#101;&#114;&#64;&#119;&#105;&#115;&#99;&#46;&#101;&#100;&#117;</a>), fax it to (608) 261-1111, or drop off the
 information at the CoE Student Shop <a href="/about/floorplan.php">Rm B1086</a> <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1550+Engineering+Dr+Madison,+WI+53706&sll=43.072304,-89.412133&sspn=0.011176,0.027874&ie=UTF8&hq=&hnear=1550+Engineering+Dr,+Madison,+Dane,+Wisconsin+53706&view=map">1550 Engineering Dr Madison, WI 53706</a></p> 
 
 				<!--<h3>Webmaster</h3>
