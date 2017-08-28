@@ -138,10 +138,8 @@
                       <!-- Add Events Here -->
                       <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
 
-                  <p><a href="/events/index.php#070317">Shop Closed</a>
-                        <br />07/03/17 - 07/04/17</p>
-                  <p><a href="/events/index.php#070617">Limited Shop Access</a>
-                        <br />07/06/17</p>
+                  <p><a href="/events/index.php#090117">Shop Closed</a>
+                        <br />09/01/17 &amp; 09/04/17</p>
                                                              
                   <p class="more"><a href="/events/index.php">View more...</a></p>
                   <!-- Bottom Right Featured Training Area -->

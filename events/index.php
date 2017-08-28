@@ -51,13 +51,9 @@
                 <h3>05/14/15</h3>
                     <p></p>-->
 
-                <h2><a name="070317"></a>Shop Closed</h2>
-                <h3>07/03/17 - 07/04/17</h3>
-                    <p>The shop will be closed Monday July 3<sup>rd</sup> and Tuesday July 4<sup>th</sup> for the holiday.</p>
-
-                <h2><a name="070617"></a>Limited Shop Access</h2>
-                <h3>07/06/17</h3>
-                    <p>Machines will not be available for checkout on Thursday July 6<sup>th</sup> as staff attend training. Tool checkout will still be available however.</p>                                                 
+                <h2><a name="090117"></a>Shop Closed</h2>
+                <h3>09/01/17 &amp; 09/04/17</h3>
+                    <p>The shop will be closed Friday, September 1<sup>st</sup> and Monday, September 4<sup>th</sup> for the holiday.</p>                                                 
               </div>
               <!-- END OF EVENTS -->
             </div>
