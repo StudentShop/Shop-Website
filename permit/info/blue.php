@@ -33,13 +33,14 @@
         <h1>Blue Permit</h1>
 
         <h2>Overview</h2>
-        <p>The blue permit is the most basic permit available. The permit requires minimal training and allows minimal access to shop resources and does <em>not</em> allow access to the shop itself.</p>
+        <p>The blue permit is the most basic permit available. The permit requires minimal training and allows access to the <a href="https://making.engr.wisc.edu/">Grainger Engineering Design Innovation Lab</a>. It provides minimal access to shop resources and does <em>not</em> allow access to the shop itself.</p>
 
         <img src="/permit/images/Application-Process-Blue-Permit.png" alt="Application process for blue permit. Application process takes about 1 day"/>
 
         <h2>Privileges</h2>
         <ul>
-          <li>Checkout tools and equipment</li>
+          <li>Checkout tools and equipment through the shop</li>
+          <li>Use everything in the <a href="https://making.engr.wisc.edu/">Grainger Engineering Design Innovation Lab</a> <em>except</em> equipment that requires an <a href="/permit/info/upgrades/index.php">upgrade</a></li>
           <li>Make <a href="/capabilities/purchases/index.php">purchases</a> through the shop (once an account is set up)</li>
         </ul>
 
@@ -48,7 +49,7 @@
         <ul>
           <li><a href="/permit/application.php">Apply for a blue shop permit</a></li>
           <li>Complete the blue permit quizzes on <a href="https://special.moodle.wisc.edu/prod/course/view.php?id=67" rel="external">Moodle</a></li>
-          <li>Come to the shop and have Student Shop staff create a permit for you</li>
+          <li>Come to the shop or the <a href="https://making.engr.wisc.edu/">Grainger Engineering Design Innovation Lab</a> and have staff create a permit for you</li>
         </ul>
 
         <h2>Time Frame and Deadlines</h2>
@@ -56,8 +57,12 @@
           <li>The blue permit should take no longer than a day to complete</li>
           <li>Like all permits and upgrades, this permit must be completed within 45 days of applying for it. Failure to meet the 45 day deadline will result in all progress towards the permit being removed</li>
         </ul>
+        
+        <h2>Upgrades Available&#42;</h2>
+        <ul>
+          <li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser Cutter)</li>
+        </ul>
         <br />
-
       </div> <!-- END OF MAINCONTENT -->
 
     </div> <!-- END OF WRAPPER -->

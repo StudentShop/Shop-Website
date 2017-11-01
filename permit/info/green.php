@@ -56,8 +56,8 @@
 							<ul>
 								<li>Checkout tools and equipment</li>
 								<li>Make <a href="/capabilities/purchases/index.php">purchases</a> through the shop (once an account is set up)</li>
-								<li>Use everything in the shop
-									<em>except</em> equipment that requires an <a href="/permit/info/upgrades/index.php">upgrade</a></li>
+								<li>Use everything in the shop <em>except</em> equipment that requires an <a href="/permit/info/upgrades/index.php">upgrade</a></li>
+								<li>Use everything in the <a href="https://making.engr.wisc.edu/">Grainger Engineering Design Innovation Lab</a> <em>except</em> equipment that requires an <a href="/permit/info/upgrades/index.php">upgrade</a></li>
 							</ul>
 
 							<h2>Requirements</h2>
@@ -80,7 +80,8 @@
 							<h2>Upgrades&#42;</h2>
 							<ul>
 								<li><a href="/permit/info/upgrades/woodworking_1.php">Woodworking 1 Upgrade</a> (Wood Saws)</li>
-								<li><a href="/permit/info/upgrades/woodworking_2.php">Woodworking 2 Upgrade</a> (Misc. equipment)</li>
+								<li><a href="/permit/info/upgrades/woodworking_2.php">Woodworking 2 Upgrade</a> (Misc. Equipment)</li>
+								<li><a href="/permit/info/upgrades/cnc_router_1.php">CNC Router 1 Upgrade</a> (Laguna)</li>
 								<br />
 
 								<li><a href="/permit/info/upgrades/welding_1.php">Welding 1 Upgrade</a> (MIG)</li>
@@ -89,6 +90,7 @@
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
+								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser Cutter)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/cnc_mill_1.php">CNC Mill 1 Upgrade</a> (Eisen: Conversational)</li>
 								<li><a href="/permit/info/upgrades/cnc_mill_2.php">CNC Mill 2 Upgrade</a> (Eisen, Trak DPM, or Tormach: 2-Axis)</li>

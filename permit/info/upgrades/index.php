@@ -42,12 +42,18 @@
 
 							<h1>Permit Upgrades</h1>
 							<h2>Overview</h2>
-							<p>Permit upgrades are additional training options that can be taken by students who have already obtained a red or green permit. Beyond more training, upgrades also allow greater levels of access to various equipment available in the Student Shop.</p>
+							<p>Permit upgrades are additional training options that can be taken by students who have already obtained a permit. Beyond more training, upgrades also allow greater levels of access to various equipment available in the Student Shop and the <a href="https://making.engr.wisc.edu/">Grainger Engineering Design Innovation Lab</a>.</p>
+
+							<h2>Blue Permit Upgrades Available&#42;</h2>
+							<ul>
+								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser Cutter)</li>
+							</ul>
 
 							<h2>Red Permit Upgrades Available&#42;</h2>
 							<ul>
 								<li><a href="/permit/info/upgrades/woodworking_1.php">Woodworking 1 Upgrade</a> (Wood Saws)</li>
 								<li><a href="/permit/info/upgrades/woodworking_2.php">Woodworking 2 Upgrade</a> (Misc. equipment)</li>
+								<li><a href="/permit/info/upgrades/cnc_router_1.php">CNC Router 1 Upgrade</a> (Laguna)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/welding_1.php">Welding 1 Upgrade</a> (MIG)</li>
 								<li><a href="/permit/info/upgrades/welding_2.php">Welding 2 Upgrade</a> (TIG)</li>
@@ -56,12 +62,14 @@
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
+								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser Cutter)</li>
 							</ul>
 
 							<h2>Green Permit Upgrades Available&#42;</h2>
 							<ul>
 								<li><a href="/permit/info/upgrades/woodworking_1.php">Woodworking 1 Upgrade</a> (Wood Saws)</li>
 								<li><a href="/permit/info/upgrades/woodworking_2.php">Woodworking 2 Upgrade</a> (Misc. equipment)</li>
+								<li><a href="/permit/info/upgrades/cnc_router_1.php">CNC Router 1 Upgrade</a> (Laguna)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/welding_1.php">Welding 1 Upgrade</a> (MIG)</li>
 								<li><a href="/permit/info/upgrades/welding_2.php">Welding 2 Upgrade</a> (TIG)</li>
@@ -69,6 +77,7 @@
 								<br />
 								<li><a href="/permit/info/upgrades/ironworker_1.php">Ironworker 1 Upgrade</a> (Ironworker)</li>
 								<li><a href="/permit/info/upgrades/coldsaw_1.php">Coldsaw 1 Upgrade</a> (Circular cold saw)</li>
+								<li><a href="/permit/info/upgrades/laser_1.php">Laser 1 Upgrade</a> (Laser Cutter)</li>
 								<br />
 								<li><a href="/permit/info/upgrades/cnc_mill_1.php">CNC Mill 1 Upgrade</a> (Eisen: Conversational)</li>
 								<li><a href="/permit/info/upgrades/cnc_mill_2.php">CNC Mill 2 Upgrade</a> (Eisen, Trak DPM, or Tormach: 2-Axis)</li>
