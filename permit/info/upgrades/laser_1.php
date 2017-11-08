@@ -47,7 +47,7 @@
 
 							<h2>Privileges</h2>
 							<ul>
-								<li>Use the <a href="mailto:">Grainger Engineering Design Innovation Lab's</a> ULS laser cutter</li>
+								<li>Use the <a href="https://making.engr.wisc.edu/equipment/">Grainger Engineering Design Innovation Lab's ULS laser cutter</a></li>
 							</ul>
 
 							<h2>Prerequisites</h2>

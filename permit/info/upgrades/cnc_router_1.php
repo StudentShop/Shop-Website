@@ -47,7 +47,7 @@
 
 							<h2>Privileges</h2>
 							<ul>
-								<li>Use the <a href="mailto:">Grainger Engineering Design Innovation Lab's</a> Laguna CNC Router</li>
+								<li>Use the <a href="https://making.engr.wisc.edu/equipment/">Grainger Engineering Design Innovation Lab's Laguna CNC Router</a></li>
 							</ul>
 
 							<h2>Prerequisites</h2>
