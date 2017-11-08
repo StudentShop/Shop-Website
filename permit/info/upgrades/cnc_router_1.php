@@ -59,7 +59,7 @@
 							<p>(must be completed in order)</p>
 							<ul>
 							<li><a href="https://emu.engr.wisc.edu/emu" rel="external">Apply for the CNC Router 1 upgrade</a>&#42;</li>
-							<li>Contact the <a href="mailto:maker-laser@lists.wisc.edu">Grainger Engineering Design Innovation Lab</a> to schedule a training time</li>
+							<li>Contact the <a href="mailto:maker-machines@lists.wisc.edu">Grainger Engineering Design Innovation Lab</a> to schedule a training time</li>
 							</ul>
 							<p>&#42;Individuals will only be able to see upgrades in EMU for which they have completed the prerequisites.</p>
 
