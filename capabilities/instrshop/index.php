@@ -53,7 +53,7 @@
           <li>Waterjet cutting</li>
         </ul>
         <h2>Fabrication Requests</h2>
-        <p>For a cost estimate (labor rate: $70 per hour) please <a href="/about/contact.php">email one of the instrument makers</a> and arrange a time to meet to discuss your project. You email should include the following:</p>
+        <p>For a cost estimate (labor rate: $75 per hour, minimum half hour charge) please <a href="/about/contact.php">email one of the instrument makers</a> and arrange a time to meet to discuss your project. You email should include the following:</p>
           <ul>
             <li>Times you are available</li>
             <li>A CAD drawing or model of your project (if possible)</li>
