@@ -50,10 +50,21 @@
                 <!--<h2><a name="051415"></a>Title</h2>
                 <h3>05/14/15</h3>
                     <p></p>-->
+                <h2><a name="112017"></a>Limited Shop Hours</h2>
+                <h3>11/20/17 - 11/22/17</h3>
+                    <p>The shop will be open from 8am to 4pm Monday, November 20<sup>th</sup> through Wednesday, November 22<sup>nd</sup>.</p>  
 
-                <h2><a name="090117"></a>Shop Closed</h2>
-                <h3>09/01/17 &amp; 09/04/17</h3>
-                    <p>The shop will be closed Friday, September 1<sup>st</sup> and Monday, September 4<sup>th</sup> for the holiday.</p>                                                 
+                <h2><a name="112317"></a>Shop Closed</h2>
+                <h3>11/23/17 &amp; 11/24/17</h3>
+                    <p>The shop will be closed Thursday, November 23<sup>rd</sup> and Friday, November 24<sup>th</sup> for the holiday.</p>
+
+                <h2><a name="112717"></a>Extended Shop Hours</h2>
+                <h3>11/27/17 - 12/12/17</h3>
+                    <p>The shop will be open from 8am to 10pm Monday through Thursday from November 27<sup>th</sup> to December 12<sup>th</sup>.</p> 
+
+                <h2><a name="120217"></a>Saturday Hours</h2>
+                <h3>12/02/17 &amp; 12/09/17</h3>
+                    <p>The shop will be open from 9am to 4pm on December 2<sup>nd</sup> &amp; December 9<sup>th</sup>.</p> 
               </div>
               <!-- END OF EVENTS -->
             </div>
