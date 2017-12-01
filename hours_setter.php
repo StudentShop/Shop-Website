@@ -20,7 +20,7 @@ $alternative_hours_1 = '<p>
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
-    ["2017-11-26 00:00", "2017-11-09 23:59:59"],
+    ["2017-11-26 00:00", "2017-12-09 23:59:59"],
 ];
 
 //Set how to display alt_hours_2 here
