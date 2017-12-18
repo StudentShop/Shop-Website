@@ -7,28 +7,28 @@
 //Set date ranges for alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_1 = [
-    ["2017-11-18 00:00", "2017-11-25 23:59:59"],
+    ["2017-12-17 00:00", "2017-12-22 23:59:59"],
 ];
 
 //Set how to display alt_hours_1 here
 $alternative_hours_1 = '<p>
-   Mon-Wed: 8am - 4pm<br />
-   Thurs-Fri: Closed<br />
+   Mon-Thurs: 8am - 4pm<br />
+   Fri: Closed<br />
    Weekend: Closed<br />
    See why: <a href="/events/index.php">events page</a></p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $alt_hours_2 = [
-    ["2017-11-26 00:00", "2017-12-09 23:59:59"],
+    ["2017-12-30 00:00", "2018-01-05 23:59:59"],
 ];
 
 //Set how to display alt_hours_2 here
 $alternative_hours_2 = '<p>
-   Mon-Thurs: 8am - 10pm<br />
-   Fri: 8am - 4pm<br />
-   Saturday: 9am - 4pm<br />
-   Sunday: Closed</p>';
+   Mon: Closed
+   Tues-Fri: 8am - 4pm<br />
+   Weekend: Closed</p>
+   See why: <a href="/events/index.php">events page</a></p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
@@ -57,7 +57,7 @@ $alternative_hours_4 = '<p>Mon-Thurs: 8am - 10pm<br />
 //alt_hours_3, and alt_hours_4 for that.
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
 $shop_closed = [
-    ["2016-12-24 00:00", "2016-12-30 23:59:59"],
+    ["2017-12-23 00:00", "2017-12-29 23:59:59"],
 ];
 
 //Shop closed all week

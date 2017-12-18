@@ -137,12 +137,8 @@
                     <div class="specialtycontent">
                       <!-- Add Events Here -->
                       <!--<p><a href="/events/index.php">No Upcoming Events</a><br /></p>-->
-                  <p><a href="/events/index.php#112317">Limited Hours</a>
-                        <br />11/20/17 - 11/22/17</p>
-                  <p><a href="/events/index.php#112317">Shop Closed</a>
-                        <br />11/23/17 &amp; 11/24/17</p>
-                  <p><a href="/events/index.php#112717">Extended Hours</a>
-                        <br />11/27/17 - 12/12/17</p>
+                  <p><a href="/events/index.php#122217">Shop Closed</a>
+                        <br />12/22/17 - 01/01/18</p>
                                                              
                   <p class="more"><a href="/events/index.php">View more...</a></p>
                   <!-- Bottom Right Featured Training Area -->
