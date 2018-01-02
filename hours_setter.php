@@ -25,10 +25,10 @@ $alt_hours_2 = [
 
 //Set how to display alt_hours_2 here
 $alternative_hours_2 = '<p>
-   Mon: Closed
+   Mon: Closed<br />
    Tues-Fri: 8am - 4pm<br />
    Weekend: Closed</p>
-   See why: <a href="/events/index.php">events page</a></p>';
+   <p>See why: <a href="/events/index.php">events page</a></p>';
 
 //Set date ranges for a week of different alternative hours following a week of alternative hours here
 //Full timestamp necessary YYYY-MM-DD HH:MM:SS
